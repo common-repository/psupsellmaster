@@ -1,0 +1,158 @@
+/* Priorities Table.
+-------------------------------------------------------------- */
+
+.psupsellmaster-priorities-table .psupsellmaster-priority-field {
+	width: 100%;
+}
+
+.psupsellmaster-priorities-table .psupsellmaster-table-row {
+	align-items: center;
+	border-bottom: 1px solid #ccc;
+	display: flex;
+	flex-direction: column;
+}
+
+.psupsellmaster-priorities-table .psupsellmaster-table-body .psupsellmaster-table-row {
+	padding: 20px 0;
+}
+
+.psupsellmaster-priorities-table .psupsellmaster-table-header {
+	display: none;
+}
+
+.psupsellmaster-priorities-table .psupsellmaster-table-header .psupsellmaster-table-row {
+	min-height: 30px;
+	padding: 0 0 20px;
+}
+
+.psupsellmaster-priorities-table .psupsellmaster-table-header,
+.psupsellmaster-priorities-table .psupsellmaster-table-col-label,
+.psupsellmaster-priorities-table .psupsellmaster-priority-label-mobile {
+	font-weight: 700;
+}
+
+.psupsellmaster-priorities-table .psupsellmaster-table-col {
+	margin: 15px 0;
+	width: 100%;
+}
+
+.psupsellmaster-priorities-table .psupsellmaster-table-col-label {
+	text-align: center;
+}
+
+.psupsellmaster-priorities-table .psupsellmaster-priority-field {
+	margin-top: 5px;
+}
+
+.psupsellmaster-priorities-table .psupsellmaster-max-weight,
+.psupsellmaster-priorities-table .psupsellmaster-range-number {
+	text-align: right;
+}
+
+.psupsellmaster-priorities-table .psupsellmaster-table-col-fields {
+	align-items: center;
+	display: flex;
+	justify-content: space-between;
+}
+
+.psupsellmaster-priorities-table .psupsellmaster-table-col-field:last-child {
+	margin-left: auto;
+}
+
+.psupsellmaster-priorities-table .psupsellmaster-table-col-field .psupsellmaster-max-weight {
+	font-weight: normal;
+	margin-left: 10px;
+}
+
+.psupsellmaster-priorities-table .psupsellmaster-help-tip {
+	vertical-align: text-bottom;
+}
+
+
+/* Priorities Info.
+-------------------------------------------------------------- */
+
+.psupsellmaster-priorities-info {
+	border: 1px solid #ccc;
+	border-radius: 5px;
+	margin-top: 10px;
+	padding: 5px 10px;
+}
+
+.psupsellmaster-priorities-info .psupsellmaster-priorities-info-title {
+	display: block;
+	font-size: 0.8rem;
+	padding: 5px 0;
+}
+
+.psupsellmaster-priorities-info .psupsellmaster-priorities-info-criteria {
+	font-size: 0.7rem;
+	margin: 0;
+	padding: 5px 0;
+}
+
+
+/* Media Query. */
+
+/* // Small devices (landscape phones, 576px and up). */
+@media (min-width: 576px) {}
+
+/* // Medium devices (tablets, 768px and up). */
+@media (min-width: 768px) {}
+
+/* // Large devices (desktops, 992px and up). */
+@media (min-width: 992px) {
+
+	/* Priorities Table.
+	-------------------------------------------------------------- */
+
+	.psupsellmaster-priorities-table .psupsellmaster-priority-label-mobile {
+		display: none;
+	}
+
+	.psupsellmaster-priorities-table .psupsellmaster-table-header {
+		display: block;
+	}
+
+	.psupsellmaster-priorities-table .psupsellmaster-table-row {
+		flex-direction: row;
+	}
+
+	.psupsellmaster-priorities-table .psupsellmaster-table-col {
+		margin: 0;
+	}
+
+	.psupsellmaster-priorities-table .psupsellmaster-table-col {
+		padding: 0 5px;
+	}
+
+	.psupsellmaster-priorities-table .psupsellmaster-table-col-label {
+		min-width: 80px;
+		text-align: left;
+		width: 10%;
+	}
+
+	.psupsellmaster-priorities-table .psupsellmaster-table-col-criteria {
+		min-width: 200px;
+		width: 15%;
+	}
+
+	.psupsellmaster-priorities-table .psupsellmaster-table-col-weight-number {
+		min-width: 150px;
+		width: 10%;
+	}
+
+	.psupsellmaster-priorities-table .psupsellmaster-table-col-weight-slider {
+		flex-grow: 2;
+		min-width: 150px;
+		width: auto;
+	}
+
+	.psupsellmaster-priorities-table .psupsellmaster-priority-field {
+		margin-top: 0;
+	}
+
+}
+
+/* // Extra large devices (large desktops, 1200px and up). */
+@media (min-width: 1200px) {}

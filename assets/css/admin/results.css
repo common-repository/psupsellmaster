@@ -1,0 +1,258 @@
+/* General.
+-------------------------------------------------------------- */
+
+.psupsellmaster-text-green {
+	color: green;
+}
+
+
+/* Others.
+-------------------------------------------------------------- */
+
+.psupsellmaster_btn_date_selector {
+	background-color: #cccccc;
+	border: none;
+	border-radius: 0.5em;
+	color: #0000ff;
+	cursor: pointer;
+	font-size: 100%;
+	font-weight: bold;
+	padding: 0.5em 1em;
+}
+
+.psupsellmaster_btn_date_selector:hover {
+	background-color: #00cccc;
+	text-decoration: underline;
+}
+
+#psupsellmaster_btn_reset_filters {
+	background-color: #ff0000;
+	border: none;
+	border-radius: 0.5em;
+	color: #ffffff;
+	cursor: pointer;
+	font-size: 120%;
+	font-weight: bold;
+	padding: 0.5em 1em;
+	width: calc( 50% - 0.25em );
+}
+
+#psupsellmaster_btn_apply_filters {
+	background-color: #2271b1;
+	border: none;
+	border-radius: 0.5em;
+	color: #ffffff;
+	cursor: pointer;
+	font-size: 120%;
+	font-weight: bold;
+	padding: 0.5em 1em;
+	width: calc( 50% - 0.25em );
+}
+
+#psupsellmaster_filters {
+	margin: 1em 0;
+}
+
+.psupsellmaster_row {
+	padding: 0.25em 0;
+	width: 100%;
+}
+
+.psupsellmaster_price {
+	display: inline-block;
+	width: 24.5%;
+}
+
+.psupsellmaster_right {
+	float: right;
+	width: 24.5%;
+}
+
+#psupsellmaster_search {
+	width: 100%;
+}
+
+#psupsellmaster_upsells_filter {
+	display: none !important;
+}
+
+#psupsellmaster_summary_details {
+	border: 1px solid #000;
+	display: block;
+	font-style: italic;
+	padding: 1em;
+}
+
+#psupsellmaster_summary_details_filters_text_1 {
+	display: none;
+}
+
+.psupsellmaster_summary_main {
+	display: block;
+	width: 100%;
+}
+
+.psupsellmaster_hidden {
+	display: none;
+}
+
+.psupsellmaster_expand_filters_content {
+	border: 1px solid #333;
+	border-radius: 0.3em;
+	cursor: pointer;
+	margin-left: 0.3em;
+	padding: 0.3em;
+}
+
+.psupsellmaster-summary-container {
+	display: flex;
+	flex-direction: column;
+	flex-wrap: wrap;
+	position: relative;
+}
+
+.psupsellmaster-summary-chart-container {
+	flex: 0 0 100%;
+	height: 16em;
+	margin: 1em 0;
+}
+
+.psupsellmaster-summary-tables-container {
+	font-size: 90%;
+}
+
+.psupsellmaster-summary-tables-container {
+	display: flex;
+	flex-direction: row;
+	flex-wrap: wrap;
+}
+
+.psupsellmaster-summary-tables-container .psupsellmaster-summary-table {
+	display: flex;
+	flex-direction: column;
+	justify-content: flex-start;
+	margin: 10px 0;
+	width: 100%;
+}
+
+.psupsellmaster-summary-tables-container .psupsellmaster-summary-table-row {
+	display: flex;
+	min-height: 20px;
+}
+
+.psupsellmaster-summary-tables-container .psupsellmaster-summary-table-header .psupsellmaster-summary-table-row {
+	background-color: #2271b1;
+	color: #fff;
+	font-weight: bold;
+}
+
+.psupsellmaster-summary-tables-container .psupsellmaster-summary-table-header .psupsellmaster-summary-table-col {
+	padding: 0.2em 0.5em;
+}
+
+.psupsellmaster-summary-tables-container .psupsellmaster-summary-table-header .psupsellmaster-summary-table-row {
+	border-radius: 5px;
+}
+
+.psupsellmaster-summary-tables-container .psupsellmaster-summary-table-footer {
+	margin-top: auto;
+}
+
+.psupsellmaster-summary-tables-container .psupsellmaster-summary-table-footer .psupsellmaster-summary-table-row:last-child {
+	border: 1px dotted #000;
+	border-width: 1px 0 0 0;
+	font-weight: bold;
+}
+
+.psupsellmaster-summary-tables-container .psupsellmaster-summary-table-header .psupsellmaster-summary-table-col {
+	text-align: left;
+}
+
+.psupsellmaster-summary-tables-container .psupsellmaster-summary-table-header .psupsellmaster-summary-table-col,
+.psupsellmaster-summary-tables-container .psupsellmaster-summary-table-footer .psupsellmaster-summary-table-col,
+.psupsellmaster-summary-tables-container .psupsellmaster-summary-table-body .psupsellmaster-summary-table-col {
+	padding: 0.1em 0.5em;
+}
+
+.psupsellmaster-summary-tables-container .psupsellmaster-summary-table-footer .psupsellmaster-summary-table-col,
+.psupsellmaster-summary-tables-container .psupsellmaster-summary-table-body .psupsellmaster-summary-table-col {
+	vertical-align: top;
+}
+
+.psupsellmaster-summary-tables-container .psupsellmaster-summary-table-footer .psupsellmaster-summary-table-col:nth-child(1),
+.psupsellmaster-summary-tables-container .psupsellmaster-summary-table-body .psupsellmaster-summary-table-col:nth-child(1) {
+	text-align: left;
+	width: 70%;
+}
+
+.psupsellmaster-summary-tables-container .psupsellmaster-summary-table-footer .psupsellmaster-summary-table-col:nth-child(2),
+.psupsellmaster-summary-tables-container .psupsellmaster-summary-table-body .psupsellmaster-summary-table-col:nth-child(2) {
+	text-align: right;
+	width: 30%;
+}
+
+.psupsellmaster-summary-tables-container .psupsellmaster-summary-table.psupsellmaster-stats-table-top-records .psupsellmaster-summary-table-col:nth-child(1) {
+	width: 85%;
+}
+
+.psupsellmaster-summary-tables-container .psupsellmaster-summary-table.psupsellmaster-stats-table-top-records .psupsellmaster-summary-table-col:nth-child(2) {
+	width: 15%;
+}
+
+
+/* Charts.
+-------------------------------------------------------------- */
+
+.psupsellmaster-chart {
+	height: 300px;
+}
+
+
+/* Filters
+-------------------------------------------------------------- */
+
+#psupsellmaster_filters .psupsellmaster-fields-container {
+	display: flex;
+	flex-wrap: wrap;
+	margin: 0 -0.5em;
+	width: calc( 100% + 1em );
+}
+
+#psupsellmaster_filters .psupsellmaster-field-container {
+	padding: 0.25em 0.5em;
+	width: calc( 100% - 1em );
+}
+
+
+/* Media Query */
+
+
+/* // Small devices (landscape phones, 576px and up) */
+
+@media (min-width: 576px) {}
+
+/* // Medium devices (tablets, 768px and up) */
+
+@media (min-width: 768px) {}
+
+/* // Large devices (desktops, 992px and up) */
+
+@media (min-width: 992px) {
+
+	.psupsellmaster-summary-tables-container .psupsellmaster-summary-table {
+		margin: 10px;
+		width: calc(25% - 20px);
+	}
+
+	/* Filters
+	-------------------------------------------------------------- */
+
+	#psupsellmaster_filters .psupsellmaster-field-container:not(.psupsellmaster-field-container-full-width) {
+		width: calc( 50% - 1em );
+	}
+
+}
+
+/* // Extra large devices (large desktops, 1200px and up) */
+
+@media (min-width: 1200px) {}

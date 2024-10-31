@@ -1,0 +1,199 @@
+/* General.
+-------------------------------------------------------------- */
+
+.psupsellmaster-text-green {
+	color: green;
+}
+
+
+/* Others.
+-------------------------------------------------------------- */
+
+.psupsellmaster_btn_date_selector {
+	font-size: 100%;
+	font-weight: bold;
+	background-color: #cccccc;
+	color: #0000ff;
+	padding: 0.5em 1em;
+	border: none;
+	border-radius: 0.5em;
+	cursor: pointer;
+}
+
+.psupsellmaster_btn_date_selector:hover {
+	background-color: #00cccc;
+	text-decoration: underline;
+}
+
+#psupsellmaster_btn_reset_filters {
+	background-color: #ff0000;
+	color: #ffffff;
+	font-size: 120%;
+	font-weight: bold;
+	padding: 0.5em 1em;
+	border: none;
+	border-radius: 0.5em;
+	cursor: pointer;
+}
+
+#psupsellmaster_btn_apply_filters {
+	background-color: #2271b1;
+	color: #ffffff;
+	font-size: 120%;
+	font-weight: bold;
+	padding: 0.5em 1em;
+	border: none;
+	border-radius: 0.5em;
+	cursor: pointer;
+}
+
+#psupsellmaster_filters {
+	margin: 1em 0;
+}
+
+.psupsellmaster_row {
+	width: 100%;
+	padding: 0.25em 0;
+}
+
+.psupsellmaster_right {
+	float: right;
+}
+
+
+/* DataTables.
+-------------------------------------------------------------- */
+
+.psupsellmaster-table-title-container {
+	align-items: center;
+	display: flex;
+	margin: 15px 0;
+}
+
+.psupsellmaster-table-title {
+	margin: 0 10px 0 0;
+	vertical-align: middle;
+}
+
+.psupsellmaster-datatable-wrapper .psupsellmaster-btn-abort,
+.psupsellmaster-datatable-wrapper .psupsellmaster-btn-recalculate {
+	color: #fff;
+	font-weight: bold;
+}
+
+.psupsellmaster-datatable-wrapper .psupsellmaster-btn-abort,
+.psupsellmaster-datatable-wrapper .psupsellmaster-btn-abort:active:not(.disabled),
+.psupsellmaster-datatable-wrapper .psupsellmaster-btn-abort:hover:not(.disabled),
+.psupsellmaster-datatable-wrapper .psupsellmaster-btn-abort:active:not(.disabled):hover:not(.disabled) {
+	background: #ff0000;
+}
+
+.psupsellmaster-datatable-wrapper .psupsellmaster-btn-recalculate,
+.psupsellmaster-datatable-wrapper .psupsellmaster-btn-recalculate:active:not(.disabled),
+.psupsellmaster-datatable-wrapper .psupsellmaster-btn-recalculate:hover:not(.disabled),
+.psupsellmaster-datatable-wrapper .psupsellmaster-btn-recalculate:active:not(.disabled):hover:not(.disabled) {
+	background: #2271b1;
+}
+
+.psupsellmaster-datatable-wrapper .psupsellmaster-btn-abort {
+	display: none;
+}
+
+.psupsellmaster-datatable-wrapper .psupsellmaster_upsells_edit_view {
+	display: none;
+}
+
+.psupsellmaster-datatable-wrapper .psupsellmaster_upsells_base_product:hover .psupsellmaster_upsells_edit_view {
+	display: block;
+}
+
+.psupsellmaster-datatable-wrapper .dashicons-yes-alt,
+.psupsellmaster-datatable-wrapper .dashicons-dismiss {
+	font-weight: bold;
+	cursor: pointer;
+	border: none;
+}
+
+.psupsellmaster-datatable-wrapper .dashicons-yes-alt {
+	color: #00aa00;
+}
+
+.psupsellmaster-datatable-wrapper .dashicons-dismiss {
+	color: #ff0000;
+}
+
+
+/* Filters.
+-------------------------------------------------------------- */
+
+#psupsellmaster_filters .psupsellmaster-fields-container {
+	display: flex;
+	flex-wrap: wrap;
+	margin: 0 -0.5em;
+	width: calc( 100% + 1em );
+}
+
+#psupsellmaster_filters .psupsellmaster-field-container {
+	padding: 0.25em 0.5em;
+	width: calc( 100% - 1em );
+}
+
+
+/* Progress */
+
+.psupsellmaster-progress {
+	background-color: #b5b5b5;
+	border-radius: 5px;
+	overflow: hidden;
+	position: relative;
+	width: 100%;
+}
+
+.psupsellmaster-progress-bar {
+	background-color: #2196F3;
+	border-radius: 5px;
+	height: 20px;
+	line-height: 20px;
+	max-width: 100%;
+	position: relative;
+	width: 1%;
+}
+
+.psupsellmaster-progress-message {
+	color: #fff;
+	font-weight: bold;
+	height: 20px;
+	line-height: 20px;
+	position: absolute;
+	text-align: center;
+	top: 0;
+	width: 100%;
+}
+
+
+/* Media Query */
+
+/* // Small devices (landscape phones, 576px and up) */
+
+@media (min-width: 576px) {}
+
+/* // Medium devices (tablets, 768px and up) */
+
+@media (min-width: 768px) {}
+
+/* // Large devices (desktops, 992px and up) */
+
+@media (min-width: 992px) {
+
+	/* Filters
+	-------------------------------------------------------------- */
+
+	#psupsellmaster_filters .psupsellmaster-field-container:not(.psupsellmaster-field-container-full-width) {
+		width: calc( 50% - 1em );
+	}
+
+}
+
+/* // Extra large devices (large desktops, 1200px and up) */
+
+@media (min-width: 1200px) {}

@@ -1,0 +1,547 @@
+/* General.
+-------------------------------------------------------------- */
+
+.psupsellmaster-wrap .page-title-action {
+	display: inline-block;
+}
+
+.psupsellmaster-wrap .psupsellmaster-warning {
+	color: #ff0000;
+}
+
+
+/* Sections.
+-------------------------------------------------------------- */
+
+.psupsellmaster-sections {
+	display: flex;
+	flex-wrap: wrap;
+	gap: 15px;
+	margin-top: 15px;
+}
+
+.psupsellmaster-section {
+	background: #fff;
+	border: 1px solid #ddd;
+	border-radius: 5px;
+	box-sizing: border-box;
+	flex-grow: 1;
+	padding: 15px;
+	width: 100%;
+}
+
+.psupsellmaster-section .psupsellmaster-section-title {
+	margin: 0;
+	margin-bottom: 5px;
+}
+
+.psupsellmaster-section .psupsellmaster-section-subtitle {
+	margin: 0;
+	margin-bottom: 15px;
+}
+
+.psupsellmaster-section .psupsellmaster-separator {
+	margin: 15px 0;
+}
+
+.psupsellmaster-subsections {
+	display: flex;
+	flex-direction: column;
+	gap: 30px;
+}
+
+
+/* Sections - Notices.
+-------------------------------------------------------------- */
+
+.psupsellmaster-notices {
+	display: flex;
+	flex-direction: column;
+	gap: 10px;
+	margin: 0;
+	width: 100%;
+}
+
+.psupsellmaster-notice {
+	background: #fff;
+	border: 1px solid #ddd;
+	border-radius: 5px;
+	box-sizing: border-box;
+	margin: 0;
+	padding: 15px;
+	width: 100%;
+}
+
+.psupsellmaster-form-edit-campaign > .psupsellmaster-notices {
+	margin-top: 15px;
+}
+
+.psupsellmaster-tab-section .psupsellmaster-notices:first-child {
+	margin-bottom: 15px;
+}
+
+
+/* Sections - General.
+-------------------------------------------------------------- */
+
+.psupsellmaster-section-general .psupsellmaster-form-group {
+	align-items: flex-start;
+	display: flex;
+	gap: 15px;
+	width: 100%;
+}
+
+.psupsellmaster-section-general .psupsellmaster-form-group > .psupsellmaster-form-field {
+	padding-top: 1.4em;
+}
+
+.psupsellmaster-section-general .psupsellmaster-form-options {
+	width: 100%;
+}
+
+
+/* Sections - Conditions.
+-------------------------------------------------------------- */
+
+.psupsellmaster-section-promotion-conditions .psupsellmaster-subsection .psupsellmaster-tabs .psupsellmaster-tabs {
+	margin-top: 0;
+}
+
+
+/* Sections - Products.
+-------------------------------------------------------------- */
+
+.psupsellmaster-section-products .psupsellmaster-subsection-assign-tags .psupsellmaster-notices {
+	margin-top: 15px;
+}
+
+.psupsellmaster-section-products .psupsellmaster-subsection-products-selection .psupsellmaster-tabs .psupsellmaster-tabs {
+	margin-top: 0;
+}
+
+
+/* Sections - Actions.
+-------------------------------------------------------------- */
+
+.psupsellmaster-section-actions {
+	display: flex;
+	flex-wrap: wrap;
+	gap: 15px;
+	justify-content: space-between;
+	width: 100%;
+}
+
+.psupsellmaster-section-actions .psupsellmaster-action-save-campaign {
+	margin-left: auto;
+	width: 100%;
+}
+
+.psupsellmaster-section-actions .psupsellmaster-action-delete-campaign {
+	align-items: center;
+	display: flex;
+	flex-wrap: wrap;
+	gap: 15px;
+	width: 100%;
+}
+
+.psupsellmaster-section-actions .psupsellmaster-btn-save-campaign,
+.psupsellmaster-section-actions .psupsellmaster-btn-delete-campaign {
+	margin: 0;
+	width: 100%;
+}
+
+.psupsellmaster-section-actions .psupsellmaster-btn-save-campaign {
+	padding: 10px 50px;
+}
+
+
+/* Buttons.
+-------------------------------------------------------------- */
+
+.button.psupsellmaster-btn-danger {
+	background-color: #dd3333;
+	border-color: #9d1616;
+	color: #fff;
+}
+
+.button.psupsellmaster-btn-danger:hover {
+	background-color: #c31d1d;
+	border-color: #770a0a;
+	color: #fff;
+}
+
+.button.psupsellmaster-btn-danger:focus,
+.button.psupsellmaster-btn-danger:active {
+	background: #b11414;
+	border-color: #ee4a4a;
+	box-shadow: 0 0 0 1px #ee4a4a;
+	color: #fff;
+}
+
+
+/* Tabs.
+-------------------------------------------------------------- */
+
+.psupsellmaster-section .psupsellmaster-tabs {
+	margin-top: 15px;
+}
+
+.psupsellmaster-tab-section.ui-tabs-panel {
+	padding: 10px;
+}
+
+.psupsellmaster-tabs .psupsellmaster-link {
+	color: #2271b1;
+}
+
+.psupsellmaster-tabs .psupsellmaster-tab-reset {
+	background-color: #ff0000;
+	text-align: center;
+}
+
+.psupsellmaster-tabs .psupsellmaster-tab-reset .psupsellmaster-btn-reset {
+	color: #fff;
+}
+
+
+/* Tabs - vertical.
+-------------------------------------------------------------- */
+
+.psupsellmaster-tabs-vertical {
+	display: flex;
+	flex-direction: column;
+	padding: 0;
+}
+
+.psupsellmaster-tabs-vertical > .psupsellmaster-tabs-header {
+	background-color: #fafafa;
+	border: none;
+	display: flex;
+	flex-direction: column;
+	padding: 0;
+}
+
+.psupsellmaster-tabs-vertical > .psupsellmaster-tab-section {
+	flex-grow: 1;
+}
+
+.psupsellmaster-tabs-vertical > .psupsellmaster-tabs-header .psupsellmaster-tab {
+	border: none;
+	border-bottom: 1px solid #eee;
+	border-radius: 0;
+	box-sizing: border-box;
+	margin: 0;
+}
+
+.psupsellmaster-tabs-vertical > .psupsellmaster-tabs-header .psupsellmaster-tab:first-child {
+	border-top-left-radius: 3px;
+	border-top-right-radius: 3px;
+}
+
+.psupsellmaster-tabs-vertical > .psupsellmaster-tabs-header .psupsellmaster-tab .ui-tabs-anchor {
+	box-sizing: border-box;
+	padding: 10px 20px;
+	width: 100%;
+}
+
+.psupsellmaster-tabs-vertical .psupsellmaster-tabs-header .psupsellmaster-tab.ui-tabs-active .ui-tabs-anchor,
+.psupsellmaster-tabs-vertical .psupsellmaster-tabs-header .psupsellmaster-tab.ui-state-disabled .ui-tabs-anchor,
+.psupsellmaster-tabs-vertical .psupsellmaster-tabs-header .psupsellmaster-tab.ui-tabs-loading .ui-tabs-anchor {
+	cursor: pointer;
+}
+
+
+/* Tabs - horizontal.
+-------------------------------------------------------------- */
+
+.psupsellmaster-tabs:not(.psupsellmaster-tabs-vertical) .ui-widget-header {
+	background: transparent;
+	border-radius: 0;
+	border-width: 0 0 1px 0;
+	padding: 0;
+}
+
+/* Repeater.
+-------------------------------------------------------------- */
+
+.psupsellmaster-repeater-rows {
+	border: 0 solid #eee;
+	border-width: 1px 0 1px 0;
+	margin: 10px 0;
+}
+
+.psupsellmaster-repeater-row {
+	align-items: flex-end;
+	display: flex;
+	flex-wrap: wrap;
+	gap: 15px;
+	padding: 10px 0;
+}
+
+.psupsellmaster-repeater-row:not(:last-child) {
+	border-bottom: 1px solid #eee;
+}
+
+.psupsellmaster-repeater-btn.button {
+	padding: 0 15px;
+	width: 100%;
+}
+
+.psupsellmaster-repeater-row-content {
+	width: 100%;
+}
+
+.psupsellmaster-repeater-row-actions {
+	width: 100%;
+}
+
+
+/* Banners.
+-------------------------------------------------------------- */
+
+.psupsellmaster-banner-image {
+	display: block;
+	height: auto;
+	max-width: 100%;
+}
+
+.psupsellmaster-banner-actions {
+	display: flex;
+	flex-wrap: wrap;
+	gap: 5px;
+	margin-top: 5px;
+}
+
+.psupsellmaster-banner-actions .button {
+	width: 100%;
+}
+
+
+/* Forms & Fields.
+-------------------------------------------------------------- */
+
+.psupsellmaster-form-container {
+	display: flex;
+	flex-direction: column;
+	gap: 15px;
+}
+
+.psupsellmaster-form-rows {
+	display: flex;
+	flex-direction: column;
+	gap: 15px;
+}
+
+.psupsellmaster-form-row {
+	align-items: flex-end;
+	display: flex;
+	flex-wrap: wrap;
+	gap: 15px;
+}
+
+.psupsellmaster-form-col {
+	display: flex;
+	flex: 1;
+	flex-direction: column;
+	gap: 5px;
+	justify-content: space-between;
+}
+
+.psupsellmaster-form-field {
+	display: flex;
+	flex-basis: 100%;
+	flex-direction: column;
+}
+
+.psupsellmaster-form-field-radio {
+	align-items: center;
+	display: flex;
+	gap: 15px;
+	min-height: 30px;
+}
+
+.psupsellmaster-form-field-coupons-flag {
+	display: flex;
+	flex-direction: column;
+}
+
+.psupsellmaster-form-field-products-flag,
+.psupsellmaster-form-field-locations-flag {
+	flex-direction: row;
+	gap: 15px;
+}
+
+.psupsellmaster-form-field-description .mce-edit-area > iframe {
+	min-height: 150px;
+}
+
+select.psupsellmaster-field {
+	max-width: 100%;
+}
+
+.psupsellmaster-form-warning {
+	flex-basis: 100%;
+}
+
+.psupsellmaster-form-field-synced-tags {
+	width: 100%;
+}
+
+
+/* WP Editor.
+-------------------------------------------------------------- */
+
+.psupsellmaster-sections .wp-editor-tabs {
+	float: left;
+}
+
+.psupsellmaster-sections .wp-switch-editor {
+	margin: 5px 5px 0 0;
+}
+
+
+/* DataTables.
+-------------------------------------------------------------- */
+
+.psupsellmaster-datatable-wrapper .psupsellmaster-list .psupsellmaster-item-action.psupsellmaster-unassign-post-term {
+	color: #b32d2e;
+}
+
+
+/* Media Query */
+
+
+/* // Small devices (landscape phones, 576px and up) */
+
+@media (min-width: 576px) {}
+
+/* // Medium devices (tablets, 768px and up) */
+
+@media (min-width: 768px) {
+
+	/* Forms & Fields.
+	-------------------------------------------------------------- */
+
+	input.psupsellmaster-field:not([type="checkbox"]):not([type="radio"]),
+	select.psupsellmaster-field {
+		min-height: 30px;
+	}
+
+}
+
+/* // Large devices (desktops, 992px and up) */
+
+@media (min-width: 992px) {
+
+	/* Sections - Actions.
+	-------------------------------------------------------------- */
+
+	.psupsellmaster-section-actions .psupsellmaster-action-save-campaign {
+		width: auto;
+	}
+
+	.psupsellmaster-section-actions .psupsellmaster-action-delete-campaign {
+		width: auto;
+	}
+
+	.psupsellmaster-section-actions .psupsellmaster-btn-save-campaign,
+	.psupsellmaster-section-actions .psupsellmaster-btn-delete-campaign {
+		width: auto;
+	}
+
+
+	/* Tabs - vertical.
+	-------------------------------------------------------------- */
+
+	.psupsellmaster-tabs-vertical {
+		flex-direction: row;
+	}
+
+	.psupsellmaster-tabs-vertical > .psupsellmaster-tabs-header {
+		border-right: 1px solid #eee;
+	}
+
+	.psupsellmaster-tabs-vertical > .psupsellmaster-tabs-header .psupsellmaster-tab:first-child {
+		border-top-right-radius: 0;
+	}
+
+	.psupsellmaster-tabs-vertical > .psupsellmaster-tabs-header .psupsellmaster-tab:last-child {
+		border-bottom-left-radius: 3px;
+	}
+
+	.psupsellmaster-tabs-vertical > .psupsellmaster-tabs-header .psupsellmaster-tab-reset {
+		margin-top: auto;
+	}
+
+
+	/* Repeater.
+	-------------------------------------------------------------- */
+
+	.psupsellmaster-repeater-row-content {
+		width: calc( 100% - 115px );
+	}
+
+	.psupsellmaster-repeater-row-actions {
+		width: 100px;
+	}
+
+
+	/* Banners.
+	-------------------------------------------------------------- */
+
+	.psupsellmaster-banner-actions .button {
+		width: auto;
+	}
+
+
+	/* Forms & Fields.
+	-------------------------------------------------------------- */
+
+	.psupsellmaster-section-general .psupsellmaster-form-field,
+	.psupsellmaster-subsection-products-selection .psupsellmaster-form-field,
+	.psupsellmaster-section-locations .psupsellmaster-form-field,
+	.psupsellmaster-section-product-page .psupsellmaster-form-field {
+		flex-grow: 1;
+	}
+
+	.psupsellmaster-subsection-products-selection .psupsellmaster-form-field-products-type,
+	.psupsellmaster-subsection-products-selection .psupsellmaster-form-field-prices-min,
+	.psupsellmaster-subsection-products-selection .psupsellmaster-form-field-prices-max {
+		flex-grow: 0;
+	}
+
+	.psupsellmaster-section-general .psupsellmaster-form-field-title {
+		flex-grow: 3;
+		min-width: 200px;
+	}
+
+	.psupsellmaster-section-general .psupsellmaster-form-field-status,
+	.psupsellmaster-section-general .psupsellmaster-form-field-start-date,
+	.psupsellmaster-section-general .psupsellmaster-form-field-end-date {
+		flex-grow: 2;
+		min-width: 100px;
+	}
+
+	.psupsellmaster-section-general .psupsellmaster-form-field-priority {
+		min-width: 80px;
+	}
+
+	.psupsellmaster-section-general .psupsellmaster-form-field-weekdays {
+		flex-grow: 4;
+		min-width: 200px;
+	}
+
+	.psupsellmaster-subsection-coupons .psupsellmaster-form-field-coupon-code,
+	.psupsellmaster-subsection-coupons .psupsellmaster-form-field-standard-coupon-id {
+		min-width: 300px;
+	}
+
+	.psupsellmaster-form-field {
+		flex-basis: auto;
+	}
+
+}
+
+/* // Extra large devices (large desktops, 1200px and up) */
+
+@media (min-width: 1200px) {}

@@ -1,0 +1,57 @@
+/* Quick Edit
+-------------------------------------------------------------- */
+
+.psupsellmaster-quick-edit-fieldset {
+	border: 1px solid #ddd;
+	font-size: 12px;
+	float: left;
+	margin: 0;
+	padding: 10px;
+	width: calc( 100% - 20px );
+}
+
+.psupsellmaster-quick-edit-fieldset .psupsellmaster-quick-edit-form {
+	margin: 0 -0.5em;
+}
+
+.psupsellmaster-quick-edit-fieldset .psupsellmaster-quick-edit-container {
+	display: flex;
+	flex-wrap: wrap;
+	width: 100%;
+}
+
+.psupsellmaster-quick-edit-fieldset .psupsellmaster-field-container {
+	padding: 0.25em 0.5em;
+	width: calc( 100% - 1em );
+}
+
+.psupsellmaster-quick-edit-fieldset .psupsellmaster-field {
+	max-width: unset;
+}
+
+.psupsellmaster-quick-edit-fieldset .psupsellmaster-field:not(input[type="checkbox"]) {
+	width: 100%;
+}
+
+.psupsellmaster-quick-edit-fieldset .psupsellmaster-field-label {
+	display: inline;
+}
+
+/* Media Query
+-------------------------------------------------------------- */
+
+/* Small devices (landscape phones, 576px and up) */
+@media (min-width: 576px) {}
+
+/* Medium devices (tablets, 768px and up) */
+@media (min-width: 768px) {
+	.psupsellmaster-quick-edit-fieldset .psupsellmaster-field-container {
+		width: calc( 50% - 1em );
+	}
+}
+
+/* Large devices (desktops, 992px and up) */
+@media (min-width: 992px) {}
+
+/* Extra large devices (large desktops, 1200px and up) */
+@media (min-width: 1200px) {}

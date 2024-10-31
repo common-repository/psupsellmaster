@@ -1,0 +1,59 @@
+/* General.
+-------------------------------------------------------------- */
+
+.psupsellmaster-paragraph {
+	margin: 0;
+}
+
+.psupsellmaster-text-green {
+	color: green;
+}
+
+
+/* Lists.
+-------------------------------------------------------------- */
+
+.psupsellmaster-list {
+	display: flex;
+	flex-direction: column;
+	gap: 5px;
+	margin: 0;
+}
+
+.psupsellmaster-list > .psupsellmaster-item {
+	margin: 0;
+}
+
+
+/* Forms.
+-------------------------------------------------------------- */
+
+.psupsellmaster-form .psupsellmaster-form-rows {
+	display: flex;
+	flex-direction: column;
+	gap: 15px;
+}
+
+.psupsellmaster-form .psupsellmaster-form-row {
+	align-items: center;
+	display: flex;
+	gap: 15px;
+	justify-content: flex-start;
+}
+
+.psupsellmaster-form .psupsellmaster-form-col-label {
+	width: 200px;
+}
+
+.psupsellmaster-form .psupsellmaster-form-col-input {
+	flex-grow: 1;
+}
+
+
+/* Settings - Upsells.
+-------------------------------------------------------------- */
+
+.psupsellmaster-settings-upsells .psupsellmaster-paragraph {
+	margin: 0;
+	padding: 0;
+}

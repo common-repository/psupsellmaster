@@ -1,0 +1,243 @@
+/* General popup styles.
+-------------------------------------------------------------- */
+
+#psupsellmaster-modal-add-to-cart .psupsellmaster-modal-body,
+#psupsellmaster-modal-exit-intent .psupsellmaster-modal-body {
+	color: #000;
+}
+
+#psupsellmaster-modal-add-to-cart .psupsellmaster-modal-body .psupsellmaster-modal-btn-close-container,
+#psupsellmaster-modal-exit-intent .psupsellmaster-modal-body .psupsellmaster-modal-btn-close-container {
+	position: absolute;
+	right: 1rem;
+	top: 1rem;
+}
+
+#psupsellmaster-modal-add-to-cart.psupsellmaster-type-carousel .psupsellmaster-modal-body .psupsellmaster-modal-btn-close-container,
+#psupsellmaster-modal-exit-intent.psupsellmaster-type-carousel .psupsellmaster-modal-body .psupsellmaster-modal-btn-close-container {
+	right: 1rem;
+}
+
+#psupsellmaster-modal-add-to-cart .psupsellmaster-modal-body .psupsellmaster-modal-btn-close,
+#psupsellmaster-modal-exit-intent .psupsellmaster-modal-body .psupsellmaster-modal-btn-close {
+	background: transparent;
+	border: 1px solid #ccc;
+	font-size: 2rem;
+	line-height: 0;
+	margin: 0;
+	padding: 0.5rem;
+}
+
+#psupsellmaster-modal-add-to-cart .psupsellmaster-modal-body .psupsellmaster-modal-btn-close svg,
+#psupsellmaster-modal-exit-intent .psupsellmaster-modal-body .psupsellmaster-modal-btn-close svg {
+	height: 2rem;
+	margin: 0;
+	width: 2rem;
+}
+
+#psupsellmaster-modal-add-to-cart .psupsellmaster-modal-body .psupsellmaster-popup-footer,
+#psupsellmaster-modal-exit-intent .psupsellmaster-modal-body .psupsellmaster-popup-footer {
+	margin-top: 15px;
+	text-align: center;
+}
+
+#psupsellmaster-modal-add-to-cart .psupsellmaster-modal-body .psupsellmaster-popup-footer button,
+#psupsellmaster-modal-exit-intent .psupsellmaster-modal-body .psupsellmaster-popup-footer button {
+	padding-left: 30px;
+	padding-right: 30px;
+}
+
+#psupsellmaster-modal-add-to-cart .psupsellmaster.psupsellmaster-product,
+#psupsellmaster-modal-exit-intent .psupsellmaster.psupsellmaster-product {
+	margin-top: 15px;
+}
+
+#psupsellmaster-modal-add-to-cart:not(.psupsellmaster-type-carousel) .psupsellmaster.psupsellmaster-product .psupsellmaster-list,
+#psupsellmaster-modal-exit-intent:not(.psupsellmaster-type-carousel) .psupsellmaster.psupsellmaster-product .psupsellmaster-list {
+	padding: 0;
+}
+
+#psupsellmaster-modal-add-to-cart:not(.psupsellmaster-type-carousel) .psupsellmaster.psupsellmaster-product .psupsellmaster-row,
+#psupsellmaster-modal-exit-intent:not(.psupsellmaster-type-carousel) .psupsellmaster.psupsellmaster-product .psupsellmaster-row {
+	margin: 0 -5px;
+}
+
+
+/* Popup: add to cart.
+-------------------------------------------------------------- */
+
+#psupsellmaster-modal-add-to-cart .psupsellmaster-added-container {
+	align-items: center;
+	display: flex;
+	flex-wrap: wrap;
+	margin: 0 0 30px;
+}
+
+#psupsellmaster-modal-add-to-cart .psupsellmaster-added-headline {
+	flex-basis: 100%;
+	font-size: 1.4rem;
+	line-height: 1.2;
+	margin-bottom: 15px;
+	max-width: calc( 100% - 4rem );
+}
+
+#psupsellmaster-modal-add-to-cart .psupsellmaster-added-tagline {
+	flex-basis: 100%;
+	font-size: 0.9rem;
+	line-height: 1.2;
+	margin-bottom: 30px;
+	max-width: calc( 100% - 4rem );
+}
+
+#psupsellmaster-modal-add-to-cart .psupsellmaster-added-product {
+	display: flex;
+}
+
+#psupsellmaster-modal-add-to-cart .psupsellmaster-added-image {
+	line-height: 0;
+	min-width: 100px;
+	width: 100px;
+}
+
+#psupsellmaster-modal-add-to-cart .psupsellmaster-added-image img {
+	border-radius: 10px;
+}
+
+#psupsellmaster-modal-add-to-cart .psupsellmaster-added-details {
+	display: flex;
+	flex-direction: column;
+	margin-left: 15px;
+}
+
+#psupsellmaster-modal-add-to-cart .psupsellmaster-added-prices {
+	list-style: none;
+	margin: 0;
+}
+
+#psupsellmaster-modal-add-to-cart .psupsellmaster-added-prices .psupsellmaster-list-item {
+	display: flex;
+	gap: 5px;
+}
+
+#psupsellmaster-modal-add-to-cart .psupsellmaster-added-prices .psupsellmaster-price p {
+	margin: 0;
+}
+
+#psupsellmaster-modal-add-to-cart .psupsellmaster-added-checkout {
+	flex-basis: 100%;
+	flex-grow: 1;
+	justify-self: flex-end;
+	margin-top: 10px;
+}
+
+#psupsellmaster-modal-add-to-cart .psupsellmaster-added-btn-checkout {
+	border-radius: 4px;
+	display: inline-block;
+	padding: 12px 24px;
+	text-align: center;
+	width: 100%;
+}
+
+
+/* Popup: exit intent.
+-------------------------------------------------------------- */
+
+#psupsellmaster-modal-exit-intent .psupsellmaster-campaign-banners {
+	width: calc( 100% - 4rem );
+}
+
+
+/* Media Query
+-------------------------------------------------------------- */
+
+/* Small devices (landscape phones, 576px and up) */
+@media (min-width: 576px) {}
+
+/* Medium devices (tablets, 768px and up) */
+@media (min-width: 768px) {}
+
+/* Large devices (desktops, 992px and up) */
+@media (min-width: 992px) {
+
+	/* Popup: add to cart.
+	-------------------------------------------------------------- */
+
+	#psupsellmaster-modal-add-to-cart .psupsellmaster-added-headline {
+		font-size: 2rem;
+	}
+
+	#psupsellmaster-modal-add-to-cart .psupsellmaster-added-tagline {
+		font-size: 1rem;
+	}
+
+	#psupsellmaster-modal-add-to-cart .psupsellmaster-added-product {
+		flex-basis: 80%;
+	}
+
+	#psupsellmaster-modal-add-to-cart .psupsellmaster-added-image {
+		min-width: 120px;
+		width: 120px;
+	}
+
+	#psupsellmaster-modal-add-to-cart .psupsellmaster-added-checkout {
+		align-self: flex-start;
+		flex-basis: calc( 20% - 30px );
+		margin-left: 30px;
+		margin-top: 0;
+	}
+
+}
+
+
+/* Extra large devices (large desktops, 1200px and up) */
+@media (min-width: 1200px) {
+
+	/* General popup styles.
+	-------------------------------------------------------------- */
+
+	#psupsellmaster-modal-add-to-cart.psupsellmaster-type-carousel .psupsellmaster-modal-body .psupsellmaster-modal-btn-close-container,
+	#psupsellmaster-modal-exit-intent.psupsellmaster-type-carousel .psupsellmaster-modal-body .psupsellmaster-modal-btn-close-container {
+		top: calc( 1rem + 15px );
+	}
+
+	#psupsellmaster-modal-add-to-cart.psupsellmaster-type-carousel .psupsellmaster-modal-body .psupsellmaster-modal-btn-close-container,
+	#psupsellmaster-modal-exit-intent.psupsellmaster-type-carousel .psupsellmaster-modal-body .psupsellmaster-modal-btn-close-container {
+		right: calc( 1rem + 50px );
+	}
+
+	#psupsellmaster-modal-add-to-cart .psupsellmaster-modal-lg,
+	#psupsellmaster-modal-add-to-cart .psupsellmaster-modal-xl,
+	#psupsellmaster-modal-exit-intent .psupsellmaster-modal-lg,
+	#psupsellmaster-modal-exit-intent .psupsellmaster-modal-xl {
+		max-width: 992px;
+	}
+
+
+	/* Popup: add to cart.
+	-------------------------------------------------------------- */
+
+	#psupsellmaster-modal-add-to-cart.psupsellmaster-type-carousel .psupsellmaster-added-container {
+		margin: 15px 50px 30px;
+	}
+
+	#psupsellmaster-modal-add-to-cart.psupsellmaster-type-carousel .psupsellmaster-campaign-banner-data {
+		margin-left: 50px;
+		margin-right: 50px;
+	}
+
+
+	/* Popup: exit intent.
+	-------------------------------------------------------------- */
+
+	#psupsellmaster-modal-exit-intent.psupsellmaster-type-carousel .psupsellmaster-campaign-banners {
+		margin-left: 50px;
+		margin-top: 1rem;
+		width: calc( 100% - 100px - 4rem );
+	}
+
+	#psupsellmaster-modal-exit-intent.psupsellmaster-type-carousel .psupsellmaster-campaign-texts {
+		margin-left: 50px;
+		margin-right: 50px;
+	}
+
+}

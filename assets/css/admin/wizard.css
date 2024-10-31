@@ -1,0 +1,350 @@
+/* Wizard.
+-------------------------------------------------------------- */
+
+.psupsellmaster-wizard {
+	align-items: center;
+	display: flex;
+	flex-direction: column;
+	gap: 30px;
+	margin-top: 30px;
+	width: 100%;
+}
+
+.psupsellmaster-wizard .psupsellmaster-wizard-title {
+	font-size: 2rem;
+}
+
+.psupsellmaster-wizard .psupsellmaster-text-center {
+	text-align: center;
+}
+
+
+/* Progress.
+-------------------------------------------------------------- */
+
+.psupsellmaster-wizard-progress {
+	display: flex;
+	gap: 15px;
+	margin: 0;
+	position: relative;
+	width: 100%;
+}
+
+.psupsellmaster-wizard-progress::before {
+	background: #979797;
+	content: '';
+	height: 2px;
+	left: 50%;
+	position: absolute;
+	top: 15px;
+	transform: translateX( -50% );
+	width: 80%;
+}
+
+.psupsellmaster-progress-step {
+	flex: 1;
+	margin: 0;
+}
+
+.psupsellmaster-step-link {
+	align-items: center;
+	display: flex;
+	flex-direction: column;
+	gap: 10px;
+	text-decoration: none;
+}
+
+.psupsellmaster-step-number {
+	align-items: center;
+	background: #979797;
+	border-radius: 50%;
+	color: #fff;
+	display: flex;
+	height: 30px;
+	justify-content: center;
+	position: relative;
+	width: 30px;
+}
+
+.psupsellmaster-progress-step.psupsellmaster-done .psupsellmaster-step-number {
+	background: #03ac36;
+}
+
+.psupsellmaster-progress-step.psupsellmaster-active .psupsellmaster-step-number {
+	background: #027bb7;
+}
+
+.psupsellmaster-step-number::before,
+.psupsellmaster-step-number::after {
+	background: #f0f0f1;
+	content: '';
+	height: 10px;
+	position: absolute;
+	top: 50%;
+	transform: translateY( -50% );
+	width: 10px;
+}
+
+.psupsellmaster-step-number::before {
+	left: -10px;
+}
+
+.psupsellmaster-step-number::after {
+	right: -10px;
+}
+
+.psupsellmaster-step-label {
+	color: #525252;
+}
+
+.psupsellmaster-progress-step.psupsellmaster-done .psupsellmaster-step-label {
+	color: #008327;
+}
+
+.psupsellmaster-progress-step.psupsellmaster-active .psupsellmaster-step-label {
+	color: #03689a;
+}
+
+
+/* Steps.
+-------------------------------------------------------------- */
+
+.psupsellmaster-wizard-step {
+	background: #fff;
+	border: 1px solid #ddd;
+	border-radius: 5px;
+	box-sizing: border-box;
+	flex-grow: 1;
+	margin-top: 15px;
+	overflow: hidden;
+	position: relative;
+	width: 100%;
+}
+
+.psupsellmaster-wizard-step .psupsellmaster-step-header,
+.psupsellmaster-wizard-step .psupsellmaster-step-footer {
+	padding: 15px;
+}
+
+.psupsellmaster-wizard-step .psupsellmaster-step-body {
+	align-items: center;
+	display: flex;
+	flex-direction: column;
+	padding: 15px;
+}
+
+.psupsellmaster-wizard-step .psupsellmaster-step-title {
+	font-size: 1.6rem;
+	line-height: 1.6;
+	margin-top: 0;
+}
+
+.psupsellmaster-wizard-step .psupsellmaster-step-footer {
+	align-items: center;
+	border-top: 1px solid #ddd;
+	display: flex;
+	flex-direction: column-reverse;
+	gap: 5px;
+}
+
+.psupsellmaster-wizard-step .psupsellmaster-step-footer .psupsellmaster-button-start,
+.psupsellmaster-wizard-step .psupsellmaster-step-footer .psupsellmaster-button-skip,
+.psupsellmaster-wizard-step .psupsellmaster-step-footer .psupsellmaster-button-save {
+	align-items: center;
+	display: flex;
+	justify-content: center;
+	min-height: 50px;
+	width: 100%;
+}
+
+.psupsellmaster-wizard-step .psupsellmaster-step-footer .psupsellmaster-button-previous {
+	background: transparent;
+	border: none;
+	color: #7c7e81;
+	margin: 0;
+	padding: 0;
+}
+
+.psupsellmaster-wizard-step .psupsellmaster-step-footer .psupsellmaster-button-skip {
+	margin-left: auto;
+}
+
+.psupsellmaster-wizard-step.psupsellmaster-step-summary .psupsellmaster-step-footer {
+	justify-content: space-between;
+}
+
+.psupsellmaster-step-campaigns .psupsellmaster-step-something1,
+.psupsellmaster-step-campaigns .psupsellmaster-step-something2,
+.psupsellmaster-step-campaigns .psupsellmaster-step-something3 {
+	width: 100%;
+}
+
+
+/* Steps - Campaigns.
+-------------------------------------------------------------- */
+
+.psupsellmaster-step-campaigns .psupsellmaster-step-something2 {
+	margin-top: 15px;
+}
+
+.psupsellmaster-step-campaigns .psupsellmaster-form-fields {
+	display: flex;
+	flex-direction: column;
+	gap: 15px;
+	width: 100%;
+}
+
+.psupsellmaster-step-campaigns .psupsellmaster-form-field {
+	display: flex;
+	flex-direction: column;
+	gap: 5px;
+}
+
+.psupsellmaster-step-campaigns .psupsellmaster-form-label {
+	text-align: left;
+}
+
+.psupsellmaster-step-campaigns .psupsellmaster-field {
+	flex-grow: 1;
+	max-width: unset;
+}
+
+
+/* Steps - Summary.
+-------------------------------------------------------------- */
+
+.psupsellmaster-step-summary .psupsellmaster-step-something2 {
+	width: 100%;
+}
+
+.psupsellmaster-step-summary .psupsellmaster-list {
+	margin: 0;
+}
+
+.psupsellmaster-step-summary .psupsellmaster-list .spinner {
+	float: unset;
+	margin: 0;
+}
+
+.psupsellmaster-step-summary .psupsellmaster-list .psupsellmaster-paragraph {
+	margin: 0;
+}
+
+.psupsellmaster-step-summary .psupsellmaster-list .psupsellmaster-item {
+	align-items: center;
+	border: 1px solid #ddd;
+	border-radius: 5px;
+	display: flex;
+	gap: 15px;
+	margin: 10px 0;
+	padding: 12px;
+}
+
+.psupsellmaster-step-summary .psupsellmaster-list .psupsellmaster-item-icon {
+	font-size: 24px;
+}
+
+.psupsellmaster-step-summary .psupsellmaster-list .psupsellmaster-item[data-status="success"] .psupsellmaster-icon {
+	color: #00aa00;
+}
+
+.psupsellmaster-step-summary .psupsellmaster-list .psupsellmaster-item[data-status="error"] .psupsellmaster-icon {
+	color: #dd3333;
+}
+
+.psupsellmaster-step-summary .psupsellmaster-list .psupsellmaster-item[data-status="warning"] .psupsellmaster-icon {
+	color: #e9ab00;
+}
+
+
+/* Media Query */
+
+/* // Small devices (landscape phones, 576px and up) */
+
+@media (min-width: 576px) {}
+
+/* // Medium devices (tablets, 768px and up) */
+
+@media (min-width: 768px) {}
+
+/* // Large devices (desktops, 992px and up) */
+
+@media (min-width: 992px) {
+
+	/* Progress.
+	-------------------------------------------------------------- */
+
+	.psupsellmaster-wizard-progress {
+		width: 50%;
+	}
+
+
+	/* Steps.
+	-------------------------------------------------------------- */
+
+	.psupsellmaster-wizard-step {
+		width: 80%;
+	}
+
+	.psupsellmaster-wizard-step .psupsellmaster-step-body {
+		padding: 50px;
+	}
+
+	.psupsellmaster-wizard-step .psupsellmaster-step-footer {
+		align-items: center;
+		flex-direction: row;
+		justify-content: flex-end;
+		gap: 15px;
+	}
+
+	.psupsellmaster-wizard-step .psupsellmaster-step-footer .psupsellmaster-button-start,
+	.psupsellmaster-wizard-step .psupsellmaster-step-footer .psupsellmaster-button-skip,
+	.psupsellmaster-wizard-step .psupsellmaster-step-footer .psupsellmaster-button-save {
+		min-width: 200px;
+		width: auto;
+	}
+
+
+	/* Steps - Start.
+	-------------------------------------------------------------- */
+
+	.psupsellmaster-step-start .psupsellmaster-step-something1 {
+		width: 50%;
+	}
+
+
+	/* Steps - Upsells.
+	-------------------------------------------------------------- */
+
+	.psupsellmaster-step-upsells .psupsellmaster-step-something2 {
+		margin-top: 30px;
+		min-width: 80%;
+	}
+
+
+	/* Steps - Campaigns.
+	-------------------------------------------------------------- */
+
+	.psupsellmaster-step-campaigns .psupsellmaster-step-something1,
+	.psupsellmaster-step-campaigns .psupsellmaster-step-something2 {
+		width: 50%;
+	}
+
+	.psupsellmaster-step-campaigns .psupsellmaster-step-something2 {
+		margin-top: 30px;
+	}
+
+
+	/* Steps - Summary.
+	-------------------------------------------------------------- */
+
+	.psupsellmaster-step-summary .psupsellmaster-step-something2 {
+		min-width: 30%;
+		width: auto;
+	}
+
+}
+
+/* // Extra large devices (large desktops, 1200px and up) */
+
+@media (min-width: 1200px) {}

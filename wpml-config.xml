@@ -1,0 +1,20 @@
+<wpml-config>
+	<admin-texts>
+		<key name="psupsellmaster_settings">
+			<key name="*"/>
+		</key>
+	</admin-texts>
+	<widget name="psupsellmaster_widget">
+		<fields>
+			<field type="text" editor_type="LINE">upsell_widget_title</field>
+			<field type="text" editor_type="LINE">upsell_widget_action_text</field>
+			<field type="text" editor_type="LINE">upsell_widget_display</field>
+			<field type="text" editor_type="LINE">upsell_widget_show</field>
+			<field type="text" editor_type="LINE">upsell_widget_max_prod</field>
+			<field type="text" editor_type="LINE">upsell_widget_max_per_author</field>
+			<field type="text" editor_type="LINE">upsell_widget_desc_limit</field>
+			<field type="text" editor_type="LINE">upsell_widget_cart</field>
+			<field type="text" editor_type="LINE">upsell_source_product</field>
+		</fields>
+	</widget>
+</wpml-config>

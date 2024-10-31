@@ -1,0 +1,4361 @@
+# Copyright (C) 2024 UpsellMaster
+# This file is distributed under the same license as the UpsellMaster package.
+msgid ""
+msgstr ""
+"Project-Id-Version: UpsellMaster 2.0.3\n"
+"Report-Msgid-Bugs-To: https://wordpress.org/support/plugin/psupsellmaster\n"
+"POT-Creation-Date: 2024-05-31 01:38:42+00:00\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"PO-Revision-Date: 2024-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+
+#: includes/admin/functions-ajax.php:1598
+#: includes/admin/functions-ajax.php:1604
+msgid "N/A"
+msgstr ""
+
+#: includes/admin/functions-ajax.php:1611
+#: includes/admin/functions-ajax.php:3940
+#: includes/admin/templates/campaigns/edit.php:902
+msgid "Refresh"
+msgstr ""
+
+#: includes/admin/functions-ajax.php:1622
+#: includes/admin/functions-ajax.php:3308
+#: includes/admin/functions-analytics.php:635
+#: includes/admin/functions-analytics.php:672
+#: includes/admin/functions-analytics.php:1370
+#: includes/admin/functions-analytics.php:1407 includes/admin/register.php:738
+#: includes/admin/register.php:793 includes/admin/register.php:1804
+#: includes/admin/templates/results.php:778
+#: includes/admin/templates/settings/more.php:82
+#: includes/pro/admin/functions-campaigns.php:1107
+msgid "View"
+msgstr ""
+
+#: includes/admin/functions-ajax.php:1624
+#: includes/admin/functions-ajax.php:1650
+#: includes/admin/functions-ajax.php:3305
+#: includes/admin/functions-ajax.php:3440
+#: includes/admin/functions-analytics.php:631
+#: includes/admin/functions-analytics.php:668
+#: includes/admin/functions-analytics.php:1366
+#: includes/admin/functions-analytics.php:1403
+#: includes/admin/functions-scores.php:51 includes/admin/register.php:739
+#: includes/admin/register.php:794 includes/admin/register.php:1805
+#: includes/pro/admin/functions-campaigns.php:1104
+#: includes/pro/admin/functions-campaigns.php:1203
+msgid "Edit"
+msgstr ""
+
+#: includes/admin/functions-ajax.php:1626
+#: includes/admin/templates/campaigns/list.php:222
+msgid "Duplicate"
+msgstr ""
+
+#: includes/admin/functions-ajax.php:1631
+#: includes/admin/templates/campaigns/list.php:220
+msgid "Activate"
+msgstr ""
+
+#: includes/admin/functions-ajax.php:1633
+#: includes/admin/templates/campaigns/list.php:221
+msgid "Deactivate"
+msgstr ""
+
+#: includes/admin/functions-ajax.php:1653
+#: includes/admin/functions-ajax.php:3443
+#: includes/pro/admin/functions-campaigns.php:1206
+msgid "Manage"
+msgstr ""
+
+#: includes/admin/functions-ajax.php:1662
+msgid "Show/Hide details."
+msgstr ""
+
+#: includes/admin/functions-ajax.php:1732
+#: includes/admin/functions-analytics.php:728
+#: includes/admin/functions-analytics.php:1463
+#: includes/admin/functions-scores.php:79 includes/admin/register.php:1984
+#: includes/admin/templates/campaigns/templates.php:47
+#: includes/admin/templates/results.php:488
+#: includes/admin/templates/results.php:528 includes/functions.php:1552
+#: includes/functions.php:4774 includes/functions.php:4807
+#: includes/functions.php:4840
+msgid "Unknown"
+msgstr ""
+
+#: includes/admin/functions-ajax.php:1812
+msgid "All"
+msgstr ""
+
+#: includes/admin/functions-ajax.php:2158
+#: includes/admin/functions-ajax.php:2953
+#: includes/admin/functions-campaigns.php:2446
+#: includes/admin/templates/campaigns/list.php:209
+#: includes/admin/templates/campaigns/view.php:146
+msgid "Net Earnings"
+msgstr ""
+
+#: includes/admin/functions-ajax.php:2159
+#: includes/admin/functions-ajax.php:2954
+msgid "Carts"
+msgstr ""
+
+#: includes/admin/functions-ajax.php:2160
+#: includes/admin/functions-ajax.php:2955
+#: includes/admin/functions-campaigns.php:2410
+#: includes/admin/templates/campaigns/list.php:207
+#: includes/admin/templates/results.php:294
+msgid "Orders"
+msgstr ""
+
+#: includes/admin/functions-ajax.php:2712
+msgid "Abandoned"
+msgstr ""
+
+#: includes/admin/functions-ajax.php:2714
+msgid "Order"
+msgstr ""
+
+#: includes/admin/functions-ajax.php:3310
+#: includes/admin/templates/campaigns/edit.php:591
+#: includes/admin/templates/campaigns/edit.php:703
+#: includes/admin/templates/campaigns/edit.php:857
+#: includes/admin/templates/campaigns/edit.php:1163
+#: includes/admin/templates/campaigns/edit.php:1275
+#: includes/admin/templates/campaigns/edit.php:1429
+#: includes/pro/admin/templates/campaigns/tags.php:189
+#: includes/pro/admin/templates/campaigns/tags.php:253
+#: includes/pro/admin/templates/campaigns/tags.php:347
+msgid "Remove"
+msgstr ""
+
+#: includes/admin/functions-ajax.php:3376
+#: includes/pro/admin/functions-campaigns.php:1303
+msgid "User"
+msgstr ""
+
+#: includes/admin/functions-ajax.php:3379 includes/functions.php:1469
+#: includes/pro/admin/functions-campaigns.php:1306
+#: includes/pro/functions.php:106
+msgid "Vendor"
+msgstr ""
+
+#: includes/admin/functions-ajax.php:3383
+#: includes/pro/admin/functions-campaigns.php:1310
+msgid "Shop"
+msgstr ""
+
+#: includes/admin/functions-ajax.php:3445
+#: includes/pro/admin/functions-campaigns.php:1208
+msgid "Unassign"
+msgstr ""
+
+#: includes/admin/functions-ajax.php:3793
+msgid "Something went wrong."
+msgstr ""
+
+#: includes/admin/functions-ajax.php:3833
+msgid "The template has been saved."
+msgstr ""
+
+#: includes/admin/functions-analytics.php:436
+#: includes/admin/functions-analytics.php:505
+msgid "Total Upsells"
+msgstr ""
+
+#: includes/admin/functions-analytics.php:437
+#: includes/admin/functions-analytics.php:506
+#: includes/admin/templates/results.php:238
+#: includes/admin/templates/settings/general.php:86
+msgid "Number of Upsells"
+msgstr ""
+
+#: includes/admin/functions-analytics.php:728
+#: includes/admin/functions-analytics.php:1463 includes/admin/register.php:1984
+msgid "Last Run Date"
+msgstr ""
+
+#: includes/admin/functions-analytics.php:1177
+#: includes/admin/functions-analytics.php:1246
+msgid "Total Amount"
+msgstr ""
+
+#: includes/admin/functions-analytics.php:1178
+#: includes/admin/functions-analytics.php:1247
+#: includes/pro/admin/templates/analytics.php:250
+#: includes/pro/admin/templates/analytics.php:463
+msgid "Number of Sales"
+msgstr ""
+
+#: includes/admin/functions-campaigns.php:32
+#: includes/admin/functions-pages.php:66 includes/admin/functions-pages.php:67
+#: includes/admin/functions-settings.php:42
+#: includes/admin/templates/campaigns/edit.php:303
+#: includes/admin/templates/campaigns/list.php:39
+#: includes/admin/templates/campaigns/list.php:171
+#: includes/admin/templates/campaigns/view.php:41
+#: includes/admin/templates/campaigns/view.php:56
+#: includes/admin/templates/results.php:444
+#: includes/admin/templates/settings/campaigns.php:18
+#: includes/admin/templates/wizard/campaigns.php:101
+#: includes/admin/templates/wizard.php:18 includes/functions.php:4717
+#: includes/pro/admin/functions-settings.php:59
+#: includes/pro/admin/templates/campaigns/tags.php:45
+#: includes/pro/admin/templates/campaigns/tags.php:461
+#: includes/pro/admin/templates/campaigns/tags.php:524
+msgid "Campaigns"
+msgstr ""
+
+#: includes/admin/functions-campaigns.php:37
+msgid "Add New Campaign"
+msgstr ""
+
+#. translators: Admin screen title. 1: The campaign action label. 2: The
+#. campaign title.
+
+#: includes/admin/functions-campaigns.php:58
+msgid "%1$s &#8220;%2$s&#8221;"
+msgstr ""
+
+#: includes/admin/functions-campaigns.php:63
+#: includes/admin/templates/campaigns/edit.php:298
+#: includes/admin/templates/campaigns/view.php:42
+#: includes/admin/templates/campaigns/view.php:57
+msgid "Edit Campaign"
+msgstr ""
+
+#: includes/admin/functions-campaigns.php:68
+#: includes/admin/templates/campaigns/edit.php:305
+#: includes/admin/templates/campaigns/view.php:37
+msgid "View Campaign"
+msgstr ""
+
+#: includes/admin/functions-campaigns.php:73
+#: includes/admin/templates/campaigns/edit.php:896
+#: includes/admin/templates/campaigns/edit.php:908
+#: includes/admin/templates/campaigns/edit.php:978
+#: includes/admin/templates/campaigns/edit.php:992
+#: includes/functions-campaigns.php:5621 includes/functions-campaigns.php:5627
+#: includes/pro/admin/templates/campaigns/tags.php:49
+#: includes/pro/admin/templates/campaigns/tags.php:367
+#: includes/pro/admin/templates/campaigns/tags.php:419
+#: includes/pro/admin/templates/campaigns/tags.php:525
+msgid "UpsellMaster Tags"
+msgstr ""
+
+#: includes/admin/functions-campaigns.php:107
+#: includes/admin/functions-campaigns.php:4055
+#: includes/admin/templates/campaigns/edit.php:296
+#: includes/admin/templates/campaigns/list.php:43
+#: includes/admin/templates/campaigns/list.php:188
+msgid "New Campaign"
+msgstr ""
+
+#: includes/admin/functions-campaigns.php:1373
+#: includes/admin/functions-campaigns.php:1477
+msgid "Auto-generated by UpsellMaster"
+msgstr ""
+
+#: includes/admin/functions-campaigns.php:2366
+msgid "# Campaigns"
+msgstr ""
+
+#: includes/admin/functions-campaigns.php:2370
+msgid "# Impressions"
+msgstr ""
+
+#: includes/admin/functions-campaigns.php:2374
+msgid "# Clicks"
+msgstr ""
+
+#: includes/admin/functions-campaigns.php:2378
+msgid "CTR"
+msgstr ""
+
+#: includes/admin/functions-campaigns.php:2382
+msgid "# Add to Cart"
+msgstr ""
+
+#: includes/admin/functions-campaigns.php:2386
+#: includes/admin/templates/campaigns/list.php:206
+msgid "Add to Cart"
+msgstr ""
+
+#: includes/admin/functions-campaigns.php:2390
+msgid "# Impressions per Campaign"
+msgstr ""
+
+#: includes/admin/functions-campaigns.php:2394
+msgid "# Clicks per Campaign"
+msgstr ""
+
+#: includes/admin/functions-campaigns.php:2398
+msgid "# Add to Cart per Campaign"
+msgstr ""
+
+#: includes/admin/functions-campaigns.php:2402
+msgid "# Carts"
+msgstr ""
+
+#: includes/admin/functions-campaigns.php:2406
+msgid "# Orders"
+msgstr ""
+
+#: includes/admin/functions-campaigns.php:2414
+msgid "# Free Orders"
+msgstr ""
+
+#: includes/admin/functions-campaigns.php:2418
+msgid "# Paid Orders"
+msgstr ""
+
+#: includes/admin/functions-campaigns.php:2422
+msgid "Paid Orders"
+msgstr ""
+
+#: includes/admin/functions-campaigns.php:2426
+#: includes/admin/templates/campaigns/view.php:143
+msgid "Gross Earnings"
+msgstr ""
+
+#: includes/admin/functions-campaigns.php:2430
+msgid "# Taxes"
+msgstr ""
+
+#: includes/admin/functions-campaigns.php:2434
+#: includes/admin/templates/campaigns/view.php:144
+msgid "Taxes"
+msgstr ""
+
+#: includes/admin/functions-campaigns.php:2438
+msgid "# Discounts"
+msgstr ""
+
+#: includes/admin/functions-campaigns.php:2442
+#: includes/admin/templates/campaigns/list.php:208
+#: includes/admin/templates/campaigns/view.php:145
+msgid "Discounts"
+msgstr ""
+
+#: includes/admin/functions-campaigns.php:2450
+msgid "Net Earnings per Campaign"
+msgstr ""
+
+#: includes/admin/functions-campaigns.php:2454
+#: includes/admin/templates/campaigns/list.php:211
+#: includes/admin/templates/campaigns/view.php:148
+msgid "AOV"
+msgstr ""
+
+#: includes/admin/functions-campaigns.php:2458
+msgid "Cart Abandonment"
+msgstr ""
+
+#: includes/admin/functions-campaigns.php:3465
+msgid "Black Friday"
+msgstr ""
+
+#: includes/admin/functions-campaigns.php:3475
+msgid "Black Friday Alert!"
+msgstr ""
+
+#: includes/admin/functions-campaigns.php:3476
+msgid "Limited-time offers, huge discounts, and exclusive deals just a click away."
+msgstr ""
+
+#: includes/admin/functions-campaigns.php:3477
+msgid "Don't miss out - shop now!"
+msgstr ""
+
+#: includes/admin/functions-campaigns.php:3489
+#: includes/admin/functions-campaigns.php:3527
+#: includes/admin/functions-campaigns.php:3566
+#: includes/admin/functions-campaigns.php:3604
+#: includes/admin/functions-campaigns.php:3642
+#: includes/pro/admin/functions-campaigns.php:56
+#: includes/pro/admin/functions-campaigns.php:94
+#: includes/pro/admin/functions-campaigns.php:132
+#: includes/pro/admin/functions-campaigns.php:170
+#: includes/pro/admin/functions-campaigns.php:208
+#: includes/pro/admin/functions-campaigns.php:246
+#: includes/pro/admin/functions-campaigns.php:283
+#: includes/pro/admin/functions-campaigns.php:320
+#: includes/pro/admin/functions-campaigns.php:358
+#: includes/pro/admin/functions-campaigns.php:396
+#: includes/pro/admin/functions-campaigns.php:434
+#: includes/pro/admin/functions-campaigns.php:473
+#: includes/pro/admin/functions-campaigns.php:511
+#: includes/pro/admin/functions-campaigns.php:549
+#: includes/pro/admin/functions-campaigns.php:587
+msgid "Created from Template"
+msgstr ""
+
+#: includes/admin/functions-campaigns.php:3504
+msgid "Cyber Monday"
+msgstr ""
+
+#: includes/admin/functions-campaigns.php:3514
+msgid "Cyber Monday Alert!"
+msgstr ""
+
+#: includes/admin/functions-campaigns.php:3515
+msgid "Score incredible discounts on gadgets, electronics, and more. Embrace the digital revolution and shop smart!"
+msgstr ""
+
+#: includes/admin/functions-campaigns.php:3542
+msgid "Cyber Week"
+msgstr ""
+
+#: includes/admin/functions-campaigns.php:3552
+msgid "Cyber Week Spectacular!"
+msgstr ""
+
+#: includes/admin/functions-campaigns.php:3553
+msgid "Unlock the future of savings with electrifying deals on all things tech and more."
+msgstr ""
+
+#: includes/admin/functions-campaigns.php:3554
+msgid "Don't miss out on this digital shopping extravaganza!"
+msgstr ""
+
+#: includes/admin/functions-campaigns.php:3581
+msgid "Christmas Day"
+msgstr ""
+
+#: includes/admin/functions-campaigns.php:3591
+msgid "Merry Christmas! Unwrap the Joy!"
+msgstr ""
+
+#: includes/admin/functions-campaigns.php:3592
+msgid "Celebrate this magical day with extraordinary discounts on the perfect gifts. Make your Christmas merry and bright with our festive offers. Shop now and spread the joy!"
+msgstr ""
+
+#: includes/admin/functions-campaigns.php:3619
+msgid "New Year's Day"
+msgstr ""
+
+#: includes/admin/functions-campaigns.php:3629
+msgid "New Year, New Savings!"
+msgstr ""
+
+#: includes/admin/functions-campaigns.php:3630
+msgid "Step into the new year in style with amazing discounts on our latest collection. Start the year off right with a shopping spree!"
+msgstr ""
+
+#: includes/admin/functions-campaigns.php:4072
+#: includes/admin/templates/popups/newsletter.php:99
+#: includes/functions-popups.php:36 includes/functions-popups.php:60
+msgid "Close"
+msgstr ""
+
+#: includes/admin/functions-campaigns.php:4083
+msgid "Save Template"
+msgstr ""
+
+#: includes/admin/functions-campaigns.php:4100
+#: includes/admin/templates/campaigns/edit.php:328
+#: includes/admin/templates/settings/page-checkout.php:110
+#: includes/admin/templates/settings/page-product.php:116
+#: includes/admin/templates/settings/popup-add-to-cart.php:148
+#: includes/admin/templates/wizard/campaigns.php:108
+#: includes/pro/admin/templates/settings/page-purchase-receipt.php:111
+#: includes/pro/admin/templates/settings/popup-exit-intent.php:122
+#: includes/pro/class-psupsellmaster-widget.php:152
+msgid "Title"
+msgstr ""
+
+#: includes/admin/functions-campaigns.php:4107
+#: includes/admin/templates/campaigns/edit.php:1888
+msgid "Save"
+msgstr ""
+
+#: includes/admin/functions-campaigns.php:4108
+#: includes/admin/templates/popups/feedback-v1.php:93
+#: includes/admin/templates/popups/feedback-v2.php:188
+#: includes/admin/templates/popups/newsletter.php:90
+#: includes/admin/templates/settings.php:84
+msgid "Cancel"
+msgstr ""
+
+#: includes/admin/functions-campaigns.php:4130
+msgid "New Template"
+msgstr ""
+
+#: includes/admin/functions-campaigns.php:4816
+msgid "left"
+msgstr ""
+
+#: includes/admin/functions-edit-product.php:64
+msgid "UpsellMaster - Upsells"
+msgstr ""
+
+#: includes/admin/functions-edit-product.php:72
+msgid "UpsellMaster - Campaigns"
+msgstr ""
+
+#: includes/admin/functions-edit-product.php:98
+#: includes/admin/functions-products.php:40
+#: includes/admin/templates/products.php:141
+#: includes/admin/templates/products.php:155
+#: includes/admin/templates/settings/page-checkout.php:49
+#: includes/admin/templates/settings/page-product.php:55
+#: includes/admin/templates/settings/popup-add-to-cart.php:57
+#: includes/pro/admin/templates/settings/page-purchase-receipt.php:49
+#: includes/pro/admin/templates/settings/popup-exit-intent.php:55
+msgid "Enable"
+msgstr ""
+
+#: includes/admin/functions-edit-product.php:105
+#: includes/admin/templates/settings/campaigns.php:205
+#: includes/admin/templates/settings/general.php:240
+#: includes/admin/templates/settings/general.php:254
+#: includes/admin/templates/settings/general.php:267
+#: includes/admin/templates/settings/general.php:281
+#: includes/admin/templates/settings/page-checkout.php:55
+#: includes/admin/templates/settings/page-product.php:61
+#: includes/admin/templates/settings/popup-add-to-cart.php:63
+#: includes/admin/templates/settings/upsells.php:94
+#: includes/admin/templates/settings/upsells.php:207
+#: includes/pro/admin/templates/settings/page-purchase-receipt.php:55
+#: includes/pro/admin/templates/settings/popup-exit-intent.php:61
+#: includes/pro/class-psupsellmaster-widget.php:194
+msgid "Yes"
+msgstr ""
+
+#: includes/admin/functions-edit-product.php:138
+#: includes/admin/functions-pages.php:22 includes/admin/functions-pages.php:23
+#: includes/admin/functions-pages.php:40
+#: includes/admin/functions-products.php:33
+#: includes/admin/templates/results.php:230
+#: includes/admin/templates/results.php:430
+#: includes/admin/templates/settings/page-checkout.php:37
+#: includes/admin/templates/settings/page-product.php:43
+#: includes/admin/templates/settings/popup-add-to-cart.php:45
+#: includes/admin/templates/wizard/upsells.php:51
+#: includes/admin/templates/wizard.php:16 includes/functions.php:4715
+#: includes/pro/admin/templates/settings/page-purchase-receipt.php:37
+#: includes/pro/admin/templates/settings/popup-exit-intent.php:43
+#: includes/pro/class-psupsellmaster-widget.php:147
+msgid "Upsells"
+msgstr ""
+
+#: includes/admin/functions-edit-product.php:186
+#: includes/admin/functions-products.php:64 includes/admin/register.php:1498
+msgid "Preferred Products"
+msgstr ""
+
+#: includes/admin/functions-edit-product.php:242
+#: includes/admin/functions-scores.php:137
+msgid "Tags"
+msgstr ""
+
+#: includes/admin/functions-pages.php:39
+msgid "Setup Wizard"
+msgstr ""
+
+#: includes/admin/functions-pages.php:75 includes/admin/functions-pages.php:76
+#: includes/admin/templates/campaigns/edit.php:439
+#: includes/admin/templates/campaigns/edit.php:1056
+#: includes/admin/templates/campaigns/list.php:201
+#: includes/pro/admin/templates/campaigns/tags.php:72
+#: includes/pro/admin/templates/campaigns/tags.php:449
+#: includes/pro/admin/templates/campaigns/tags.php:517
+msgid "Products"
+msgstr ""
+
+#: includes/admin/functions-pages.php:84 includes/admin/functions-pages.php:85
+msgid "Settings"
+msgstr ""
+
+#: includes/admin/functions-scores.php:76
+msgid "Simple"
+msgstr ""
+
+#: includes/admin/functions-scores.php:76
+msgid "Variable"
+msgstr ""
+
+#: includes/admin/functions-scores.php:124
+msgid "Edit Download"
+msgstr ""
+
+#: includes/admin/functions-scores.php:128
+msgid "Upsell"
+msgstr ""
+
+#: includes/admin/functions-scores.php:128
+msgid "View Download"
+msgstr ""
+
+#: includes/admin/functions-scores.php:132
+msgid "Categories"
+msgstr ""
+
+#: includes/admin/functions-scores.php:142
+msgid "Vendor Name"
+msgstr ""
+
+#: includes/admin/functions-scores.php:146 includes/functions.php:1402
+#: includes/functions.php:1474
+msgid "Lifetime Sales"
+msgstr ""
+
+#: includes/admin/functions-scores.php:149
+msgid "Product Type"
+msgstr ""
+
+#: includes/admin/functions-scores.php:153
+msgid "Price"
+msgstr ""
+
+#: includes/admin/functions-scores.php:274
+msgid "Total Score"
+msgstr ""
+
+#: includes/admin/functions-scripts.php:208
+msgid "Are you sure you want to delete the selected campaigns?"
+msgstr ""
+
+#: includes/admin/functions-scripts.php:209
+msgid "Please select some campaigns first."
+msgstr ""
+
+#: includes/admin/functions-scripts.php:211
+#: includes/admin/functions-scripts.php:240
+#: includes/admin/functions-scripts.php:272
+#: includes/admin/functions-scripts.php:346
+#: includes/admin/functions-scripts.php:377
+#: includes/pro/admin/functions-scripts.php:35
+#: includes/pro/admin/functions-scripts.php:63
+msgid "Copy"
+msgstr ""
+
+#: includes/admin/functions-scripts.php:212
+#: includes/admin/functions-scripts.php:241
+#: includes/admin/functions-scripts.php:273
+#: includes/admin/functions-scripts.php:347
+#: includes/admin/functions-scripts.php:378
+#: includes/pro/admin/functions-scripts.php:36
+#: includes/pro/admin/functions-scripts.php:64
+msgid "CSV"
+msgstr ""
+
+#: includes/admin/functions-scripts.php:213
+#: includes/admin/functions-scripts.php:242
+#: includes/admin/functions-scripts.php:274
+#: includes/admin/functions-scripts.php:348
+#: includes/admin/functions-scripts.php:379
+#: includes/pro/admin/functions-scripts.php:37
+#: includes/pro/admin/functions-scripts.php:65
+msgid "Excel"
+msgstr ""
+
+#: includes/admin/functions-scripts.php:214
+#: includes/admin/functions-scripts.php:243
+#: includes/admin/functions-scripts.php:275
+#: includes/admin/functions-scripts.php:349
+#: includes/admin/functions-scripts.php:380
+#: includes/pro/admin/functions-scripts.php:38
+#: includes/pro/admin/functions-scripts.php:66
+msgid "Print"
+msgstr ""
+
+#: includes/admin/functions-scripts.php:215
+#: includes/admin/functions-scripts.php:244
+#: includes/admin/functions-scripts.php:276
+#: includes/admin/functions-scripts.php:350
+#: includes/admin/functions-scripts.php:381
+#: includes/admin/templates/settings/page-checkout.php:88
+#: includes/admin/templates/settings/page-product.php:94
+#: includes/admin/templates/settings/popup-add-to-cart.php:110
+#: includes/pro/admin/functions-scripts.php:67
+#: includes/pro/admin/templates/settings/page-purchase-receipt.php:89
+#: includes/pro/admin/templates/settings/popup-exit-intent.php:108
+#: includes/pro/class-psupsellmaster-widget.php:145
+msgid "Show"
+msgstr ""
+
+#: includes/admin/functions-scripts.php:245
+#: includes/admin/templates/campaigns/edit.php:362
+#: includes/admin/templates/campaigns/edit.php:391
+#: includes/admin/templates/campaigns/edit.php:582
+#: includes/admin/templates/campaigns/edit.php:694
+#: includes/admin/templates/campaigns/edit.php:848
+#: includes/admin/templates/campaigns/edit.php:953
+#: includes/admin/templates/campaigns/edit.php:1154
+#: includes/admin/templates/campaigns/edit.php:1266
+#: includes/admin/templates/campaigns/edit.php:1420
+#: includes/admin/templates/campaigns/edit.php:1660
+#: includes/pro/admin/templates/campaigns/tags.php:180
+#: includes/pro/admin/templates/campaigns/tags.php:244
+#: includes/pro/admin/templates/campaigns/tags.php:338
+#: includes/pro/admin/templates/campaigns/tags.php:394
+msgid "Select"
+msgstr ""
+
+#: includes/admin/functions-scripts.php:246
+msgid "Choose a Banner"
+msgstr ""
+
+#: includes/admin/functions-scripts.php:301
+msgid "Are you sure you want to delete it?"
+msgstr ""
+
+#: includes/admin/functions-scripts.php:375
+#: includes/pro/admin/functions-scripts.php:33
+msgid "Abort"
+msgstr ""
+
+#: includes/admin/functions-scripts.php:376
+#: includes/pro/admin/functions-scripts.php:34
+msgid "Recalculate"
+msgstr ""
+
+#: includes/admin/functions-scripts.php:382
+msgid "You should select bulk action"
+msgstr ""
+
+#: includes/admin/functions-scripts.php:383
+msgid "Do you want to recalculate upsells for selected products?"
+msgstr ""
+
+#: includes/admin/functions-scripts.php:384
+msgid "Do you want to recalculate upsells for all products?"
+msgstr ""
+
+#: includes/admin/functions-scripts.php:385
+msgid "You should select some products"
+msgstr ""
+
+#. translators: 1: maximum input length.
+
+#: includes/admin/functions-scripts.php:411
+msgid "Please enter a value that is no more than %d."
+msgstr ""
+
+#: includes/admin/functions-settings.php:22
+#: includes/admin/templates/settings/general.php:80
+#: includes/pro/admin/functions-settings.php:23
+msgid "General Settings"
+msgstr ""
+
+#: includes/admin/functions-settings.php:26
+#: includes/admin/templates/settings/upsells.php:80
+#: includes/pro/admin/functions-settings.php:27
+msgid "Algorithm Logic"
+msgstr ""
+
+#: includes/admin/functions-settings.php:30
+#: includes/admin/templates/campaigns/edit.php:1451
+#: includes/admin/templates/popups/feedback-v2.php:82
+#: includes/admin/templates/results.php:358
+#: includes/admin/templates/settings/campaigns.php:317
+#: includes/admin/templates/settings/page-product.php:49
+#: includes/admin/templates/wizard/locations.php:24
+#: includes/admin/templates/wizard/locations.php:33
+#: includes/functions-base.php:661 includes/functions.php:4750
+#: includes/pro/admin/functions-settings.php:31
+msgid "Product Page"
+msgstr ""
+
+#: includes/admin/functions-settings.php:34
+#: includes/admin/templates/popups/feedback-v2.php:102
+#: includes/admin/templates/results.php:365
+#: includes/admin/templates/settings/campaigns.php:268
+#: includes/admin/templates/settings/page-checkout.php:43
+#: includes/admin/templates/wizard/locations.php:25
+#: includes/admin/templates/wizard/locations.php:34
+#: includes/functions-base.php:660 includes/functions.php:4749
+#: includes/pro/admin/functions-settings.php:35
+msgid "Checkout Page"
+msgstr ""
+
+#: includes/admin/functions-settings.php:38
+#: includes/admin/templates/popups/feedback-v2.php:88
+#: includes/admin/templates/results.php:400
+#: includes/admin/templates/settings/popup-add-to-cart.php:51
+#: includes/admin/templates/wizard/locations.php:26
+#: includes/admin/templates/wizard/locations.php:36
+#: includes/functions-base.php:662 includes/functions.php:4755
+#: includes/pro/admin/functions-settings.php:43
+msgid "Add to Cart Popup"
+msgstr ""
+
+#: includes/admin/functions-settings.php:46
+#: includes/admin/templates/settings/help.php:15
+#: includes/pro/admin/functions-settings.php:63
+msgid "Help"
+msgstr ""
+
+#: includes/admin/functions-settings.php:50
+#: includes/pro/admin/functions-settings.php:67
+msgid "More"
+msgstr ""
+
+#: includes/admin/functions-wizard.php:243
+msgid "Upsells Automatically Calculated"
+msgstr ""
+
+#. translators: 1: Text, 2: Setup Wizard Step URL, 3: Text.
+
+#: includes/admin/functions-wizard.php:250 includes/admin/register.php:84
+#: includes/admin/register.php:106 includes/admin/register.php:125
+#: includes/admin/templates/wizard/summary.php:125
+#: includes/admin/templates/wizard/summary.php:157
+msgid "Please"
+msgstr ""
+
+#: includes/admin/functions-wizard.php:252
+msgid "double-check the Upsells step"
+msgstr ""
+
+#: includes/admin/functions-wizard.php:253
+msgid "The Upsells were not calculated"
+msgstr ""
+
+#. translators: 1: Text, 2: Setup Wizard Step URL, 3: Text.
+
+#: includes/admin/functions-wizard.php:263
+msgid "Please wait, the Upsells are being calculated"
+msgstr ""
+
+#: includes/admin/functions.php:203 includes/admin/templates/settings.php:69
+msgid "Recalculate Upsells here"
+msgstr ""
+
+#. translators: 1: Setting Page Link
+
+#: includes/admin/functions.php:206
+msgid "Settings updated, %s "
+msgstr ""
+
+#: includes/admin/functions.php:312
+msgid "Results cleared successfully."
+msgstr ""
+
+#: includes/admin/functions.php:314
+msgid "Dismiss this notice."
+msgstr ""
+
+#: includes/admin/register.php:83
+msgid "requires Easy Digital Downloads"
+msgstr ""
+
+#: includes/admin/register.php:86
+msgid "activate the Easy Digital Downloads plugin"
+msgstr ""
+
+#: includes/admin/register.php:87 includes/admin/register.php:109
+#: includes/admin/register.php:131
+msgid "to continue"
+msgstr ""
+
+#: includes/admin/register.php:105
+msgid "requires WooCommerce"
+msgstr ""
+
+#: includes/admin/register.php:108
+msgid "activate the WooCommerce plugin"
+msgstr ""
+
+#: includes/admin/register.php:124
+msgid "requires either WooCommerce or Easy Digital Downloads"
+msgstr ""
+
+#: includes/admin/register.php:127
+msgid "install the WooCommerce plugin"
+msgstr ""
+
+#: includes/admin/register.php:128 includes/functions-abort.php:41
+msgid "or"
+msgstr ""
+
+#: includes/admin/register.php:130
+msgid "install the Easy Digital Downloads plugin"
+msgstr ""
+
+#: includes/admin/register.php:1499
+#: includes/pro/admin/functions-edit-product.php:57
+#: includes/pro/admin/functions-products.php:30
+msgid "Excluded Products"
+msgstr ""
+
+#: includes/admin/register.php:1824 includes/admin/register.php:1959
+msgid "Not Available"
+msgstr ""
+
+#: includes/admin/register.php:1907
+msgid "Excluded"
+msgstr ""
+
+#: includes/admin/templates/campaigns/edit.php:16
+msgid "Sorry, you are not allowed to edit this campaign."
+msgstr ""
+
+#: includes/admin/templates/campaigns/edit.php:25
+msgid "You attempted to access a view that does not exist."
+msgstr ""
+
+#: includes/admin/templates/campaigns/edit.php:50
+msgid "You attempted to edit a campaign that does not exist."
+msgstr ""
+
+#: includes/admin/templates/campaigns/edit.php:241
+msgid "Banner Placeholder"
+msgstr ""
+
+#: includes/admin/templates/campaigns/edit.php:255
+msgid "Please note that this campaign is template-based"
+msgstr ""
+
+#: includes/admin/templates/campaigns/edit.php:256
+msgid "It is a good practice to double-check the data such as the"
+msgstr ""
+
+#: includes/admin/templates/campaigns/edit.php:257
+msgid "start and end dates"
+msgstr ""
+
+#: includes/admin/templates/campaigns/edit.php:258
+msgid "to ensure they meet your specific requirements"
+msgstr ""
+
+#: includes/admin/templates/campaigns/edit.php:270
+#: includes/admin/templates/campaigns/edit.php:283
+#: includes/admin/templates/campaigns/list.php:27
+msgid "PRO Tip"
+msgstr ""
+
+#: includes/admin/templates/campaigns/edit.php:271
+msgid "Make sure to check out the"
+msgstr ""
+
+#: includes/admin/templates/campaigns/edit.php:273
+msgid "Ultimate Calendar for Digital Marketing Events"
+msgstr ""
+
+#: includes/admin/templates/campaigns/edit.php:274
+msgid "to explore a full curated list of global events"
+msgstr ""
+
+#: includes/admin/templates/campaigns/edit.php:275
+msgid "It's a great resource for determining the ideal start and end dates for your promotions"
+msgstr ""
+
+#: includes/admin/templates/campaigns/edit.php:284
+#: includes/admin/templates/campaigns/list.php:28
+msgid "Unlock the ability to run multiple active campaigns simultaneously."
+msgstr ""
+
+#: includes/admin/templates/campaigns/edit.php:286
+#: includes/admin/templates/campaigns/list.php:30
+#: includes/admin/templates/campaigns/list.php:84
+#: includes/admin/templates/products.php:123
+#: includes/admin/templates/results.php:756
+#: includes/admin/templates/settings/general.php:171
+#: includes/admin/templates/settings/general.php:224
+#: includes/lite/admin/functions-notices.php:51
+#: includes/lite/admin/functions-settings.php:23
+msgid "Upgrade to PRO!"
+msgstr ""
+
+#: includes/admin/templates/campaigns/edit.php:301
+#: includes/admin/templates/campaigns/list.php:41
+#: includes/admin/templates/campaigns/view.php:39
+#: includes/admin/templates/campaigns/view.php:54
+#: includes/pro/admin/functions-terms.php:19
+msgid "Tag Manager"
+msgstr ""
+
+#: includes/admin/templates/campaigns/edit.php:306
+#: includes/admin/templates/campaigns/view.php:43
+msgid "Duplicate Campaign"
+msgstr ""
+
+#: includes/admin/templates/campaigns/edit.php:307
+msgid "Save as Template"
+msgstr ""
+
+#: includes/admin/templates/campaigns/edit.php:323
+msgid "General"
+msgstr ""
+
+#: includes/admin/templates/campaigns/edit.php:324
+msgid "Please enter the data for this campaign."
+msgstr ""
+
+#: includes/admin/templates/campaigns/edit.php:332
+#: includes/admin/templates/campaigns/list.php:101
+#: includes/admin/templates/campaigns/list.php:198
+#: includes/admin/templates/wizard/campaigns.php:112
+msgid "Status"
+msgstr ""
+
+#: includes/admin/templates/campaigns/edit.php:341
+#: includes/admin/templates/campaigns/list.php:199
+#: includes/admin/templates/settings/upsells.php:258
+#: includes/admin/templates/wizard/upsells.php:98
+msgid "Priority"
+msgstr ""
+
+#: includes/admin/templates/campaigns/edit.php:342
+msgid "Please enter a value between 1 and 100. Lower values indicate higher priority."
+msgstr ""
+
+#: includes/admin/templates/campaigns/edit.php:348
+#: includes/admin/templates/wizard/campaigns.php:126
+msgid "Start Date"
+msgstr ""
+
+#: includes/admin/templates/campaigns/edit.php:349
+#: includes/admin/templates/campaigns/edit.php:356
+#: includes/admin/templates/wizard/campaigns.php:127
+#: includes/admin/templates/wizard/campaigns.php:134
+msgid "Please enter the date in your WordPress Timezone."
+msgstr ""
+
+#: includes/admin/templates/campaigns/edit.php:355
+#: includes/admin/templates/wizard/campaigns.php:133
+msgid "End Date"
+msgstr ""
+
+#: includes/admin/templates/campaigns/edit.php:361
+msgid "Weekdays"
+msgstr ""
+
+#: includes/admin/templates/campaigns/edit.php:361
+msgid "(leave empty for all)"
+msgstr ""
+
+#: includes/admin/templates/campaigns/edit.php:371
+msgid "Promotion Benefit"
+msgstr ""
+
+#: includes/admin/templates/campaigns/edit.php:372
+msgid "Please choose the promotion benefit details for this campaign."
+msgstr ""
+
+#: includes/admin/templates/campaigns/edit.php:379
+#: includes/admin/templates/campaigns/list.php:197
+msgid "Coupon"
+msgstr ""
+
+#: includes/admin/templates/campaigns/edit.php:381
+msgid "Campaign Coupon"
+msgstr ""
+
+#: includes/admin/templates/campaigns/edit.php:382
+msgid "Standard Coupon"
+msgstr ""
+
+#: includes/admin/templates/campaigns/edit.php:386
+#: includes/admin/templates/wizard/campaigns.php:139
+msgid "Coupon Code"
+msgstr ""
+
+#: includes/admin/templates/campaigns/edit.php:390
+msgid "Standard Coupon Code"
+msgstr ""
+
+#: includes/admin/templates/campaigns/edit.php:400
+#: includes/admin/templates/wizard/campaigns.php:143
+msgid "Coupon Type"
+msgstr ""
+
+#: includes/admin/templates/campaigns/edit.php:402
+#: includes/admin/templates/wizard/campaigns.php:145
+msgid "Discount - Percentage"
+msgstr ""
+
+#: includes/admin/templates/campaigns/edit.php:403
+#: includes/admin/templates/wizard/campaigns.php:146
+msgid "Discount - Fixed"
+msgstr ""
+
+#: includes/admin/templates/campaigns/edit.php:407
+#: includes/admin/templates/wizard/campaigns.php:150
+msgid "Coupon Amount"
+msgstr ""
+
+#: includes/admin/templates/campaigns/edit.php:412
+msgid "Please note that when the Standard Coupon is selected, the Campaign will take over the existing coupon, and all its data will be overwritten going forward. Therefore when the campaign is saved, it will become a Campaign Coupon."
+msgstr ""
+
+#: includes/admin/templates/campaigns/edit.php:421
+#: includes/pro/admin/templates/campaigns/tags.php:54
+msgid "Product Selector"
+msgstr ""
+
+#: includes/admin/templates/campaigns/edit.php:422
+msgid "Please choose the products that are entitled to the benefits from this campaign."
+msgstr ""
+
+#: includes/admin/templates/campaigns/edit.php:425
+#: includes/pro/admin/templates/campaigns/tags.php:58
+msgid "All products"
+msgstr ""
+
+#: includes/admin/templates/campaigns/edit.php:426
+#: includes/pro/admin/templates/campaigns/tags.php:59
+msgid "Selected products"
+msgstr ""
+
+#: includes/admin/templates/campaigns/edit.php:429
+#: includes/pro/admin/templates/campaigns/tags.php:62
+msgid "Navigate through the tabs to include or exclude items."
+msgstr ""
+
+#: includes/admin/templates/campaigns/edit.php:433
+#: includes/admin/templates/campaigns/edit.php:1050
+#: includes/pro/admin/templates/campaigns/tags.php:66
+msgid "Include"
+msgstr ""
+
+#: includes/admin/templates/campaigns/edit.php:434
+#: includes/admin/templates/campaigns/edit.php:1051
+#: includes/pro/admin/templates/campaigns/tags.php:67
+msgid "Exclude"
+msgstr ""
+
+#: includes/admin/templates/campaigns/edit.php:440
+#: includes/admin/templates/campaigns/edit.php:1057
+#: includes/pro/admin/templates/campaigns/tags.php:73
+msgid "Authors"
+msgstr ""
+
+#: includes/admin/templates/campaigns/edit.php:459
+#: includes/admin/templates/campaigns/edit.php:1076
+#: includes/pro/admin/templates/campaigns/tags.php:92
+msgid "Clear All"
+msgstr ""
+
+#: includes/admin/templates/campaigns/edit.php:469
+#: includes/admin/templates/campaigns/edit.php:613
+#: includes/admin/templates/campaigns/edit.php:777
+#: includes/admin/templates/campaigns/edit.php:974
+#: includes/admin/templates/campaigns/edit.php:1086
+#: includes/admin/templates/campaigns/edit.php:1185
+#: includes/admin/templates/campaigns/edit.php:1349
+#: includes/pro/admin/templates/campaigns/tags.php:105
+#: includes/pro/admin/templates/campaigns/tags.php:212
+#: includes/pro/admin/templates/campaigns/tags.php:305
+#: includes/pro/admin/templates/campaigns/tags.php:415
+msgid "PRO Shortcut"
+msgstr ""
+
+#: includes/admin/templates/campaigns/edit.php:470
+#: includes/admin/templates/campaigns/edit.php:614
+#: includes/admin/templates/campaigns/edit.php:778
+#: includes/admin/templates/campaigns/edit.php:975
+#: includes/admin/templates/campaigns/edit.php:1087
+#: includes/admin/templates/campaigns/edit.php:1186
+#: includes/admin/templates/campaigns/edit.php:1350
+#: includes/pro/admin/templates/campaigns/tags.php:106
+#: includes/pro/admin/templates/campaigns/tags.php:213
+#: includes/pro/admin/templates/campaigns/tags.php:306
+#: includes/pro/admin/templates/campaigns/tags.php:416
+msgid "Quickly"
+msgstr ""
+
+#: includes/admin/templates/campaigns/edit.php:472
+#: includes/admin/templates/campaigns/edit.php:1089
+#: includes/pro/admin/templates/campaigns/tags.php:108
+msgid "manage products"
+msgstr ""
+
+#: includes/admin/templates/campaigns/edit.php:473
+#: includes/admin/templates/campaigns/edit.php:617
+#: includes/admin/templates/campaigns/edit.php:630
+#: includes/admin/templates/campaigns/edit.php:782
+#: includes/admin/templates/campaigns/edit.php:796
+#: includes/admin/templates/campaigns/edit.php:979
+#: includes/admin/templates/campaigns/edit.php:993
+#: includes/admin/templates/campaigns/edit.php:1090
+#: includes/admin/templates/campaigns/edit.php:1189
+#: includes/admin/templates/campaigns/edit.php:1202
+#: includes/admin/templates/campaigns/edit.php:1354
+#: includes/admin/templates/campaigns/edit.php:1368
+#: includes/pro/admin/templates/campaigns/tags.php:109
+#: includes/pro/admin/templates/campaigns/tags.php:216
+#: includes/pro/admin/templates/campaigns/tags.php:310
+#: includes/pro/admin/templates/campaigns/tags.php:420
+msgid "at any time"
+msgstr ""
+
+#: includes/admin/templates/campaigns/edit.php:501
+#: includes/admin/templates/settings/upsells.php:88
+#: includes/pro/admin/templates/campaigns/tags.php:137
+msgid "Bundles Only"
+msgstr ""
+
+#. translators: 1: field label, 2: currency symbol.
+
+#: includes/admin/templates/campaigns/edit.php:514
+#: includes/pro/admin/templates/campaigns/tags.php:149
+msgid "Minimum Price"
+msgstr ""
+
+#. translators: 1: field label, 2: currency symbol.
+
+#: includes/admin/templates/campaigns/edit.php:530
+#: includes/pro/admin/templates/campaigns/tags.php:164
+msgid "Maximum Price"
+msgstr ""
+
+#: includes/admin/templates/campaigns/edit.php:598
+#: includes/admin/templates/campaigns/edit.php:710
+#: includes/admin/templates/campaigns/edit.php:864
+#: includes/admin/templates/campaigns/edit.php:1170
+#: includes/admin/templates/campaigns/edit.php:1282
+#: includes/admin/templates/campaigns/edit.php:1436
+#: includes/pro/admin/templates/campaigns/tags.php:194
+#: includes/pro/admin/templates/campaigns/tags.php:258
+#: includes/pro/admin/templates/campaigns/tags.php:352
+msgid "Add"
+msgstr ""
+
+#: includes/admin/templates/campaigns/edit.php:616
+#: includes/admin/templates/campaigns/edit.php:1188
+#: includes/pro/admin/templates/campaigns/tags.php:215
+msgid "manage authors"
+msgstr ""
+
+#: includes/admin/templates/campaigns/edit.php:626
+#: includes/admin/templates/campaigns/edit.php:791
+#: includes/admin/templates/campaigns/edit.php:988
+#: includes/admin/templates/campaigns/edit.php:1198
+#: includes/admin/templates/campaigns/edit.php:1363
+msgid "PRO Tool"
+msgstr ""
+
+#: includes/admin/templates/campaigns/edit.php:627
+#: includes/admin/templates/campaigns/edit.php:792
+#: includes/admin/templates/campaigns/edit.php:989
+#: includes/admin/templates/campaigns/edit.php:1199
+#: includes/admin/templates/campaigns/edit.php:1364
+msgid "Easily"
+msgstr ""
+
+#: includes/admin/templates/campaigns/edit.php:629
+#: includes/admin/templates/campaigns/edit.php:1201
+msgid "check which products are associated with specific authors"
+msgstr ""
+
+#: includes/admin/templates/campaigns/edit.php:780
+#: includes/admin/templates/campaigns/edit.php:977
+#: includes/admin/templates/campaigns/edit.php:1352
+#: includes/pro/admin/templates/campaigns/tags.php:308
+#: includes/pro/admin/templates/campaigns/tags.php:418
+msgid "manage"
+msgstr ""
+
+#: includes/admin/templates/campaigns/edit.php:794
+#: includes/admin/templates/campaigns/edit.php:991
+#: includes/admin/templates/campaigns/edit.php:1366
+msgid "check which products are associated with specific"
+msgstr ""
+
+#: includes/admin/templates/campaigns/edit.php:878
+msgid "Selected Products"
+msgstr ""
+
+#: includes/admin/templates/campaigns/edit.php:881
+msgid "The following products have been selected to receive the promotion benefits (e.g. a discount) as per the selection above."
+msgstr ""
+
+#: includes/admin/templates/campaigns/edit.php:885
+msgid "Feel free to tag them by assigning them to an UpsellMaster tag for future reference."
+msgstr ""
+
+#: includes/admin/templates/campaigns/edit.php:894
+#: includes/admin/templates/products.php:140
+#: includes/pro/admin/templates/campaigns/tags.php:523
+msgid "Product"
+msgstr ""
+
+#: includes/admin/templates/campaigns/edit.php:895
+#: includes/pro/admin/templates/campaigns/tags.php:527
+msgid "Author"
+msgstr ""
+
+#: includes/admin/templates/campaigns/edit.php:911
+#: includes/pro/admin/templates/campaigns/tags.php:370
+msgid "Easily assign UpsellMaster Tags to the selected products."
+msgstr ""
+
+#: includes/admin/templates/campaigns/edit.php:952
+#: includes/pro/admin/templates/campaigns/tags.php:393
+msgid "Assign UpsellMaster Tags"
+msgstr ""
+
+#: includes/admin/templates/campaigns/edit.php:962
+#: includes/pro/admin/templates/campaigns/tags.php:403
+msgid "Assign"
+msgstr ""
+
+#: includes/admin/templates/campaigns/edit.php:1014
+msgid "Promotion Triggers"
+msgstr ""
+
+#: includes/admin/templates/campaigns/edit.php:1015
+msgid "Please choose the purchase conditions that need to be fulfilled by the customer in order to qualify for the campaign benefit. The available criteria refer to the number of products to be added to customers's shopping cart, the minimum value of the cart, and what product combinations qualify."
+msgstr ""
+
+#: includes/admin/templates/campaigns/edit.php:1022
+msgid "Minimum Products Qty"
+msgstr ""
+
+#: includes/admin/templates/campaigns/edit.php:1023
+msgid "Please enter the required minimum quantity. Please refer to the general settings for the specific interpretation of the quantity, either as Distinct Products or Total Products."
+msgstr ""
+
+#. translators: 1: field label, 2: currency symbol.
+
+#: includes/admin/templates/campaigns/edit.php:1034
+msgid "Minimum Subtotal"
+msgstr ""
+
+#: includes/admin/templates/campaigns/edit.php:1046
+msgid "Please choose the product conditions for this campaign. Leave it empty for no product requirements in the store cart."
+msgstr ""
+
+#: includes/admin/templates/campaigns/edit.php:1452
+msgid "Please enter the data that will be displayed on the Product Page for all Selected Products."
+msgstr ""
+
+#: includes/admin/templates/campaigns/edit.php:1579
+#: includes/admin/templates/campaigns/edit.php:1802
+msgid "Description"
+msgstr ""
+
+#: includes/admin/templates/campaigns/edit.php:1608
+#: includes/admin/templates/campaigns/edit.php:1831
+msgid "Desktop Banner"
+msgstr ""
+
+#: includes/admin/templates/campaigns/edit.php:1613
+#: includes/admin/templates/campaigns/edit.php:1633
+#: includes/admin/templates/campaigns/edit.php:1836
+#: includes/admin/templates/campaigns/edit.php:1856
+msgid "Select banner"
+msgstr ""
+
+#: includes/admin/templates/campaigns/edit.php:1614
+#: includes/admin/templates/campaigns/edit.php:1634
+#: includes/admin/templates/campaigns/edit.php:1837
+#: includes/admin/templates/campaigns/edit.php:1857
+msgid "Copy URL"
+msgstr ""
+
+#: includes/admin/templates/campaigns/edit.php:1615
+#: includes/admin/templates/campaigns/edit.php:1635
+#: includes/admin/templates/campaigns/edit.php:1838
+#: includes/admin/templates/campaigns/edit.php:1858
+msgid "Remove banner"
+msgstr ""
+
+#: includes/admin/templates/campaigns/edit.php:1621
+#: includes/admin/templates/campaigns/edit.php:1844
+msgid "Desktop Banner Link URL"
+msgstr ""
+
+#: includes/admin/templates/campaigns/edit.php:1621
+#: includes/admin/templates/campaigns/edit.php:1641
+#: includes/admin/templates/campaigns/edit.php:1844
+#: includes/admin/templates/campaigns/edit.php:1864
+msgid "(e.g. Landing Page URL)"
+msgstr ""
+
+#: includes/admin/templates/campaigns/edit.php:1628
+#: includes/admin/templates/campaigns/edit.php:1851
+msgid "Mobile Banner"
+msgstr ""
+
+#: includes/admin/templates/campaigns/edit.php:1641
+#: includes/admin/templates/campaigns/edit.php:1864
+msgid "Mobile Banner Link URL"
+msgstr ""
+
+#: includes/admin/templates/campaigns/edit.php:1648
+msgid "Display Options"
+msgstr ""
+
+#: includes/admin/templates/campaigns/edit.php:1649
+msgid "Please choose the locations to showcase campaign products."
+msgstr ""
+
+#: includes/admin/templates/campaigns/edit.php:1651
+msgid "All Selected Locations"
+msgstr ""
+
+#: includes/admin/templates/campaigns/edit.php:1654
+msgid "All locations"
+msgstr ""
+
+#: includes/admin/templates/campaigns/edit.php:1655
+msgid "Selected locations"
+msgstr ""
+
+#: includes/admin/templates/campaigns/edit.php:1668
+msgid "Please use the \"All Selected Locations\" tab to specify data for all selected locations. Additionaly, specify per-location data using the location tabs in order to overwrite general data."
+msgstr ""
+
+#: includes/admin/templates/campaigns/edit.php:1877
+msgid "Delete Campaign"
+msgstr ""
+
+#: includes/admin/templates/campaigns/edit.php:1880
+msgid "Enable irreversible action. Are you sure?"
+msgstr ""
+
+#: includes/admin/templates/campaigns/list.php:16
+msgid "Sorry, you are not allowed to view campaigns."
+msgstr ""
+
+#: includes/admin/templates/campaigns/list.php:56
+msgid "Performance"
+msgstr ""
+
+#: includes/admin/templates/campaigns/list.php:65
+#: includes/admin/templates/campaigns/view.php:68
+msgid "KPI's"
+msgstr ""
+
+#: includes/admin/templates/campaigns/list.php:72
+#: includes/admin/templates/campaigns/view.php:74
+#: includes/admin/templates/results.php:552
+#: includes/pro/admin/templates/analytics.php:73
+#: includes/pro/admin/templates/analytics.php:284
+#: includes/pro/admin/templates/campaigns/tags.php:441
+msgid "Filters"
+msgstr ""
+
+#. translators: 1: Text, 2: PRO version URL, 3: Text.
+
+#: includes/admin/templates/campaigns/list.php:82
+msgid "Get tons of excellent filters to better compare and customize Campaign Reports data"
+msgstr ""
+
+#: includes/admin/templates/campaigns/list.php:95
+msgid "Campaign Date From"
+msgstr ""
+
+#: includes/admin/templates/campaigns/list.php:98
+msgid "Campaign Date To"
+msgstr ""
+
+#: includes/admin/templates/campaigns/list.php:104
+#: includes/admin/templates/campaigns/list.php:203
+#: includes/admin/templates/results.php:353
+#: includes/admin/templates/wizard/locations.php:48
+#: includes/admin/templates/wizard.php:17
+msgid "Locations"
+msgstr ""
+
+#: includes/admin/templates/campaigns/list.php:107
+#: includes/admin/templates/campaigns/view.php:88
+msgid "Gross Earnings From"
+msgstr ""
+
+#: includes/admin/templates/campaigns/list.php:110
+#: includes/admin/templates/campaigns/view.php:91
+msgid "Gross Earnings To"
+msgstr ""
+
+#: includes/admin/templates/campaigns/list.php:114
+#: includes/admin/templates/campaigns/view.php:94
+msgid "Taxes From"
+msgstr ""
+
+#: includes/admin/templates/campaigns/list.php:117
+#: includes/admin/templates/campaigns/view.php:97
+msgid "Taxes To"
+msgstr ""
+
+#: includes/admin/templates/campaigns/list.php:120
+#: includes/admin/templates/campaigns/view.php:100
+msgid "Discounts From"
+msgstr ""
+
+#: includes/admin/templates/campaigns/list.php:123
+#: includes/admin/templates/campaigns/view.php:103
+msgid "Discounts To"
+msgstr ""
+
+#: includes/admin/templates/campaigns/list.php:126
+#: includes/admin/templates/campaigns/view.php:106
+msgid "Net Earnings From"
+msgstr ""
+
+#: includes/admin/templates/campaigns/list.php:129
+#: includes/admin/templates/campaigns/view.php:109
+msgid "Net Earnings To"
+msgstr ""
+
+#: includes/admin/templates/campaigns/list.php:132
+msgid "Orders From"
+msgstr ""
+
+#: includes/admin/templates/campaigns/list.php:135
+msgid "Orders To"
+msgstr ""
+
+#: includes/admin/templates/campaigns/list.php:138
+#: includes/admin/templates/campaigns/view.php:118
+msgid "AOV From"
+msgstr ""
+
+#: includes/admin/templates/campaigns/list.php:141
+#: includes/admin/templates/campaigns/view.php:121
+msgid "AOV To"
+msgstr ""
+
+#: includes/admin/templates/campaigns/list.php:144
+msgid "Impression Events From"
+msgstr ""
+
+#: includes/admin/templates/campaigns/list.php:147
+msgid "Impression Events To"
+msgstr ""
+
+#: includes/admin/templates/campaigns/list.php:150
+msgid "Click Events From"
+msgstr ""
+
+#: includes/admin/templates/campaigns/list.php:153
+msgid "Click Events To"
+msgstr ""
+
+#: includes/admin/templates/campaigns/list.php:156
+msgid "Add to Cart Events From"
+msgstr ""
+
+#: includes/admin/templates/campaigns/list.php:159
+msgid "Add to Cart Events To"
+msgstr ""
+
+#: includes/admin/templates/campaigns/list.php:163
+#: includes/admin/templates/campaigns/view.php:125
+#: includes/admin/templates/products.php:87
+#: includes/admin/templates/products.php:90
+#: includes/admin/templates/results.php:721
+#: includes/admin/templates/results.php:723
+#: includes/pro/admin/templates/analytics.php:229
+#: includes/pro/admin/templates/analytics.php:442
+#: includes/pro/admin/templates/campaigns/tags.php:509
+msgid "Reset"
+msgstr ""
+
+#: includes/admin/templates/campaigns/list.php:164
+#: includes/admin/templates/campaigns/list.php:225
+#: includes/admin/templates/campaigns/view.php:126
+#: includes/admin/templates/products.php:91
+#: includes/admin/templates/products.php:158
+#: includes/admin/templates/results.php:724
+#: includes/pro/admin/templates/analytics.php:230
+#: includes/pro/admin/templates/analytics.php:443
+#: includes/pro/admin/templates/campaigns/tags.php:510
+msgid "Apply"
+msgstr ""
+
+#. translators: 1: Text, 2: PRO version URL, 3: Text, 4: Text.
+
+#: includes/admin/templates/campaigns/list.php:179
+msgid "Limited at only 1 Discount Campaign?"
+msgstr ""
+
+#: includes/admin/templates/campaigns/list.php:181
+msgid "Upgrade to PRO"
+msgstr ""
+
+#: includes/admin/templates/campaigns/list.php:182
+msgid "and offer more!"
+msgstr ""
+
+#: includes/admin/templates/campaigns/list.php:196
+msgid "Campaign"
+msgstr ""
+
+#: includes/admin/templates/campaigns/list.php:204
+msgid "Impressions"
+msgstr ""
+
+#: includes/admin/templates/campaigns/list.php:205
+msgid "Clicks"
+msgstr ""
+
+#: includes/admin/templates/campaigns/list.php:219
+#: includes/admin/templates/products.php:153
+msgid "Bulk Actions"
+msgstr ""
+
+#: includes/admin/templates/campaigns/list.php:223
+#: includes/admin/templates/campaigns/templates.php:63
+msgid "Delete"
+msgstr ""
+
+#: includes/admin/templates/campaigns/templates.php:16
+msgid "Sorry, you are not allowed to view campaign templates."
+msgstr ""
+
+#. translators: 1: new blank campaign link.
+
+#: includes/admin/templates/campaigns/templates.php:25
+msgid "Please choose a template or create a %s."
+msgstr ""
+
+#: includes/admin/templates/campaigns/templates.php:26
+msgid "new blank campaign"
+msgstr ""
+
+#: includes/admin/templates/campaigns/templates.php:41
+msgid "Core (Lite) Templates"
+msgstr ""
+
+#: includes/admin/templates/campaigns/templates.php:43
+msgid "Core (PRO) Templates"
+msgstr ""
+
+#: includes/admin/templates/campaigns/templates.php:45
+msgid "Stored Templates"
+msgstr ""
+
+#: includes/admin/templates/campaigns/view.php:16
+msgid "Sorry, you are not allowed to view this campaign."
+msgstr ""
+
+#: includes/admin/templates/campaigns/view.php:26
+msgid "You attempted to view a campaign that does not exist."
+msgstr ""
+
+#: includes/admin/templates/campaigns/view.php:49
+msgid "Campaign Performance:"
+msgstr ""
+
+#: includes/admin/templates/campaigns/view.php:81
+#: includes/admin/templates/products.php:80
+#: includes/admin/templates/results.php:714
+msgid "Date From"
+msgstr ""
+
+#: includes/admin/templates/campaigns/view.php:84
+#: includes/admin/templates/products.php:81
+#: includes/admin/templates/results.php:715
+msgid "Date To"
+msgstr ""
+
+#: includes/admin/templates/campaigns/view.php:112
+msgid "Products From"
+msgstr ""
+
+#: includes/admin/templates/campaigns/view.php:115
+msgid "Products To"
+msgstr ""
+
+#: includes/admin/templates/campaigns/view.php:132
+msgid "Campaign Carts"
+msgstr ""
+
+#: includes/admin/templates/campaigns/view.php:138
+#: includes/admin/templates/results.php:771
+msgid "Date"
+msgstr ""
+
+#: includes/admin/templates/campaigns/view.php:139
+msgid "Customer"
+msgstr ""
+
+#: includes/admin/templates/campaigns/view.php:140
+msgid "Cart Type"
+msgstr ""
+
+#: includes/admin/templates/campaigns/view.php:141
+#: includes/admin/templates/results.php:779
+msgid "Order ID"
+msgstr ""
+
+#: includes/admin/templates/campaigns/view.php:142
+msgid "Cart Value"
+msgstr ""
+
+#: includes/admin/templates/campaigns/view.php:147
+msgid "Number of Products"
+msgstr ""
+
+#. translators: %1$s base plugin name.
+
+#: includes/admin/templates/newsletter.php:23
+#: includes/admin/templates/popups/newsletter.php:52
+msgid "Receive PRO Tips on how best to use Upsell Features in %1$s"
+msgstr ""
+
+#. translators: %1$s b tag (bold text), %2$s b tag (bold text), %3$s base
+#. plugin name, %4$s plugin link, %5$s author link, %6$s br tag (line break),
+#. %7$s b tag (bold text), %8$s b tag (bold text).
+
+#: includes/admin/templates/newsletter.php:32
+msgid "Receive %1$s on what are the %2$s to use in %3$s and how to best work with the %4$s by signing up for our newsletter from %5$s.%6$sLearn also how to %7$s and uncover innovative approaches to drive %8$s through strategic upselling."
+msgstr ""
+
+#: includes/admin/templates/newsletter.php:33
+#: includes/admin/templates/popups/newsletter.php:62
+msgid "PRO tips"
+msgstr ""
+
+#: includes/admin/templates/newsletter.php:34
+#: includes/admin/templates/popups/newsletter.php:63
+msgid "best upsell strategies"
+msgstr ""
+
+#: includes/admin/templates/newsletter.php:39
+#: includes/admin/templates/popups/newsletter.php:75
+msgid "stay ahead of the competition"
+msgstr ""
+
+#: includes/admin/templates/newsletter.php:40
+#: includes/admin/templates/popups/newsletter.php:76
+msgid "more conversions and increase profits"
+msgstr ""
+
+#: includes/admin/templates/newsletter.php:46
+#: includes/admin/templates/popups/newsletter.php:82
+msgid "Sign-up to our Newsletter today and calculate up to 300 Upsells!"
+msgstr ""
+
+#: includes/admin/templates/newsletter.php:49
+#: includes/admin/templates/popups/newsletter.php:85
+msgid "Be able to offer more tailored Upsells by increasing the calculation limit to 300 - and watch your revenues soar!"
+msgstr ""
+
+#: includes/admin/templates/newsletter.php:55
+#: includes/admin/templates/popups/newsletter.php:91
+msgid "Subscribe"
+msgstr ""
+
+#: includes/admin/templates/newsletter.php:60
+#: includes/admin/templates/popups/newsletter.php:95
+msgid "There was an error in processing your request, please try again."
+msgstr ""
+
+#: includes/admin/templates/newsletter.php:63
+#: includes/admin/templates/popups/newsletter.php:98
+msgid "Thank you for signing up to our Newsletter!"
+msgstr ""
+
+#. translators: %s: Plugin Name
+#. translators: %s: Plugin Name.
+
+#: includes/admin/templates/popups/feedback-v1.php:21
+#: includes/admin/templates/popups/feedback-v2.php:21
+msgid "Quick feedback about %s"
+msgstr ""
+
+#: includes/admin/templates/popups/feedback-v1.php:27
+msgid "Please let us know why you are deactivating the plugin."
+msgstr ""
+
+#: includes/admin/templates/popups/feedback-v1.php:29
+#: includes/admin/templates/popups/feedback-v1.php:47
+#: includes/admin/templates/popups/feedback-v1.php:83
+#: includes/admin/templates/popups/feedback-v2.php:29
+#: includes/admin/templates/popups/feedback-v2.php:53
+#: includes/admin/templates/popups/feedback-v2.php:71
+msgid "Kindly provide the required input."
+msgstr ""
+
+#: includes/admin/templates/popups/feedback-v1.php:35
+msgid "I only needed the plugin for a short period."
+msgstr ""
+
+#: includes/admin/templates/popups/feedback-v1.php:41
+#: includes/admin/templates/popups/feedback-v2.php:47
+msgid "I found a better plugin."
+msgstr ""
+
+#: includes/admin/templates/popups/feedback-v1.php:44
+#: includes/admin/templates/popups/feedback-v2.php:50
+msgid "Kindly tell us which plugin did you find."
+msgstr ""
+
+#: includes/admin/templates/popups/feedback-v1.php:53
+#: includes/admin/templates/popups/feedback-v2.php:41
+msgid "The plugin broke my site."
+msgstr ""
+
+#: includes/admin/templates/popups/feedback-v1.php:59
+msgid "The plugin suddenly stopped working."
+msgstr ""
+
+#: includes/admin/templates/popups/feedback-v1.php:65
+msgid "I no longer need the plugin."
+msgstr ""
+
+#: includes/admin/templates/popups/feedback-v1.php:71
+#: includes/admin/templates/popups/feedback-v2.php:59
+msgid "It's a temporary deactivation. I'm just debugging an issue."
+msgstr ""
+
+#: includes/admin/templates/popups/feedback-v1.php:77
+#: includes/admin/templates/popups/feedback-v2.php:65
+msgid "Other..."
+msgstr ""
+
+#: includes/admin/templates/popups/feedback-v1.php:80
+#: includes/admin/templates/popups/feedback-v2.php:68
+msgid "Kindly tell us the reason so we can improve."
+msgstr ""
+
+#: includes/admin/templates/popups/feedback-v1.php:91
+#: includes/admin/templates/popups/feedback-v2.php:186
+msgid "Skip & Deactivate"
+msgstr ""
+
+#: includes/admin/templates/popups/feedback-v1.php:92
+#: includes/admin/templates/popups/feedback-v2.php:187
+msgid "Submit & Deactivate"
+msgstr ""
+
+#: includes/admin/templates/popups/feedback-v2.php:27
+msgid "Why do you like to deactivate the Plugin?"
+msgstr ""
+
+#: includes/admin/templates/popups/feedback-v2.php:35
+msgid "I did not understand how the plugin works."
+msgstr ""
+
+#: includes/admin/templates/popups/feedback-v2.php:77
+msgid "Where do you place Upsell Offers on your Website?"
+msgstr ""
+
+#: includes/admin/templates/popups/feedback-v2.php:95
+msgid "Cart Page"
+msgstr ""
+
+#: includes/admin/templates/popups/feedback-v2.php:108
+#: includes/admin/templates/results.php:372
+#: includes/admin/templates/wizard/locations.php:35 includes/functions.php:4751
+#: includes/pro/admin/functions-settings.php:39
+#: includes/pro/admin/templates/settings/page-purchase-receipt.php:43
+msgid "Purchase Receipt Page"
+msgstr ""
+
+#: includes/admin/templates/popups/feedback-v2.php:114
+msgid "Blog Pages"
+msgstr ""
+
+#: includes/admin/templates/popups/feedback-v2.php:120
+msgid "Widgets in Sidebars"
+msgstr ""
+
+#: includes/admin/templates/popups/feedback-v2.php:126
+#: includes/admin/templates/settings/campaigns.php:335
+msgid "None"
+msgstr ""
+
+#: includes/admin/templates/popups/feedback-v2.php:132
+msgid "Want to discuss how to improve your Upsells and Website Conversion?"
+msgstr ""
+
+#: includes/admin/templates/popups/feedback-v2.php:137
+msgid "Yes, I would like to discuss my Upsells and Website Conversion."
+msgstr ""
+
+#: includes/admin/templates/popups/feedback-v2.php:144
+msgid "What is your estimated Monthly Revenue from Upsells?"
+msgstr ""
+
+#: includes/admin/templates/popups/feedback-v2.php:152
+msgid "How much time are you spending to define which products to present as Upsells?"
+msgstr ""
+
+#: includes/admin/templates/popups/feedback-v2.php:160
+msgid "What do you think is the biggest problem with implementing upsells on your website?"
+msgstr ""
+
+#: includes/admin/templates/popups/feedback-v2.php:169
+msgid "I would like to schedule a Free call to analyze the Upside Potential of my Website and get a Demo of UpsellMaster"
+msgstr ""
+
+#: includes/admin/templates/popups/feedback-v2.php:172
+msgid "Please click here to schedule it."
+msgstr ""
+
+#: includes/admin/templates/popups/feedback-v2.php:175
+msgid "Feel free to provide more details or any specific concerns or goals."
+msgstr ""
+
+#. translators: %1$s b tag (bold text), %2$s b tag (bold text), %3$s base
+#. plugin name, %4$s plugin link, %5$s author link.
+
+#: includes/admin/templates/popups/newsletter.php:61
+msgid "Receive %1$s on what are the %2$s to use in %3$s and how to best work with the %4$s by signing up for our newsletter from %5$s."
+msgstr ""
+
+#. translators: %1$s b tag (bold text), %2$s b tag (bold text).
+
+#: includes/admin/templates/popups/newsletter.php:74
+msgid "Learn also how to %1$s and uncover innovative approaches to drive %2$s through strategic upselling."
+msgstr ""
+
+#: includes/admin/templates/products.php:24
+#: includes/admin/templates/products.php:142
+#: includes/admin/templates/results.php:242
+#: includes/admin/templates/results.php:614
+#: includes/pro/admin/templates/analytics.php:38
+#: includes/pro/admin/templates/analytics.php:146
+msgid "Upsell Products"
+msgstr ""
+
+#: includes/admin/templates/products.php:29
+msgid "Products Categories"
+msgstr ""
+
+#: includes/admin/templates/products.php:36
+msgid "Products Tags"
+msgstr ""
+
+#: includes/admin/templates/products.php:82
+#: includes/admin/templates/results.php:716
+msgid "This Month"
+msgstr ""
+
+#: includes/admin/templates/products.php:83
+#: includes/admin/templates/results.php:717
+msgid "Last Month"
+msgstr ""
+
+#: includes/admin/templates/products.php:84
+#: includes/admin/templates/results.php:718
+msgid "This Year"
+msgstr ""
+
+#: includes/admin/templates/products.php:85
+#: includes/admin/templates/results.php:719
+msgid "Last Year"
+msgstr ""
+
+#: includes/admin/templates/products.php:86
+#: includes/admin/templates/results.php:720
+msgid "Last Week"
+msgstr ""
+
+#: includes/admin/templates/products.php:104
+msgid "Limited to 50 Upsells (Base Products)? Upgrade for free! Calculate up to 300 Upsells by"
+msgstr ""
+
+#: includes/admin/templates/products.php:106
+#: includes/admin/templates/results.php:739
+#: includes/admin/templates/settings/general.php:134
+msgid "Signing-up to our Newsletter"
+msgstr ""
+
+#. translators: 1: message, 2: message, 3: PRO version URL, 4: message.
+
+#: includes/admin/templates/products.php:120
+msgid "Limited to 300 Upsells (Base Products)?"
+msgstr ""
+
+#: includes/admin/templates/products.php:121
+msgid "Calculate unlimited Upsells"
+msgstr ""
+
+#: includes/admin/templates/products.php:133
+msgid "Products - Upsells & Scores"
+msgstr ""
+
+#: includes/admin/templates/products.php:143
+msgid "Preferences"
+msgstr ""
+
+#: includes/admin/templates/products.php:144
+msgid "Calculated Date"
+msgstr ""
+
+#: includes/admin/templates/products.php:154
+msgid "Recalculate Upsells"
+msgstr ""
+
+#: includes/admin/templates/products.php:156
+msgid "Disable"
+msgstr ""
+
+#: includes/admin/templates/results.php:36 includes/functions.php:1479
+#: includes/pro/admin/templates/analytics.php:30 includes/pro/functions.php:107
+msgid "Upsell Results"
+msgstr ""
+
+#: includes/admin/templates/results.php:38
+msgid "Upsell Summary - "
+msgstr ""
+
+#: includes/admin/templates/results.php:38
+msgid " Sales from Upsells"
+msgstr ""
+
+#: includes/admin/templates/results.php:41
+msgid "For the period"
+msgstr ""
+
+#: includes/admin/templates/results.php:45
+msgid "Filters:"
+msgstr ""
+
+#: includes/admin/templates/results.php:46
+msgid "Used"
+msgstr ""
+
+#: includes/admin/templates/results.php:47
+msgid "No Filters"
+msgstr ""
+
+#: includes/admin/templates/results.php:56
+msgid "Top 5 Upsells"
+msgstr ""
+
+#: includes/admin/templates/results.php:83
+#: includes/admin/templates/results.php:127
+#: includes/admin/templates/results.php:170
+#: includes/admin/templates/results.php:213
+msgid "Other"
+msgstr ""
+
+#: includes/admin/templates/results.php:90
+#: includes/admin/templates/results.php:134
+#: includes/admin/templates/results.php:177
+#: includes/admin/templates/results.php:220
+#: includes/admin/templates/results.php:416
+#: includes/admin/templates/results.php:453
+#: includes/admin/templates/results.php:499
+#: includes/admin/templates/results.php:539
+msgid "Total"
+msgstr ""
+
+#: includes/admin/templates/results.php:100
+msgid "Top 5 Base Products"
+msgstr ""
+
+#: includes/admin/templates/results.php:143
+msgid "Top 5 Customers"
+msgstr ""
+
+#: includes/admin/templates/results.php:186
+msgid "Top 5 Orders"
+msgstr ""
+
+#: includes/admin/templates/results.php:234
+#: includes/admin/templates/results.php:276
+#: includes/admin/templates/results.php:306
+#: includes/admin/templates/results.php:335
+#: includes/admin/templates/results.php:781
+msgid "Upsell Value"
+msgstr ""
+
+#: includes/admin/templates/results.php:246
+msgid "Average Upsells per Upsell Product"
+msgstr ""
+
+#: includes/admin/templates/results.php:250
+msgid "Upsell Value Range"
+msgstr ""
+
+#: includes/admin/templates/results.php:254
+msgid "Average Upsell Value"
+msgstr ""
+
+#: includes/admin/templates/results.php:258
+msgid "Days #"
+msgstr ""
+
+#: includes/admin/templates/results.php:264
+msgid "Average Upsell Value per Day"
+msgstr ""
+
+#: includes/admin/templates/results.php:272
+#: includes/admin/templates/results.php:556
+#: includes/pro/admin/templates/analytics.php:39
+#: includes/pro/admin/templates/analytics.php:79
+msgid "Base Products"
+msgstr ""
+
+#: includes/admin/templates/results.php:280
+msgid "Number of Base Products"
+msgstr ""
+
+#: includes/admin/templates/results.php:286
+msgid "Average Upsell Value per Base Product"
+msgstr ""
+
+#: includes/admin/templates/results.php:298
+msgid "Number of Orders incl. Upsells"
+msgstr ""
+
+#: includes/admin/templates/results.php:302
+msgid "Order Value w/o Upsells"
+msgstr ""
+
+#: includes/admin/templates/results.php:310
+msgid "Total Order Value incl. Upsells"
+msgstr ""
+
+#: includes/admin/templates/results.php:314
+msgid "Average Order Value excl. Upsells"
+msgstr ""
+
+#: includes/admin/templates/results.php:318
+msgid "Average Upsell Value per Order"
+msgstr ""
+
+#: includes/admin/templates/results.php:324
+msgid "Average Order Value incl. Upsells"
+msgstr ""
+
+#: includes/admin/templates/results.php:331
+#: includes/admin/templates/results.php:681
+msgid "Customers"
+msgstr ""
+
+#: includes/admin/templates/results.php:339
+msgid "Number of Customers"
+msgstr ""
+
+#: includes/admin/templates/results.php:345
+msgid "Average Upsell Value per Customer"
+msgstr ""
+
+#: includes/admin/templates/results.php:379 includes/functions.php:4752
+#: includes/pro/admin/functions-settings.php:51
+#: includes/pro/admin/templates/settings/widget.php:15
+msgid "Widget"
+msgstr ""
+
+#: includes/admin/templates/results.php:386 includes/functions.php:4753
+#: includes/pro/admin/templates/settings/shortcodes.php:15
+#: includes/pro/admin/templates/settings/shortcodes.php:104
+msgid "Shortcode"
+msgstr ""
+
+#: includes/admin/templates/results.php:393 includes/functions.php:4754
+msgid "Gutenberg Block"
+msgstr ""
+
+#: includes/admin/templates/results.php:407
+#: includes/admin/templates/wizard/locations.php:37 includes/functions.php:4756
+#: includes/pro/admin/functions-settings.php:47
+#: includes/pro/admin/templates/settings/popup-exit-intent.php:49
+msgid "Exit Intent Popup"
+msgstr ""
+
+#: includes/admin/templates/results.php:425
+msgid "Sources"
+msgstr ""
+
+#: includes/admin/templates/results.php:437
+#: includes/admin/templates/settings/page-checkout.php:38
+#: includes/admin/templates/settings/page-product.php:44
+#: includes/admin/templates/settings/popup-add-to-cart.php:46
+#: includes/functions.php:4716
+#: includes/pro/admin/templates/settings/page-purchase-receipt.php:38
+#: includes/pro/admin/templates/settings/popup-exit-intent.php:44
+#: includes/pro/class-psupsellmaster-widget.php:148
+msgid "Visits"
+msgstr ""
+
+#: includes/admin/templates/results.php:462
+msgid "Types"
+msgstr ""
+
+#: includes/admin/templates/results.php:468 includes/functions.php:4788
+msgid "Direct"
+msgstr ""
+
+#: includes/admin/templates/results.php:469
+msgid "The customer purchased an upsell by adding it to the cart directly through the base product page."
+msgstr ""
+
+#: includes/admin/templates/results.php:478 includes/functions.php:4789
+msgid "Indirect"
+msgstr ""
+
+#: includes/admin/templates/results.php:479
+msgid "The customer purchased an upsell by visiting the upsell product page before adding it to the cart."
+msgstr ""
+
+#: includes/admin/templates/results.php:489
+#: includes/admin/templates/results.php:529
+msgid "This data is unknown because some old records don't have it stored."
+msgstr ""
+
+#: includes/admin/templates/results.php:508
+msgid "Views"
+msgstr ""
+
+#: includes/admin/templates/results.php:513
+#: includes/admin/templates/settings/page-checkout.php:32
+#: includes/admin/templates/settings/page-product.php:38
+#: includes/admin/templates/settings/popup-add-to-cart.php:40
+#: includes/functions.php:4821
+#: includes/pro/admin/templates/settings/page-purchase-receipt.php:32
+#: includes/pro/admin/templates/settings/popup-exit-intent.php:38
+#: includes/pro/class-psupsellmaster-widget.php:141
+msgid "Carousel"
+msgstr ""
+
+#: includes/admin/templates/results.php:520
+#: includes/admin/templates/settings/page-checkout.php:33
+#: includes/admin/templates/settings/page-product.php:39
+#: includes/admin/templates/settings/popup-add-to-cart.php:41
+#: includes/functions.php:4822
+#: includes/pro/admin/templates/settings/page-purchase-receipt.php:33
+#: includes/pro/admin/templates/settings/popup-exit-intent.php:39
+#: includes/pro/class-psupsellmaster-widget.php:140
+msgid "List"
+msgstr ""
+
+#: includes/admin/templates/results.php:563
+#: includes/pro/admin/templates/analytics.php:88
+msgid "Base Product Categories"
+msgstr ""
+
+#: includes/admin/templates/results.php:570
+#: includes/pro/admin/templates/analytics.php:97
+msgid "Base Product Tags"
+msgstr ""
+
+#: includes/admin/templates/results.php:621
+#: includes/pro/admin/templates/analytics.php:155
+msgid "Upsell Product Categories"
+msgstr ""
+
+#: includes/admin/templates/results.php:628
+#: includes/pro/admin/templates/analytics.php:164
+msgid "Upsell Product Tags"
+msgstr ""
+
+#: includes/admin/templates/results.php:674
+#: includes/admin/templates/results.php:780
+#: includes/pro/admin/templates/analytics.php:357
+msgid "Related Products"
+msgstr ""
+
+#: includes/admin/templates/results.php:690
+msgid "Upsell Location"
+msgstr ""
+
+#: includes/admin/templates/results.php:697
+msgid "Upsell Source"
+msgstr ""
+
+#: includes/admin/templates/results.php:705
+msgid "Search"
+msgstr ""
+
+#: includes/admin/templates/results.php:708
+msgid "Product Price From"
+msgstr ""
+
+#: includes/admin/templates/results.php:709
+msgid "Product Price To"
+msgstr ""
+
+#: includes/admin/templates/results.php:710
+msgid "Sale Value From"
+msgstr ""
+
+#: includes/admin/templates/results.php:711
+msgid "Sale Value To"
+msgstr ""
+
+#: includes/admin/templates/results.php:737
+msgid "Limited to 50 Upsell Results? Upgrade for free! Unlock up to 300 Upsell Results by"
+msgstr ""
+
+#. translators: 1: message, 2: message, 3: PRO version URL, 4: message.
+
+#: includes/admin/templates/results.php:753
+msgid "Limited to 300 Upsell Results?"
+msgstr ""
+
+#: includes/admin/templates/results.php:754
+msgid "Unlock unlimited Upsell Results"
+msgstr ""
+
+#: includes/admin/templates/results.php:765
+msgid "Results"
+msgstr ""
+
+#: includes/admin/templates/results.php:770
+msgid "ID"
+msgstr ""
+
+#: includes/admin/templates/results.php:772
+#: includes/pro/admin/templates/analytics.php:248
+msgid "Upsell Product"
+msgstr ""
+
+#: includes/admin/templates/results.php:773
+#: includes/pro/admin/templates/analytics.php:247
+msgid "Base Product"
+msgstr ""
+
+#: includes/admin/templates/results.php:774
+msgid "Customer Name"
+msgstr ""
+
+#: includes/admin/templates/results.php:775
+msgid "Location"
+msgstr ""
+
+#: includes/admin/templates/results.php:776
+msgid "Source"
+msgstr ""
+
+#: includes/admin/templates/results.php:777
+msgid "Type"
+msgstr ""
+
+#: includes/admin/templates/settings/campaigns.php:20
+msgid "Prices"
+msgstr ""
+
+#: includes/admin/templates/settings/campaigns.php:25
+#: includes/admin/templates/settings/campaigns.php:273
+msgid "Discount Text"
+msgstr ""
+
+#: includes/admin/templates/settings/campaigns.php:55
+#: includes/admin/templates/settings/campaigns.php:303
+msgid "Please enter the text that will be displayed in prices for products included in campaigns."
+msgstr ""
+
+#: includes/admin/templates/settings/campaigns.php:57
+#: includes/admin/templates/settings/campaigns.php:125
+#: includes/admin/templates/settings/campaigns.php:173
+#: includes/admin/templates/settings/campaigns.php:305
+msgid "Available tags:"
+msgstr ""
+
+#: includes/admin/templates/settings/campaigns.php:59
+#: includes/admin/templates/settings/campaigns.php:307
+msgid "{old_price} - Displays the old product price (original price, without discounts)."
+msgstr ""
+
+#: includes/admin/templates/settings/campaigns.php:61
+#: includes/admin/templates/settings/campaigns.php:309
+msgid "{new_price} - Displays the new product price (discounted price, with discounts)."
+msgstr ""
+
+#: includes/admin/templates/settings/campaigns.php:63
+#: includes/admin/templates/settings/campaigns.php:133
+#: includes/admin/templates/settings/campaigns.php:181
+#: includes/admin/templates/settings/campaigns.php:311
+msgid "{discount_amount} - Displays the discount amount, either % or $ as per the campaign settings."
+msgstr ""
+
+#: includes/admin/templates/settings/campaigns.php:69
+msgid "Triggers"
+msgstr ""
+
+#: includes/admin/templates/settings/campaigns.php:79
+msgid "Products Qty Type"
+msgstr ""
+
+#: includes/admin/templates/settings/campaigns.php:83
+msgid "Distinct Products Quantity"
+msgstr ""
+
+#: includes/admin/templates/settings/campaigns.php:84
+msgid "Total Shopping Cart Quantity"
+msgstr ""
+
+#: includes/admin/templates/settings/campaigns.php:87
+msgid "Please specify whether the product count should be based on distinct products or the total shopping cart quantity."
+msgstr ""
+
+#: includes/admin/templates/settings/campaigns.php:93
+msgid "Min Products Qty Text"
+msgstr ""
+
+#: includes/admin/templates/settings/campaigns.php:123
+msgid "Please enter the text that will be displayed at checkout when the customer has not yet met the minimum product quantity condition from eligible campaigns."
+msgstr ""
+
+#: includes/admin/templates/settings/campaigns.php:127
+msgid "{cart_quantity} - Displays the current shopping cart product quantity."
+msgstr ""
+
+#: includes/admin/templates/settings/campaigns.php:129
+msgid "{min_quantity} - Displays the minimum product quantity as per the campaign settings."
+msgstr ""
+
+#: includes/admin/templates/settings/campaigns.php:131
+msgid "{gap_quantity} - Displays the difference between the minimum and the current product quantity in the shopping cart."
+msgstr ""
+
+#: includes/admin/templates/settings/campaigns.php:135
+#: includes/admin/templates/settings/campaigns.php:183
+msgid "{coupon_code} - Displays the coupon code as per the campaign settings."
+msgstr ""
+
+#: includes/admin/templates/settings/campaigns.php:141
+msgid "Min Subtotal Text"
+msgstr ""
+
+#: includes/admin/templates/settings/campaigns.php:171
+msgid "Please enter the text that will be displayed at checkout when the customer has not yet met the minimum subtotal condition from eligible campaigns."
+msgstr ""
+
+#: includes/admin/templates/settings/campaigns.php:175
+msgid "{cart_subtotal} - Displays the current shopping cart subtotal."
+msgstr ""
+
+#: includes/admin/templates/settings/campaigns.php:177
+msgid "{min_subtotal} - Displays the minimum subtotal as per the campaign settings."
+msgstr ""
+
+#: includes/admin/templates/settings/campaigns.php:179
+msgid "{gap_subtotal} - Displays the difference between the minimum and the current subtotal in the shopping cart."
+msgstr ""
+
+#: includes/admin/templates/settings/campaigns.php:189
+msgid "Coupons"
+msgstr ""
+
+#: includes/admin/templates/settings/campaigns.php:199
+msgid "Allow Mixed Coupons"
+msgstr ""
+
+#: includes/admin/templates/settings/campaigns.php:209
+msgid "Allow Campaign Coupons to be used in conjunction with other Standard Coupons."
+msgstr ""
+
+#: includes/admin/templates/settings/campaigns.php:219
+#: includes/admin/templates/settings/campaigns.php:255
+msgid "Please note this only applies when"
+msgstr ""
+
+#: includes/admin/templates/settings/campaigns.php:221
+#: includes/admin/templates/settings/campaigns.php:257
+msgid "Multiple Discounts (Coupons)"
+msgstr ""
+
+#: includes/admin/templates/settings/campaigns.php:222
+#: includes/admin/templates/settings/campaigns.php:258
+msgid "is allowed"
+msgstr ""
+
+#: includes/admin/templates/settings/campaigns.php:237
+msgid "Multiple Coupons Behavior"
+msgstr ""
+
+#: includes/admin/templates/settings/campaigns.php:241
+msgid "Allow for All Coupons"
+msgstr ""
+
+#: includes/admin/templates/settings/campaigns.php:242
+msgid "Allow for Campaign Coupons only"
+msgstr ""
+
+#: includes/admin/templates/settings/campaigns.php:245
+msgid "Please specify whether multiple coupons are allowed for All Coupons or exclusively for Campaign Coupons."
+msgstr ""
+
+#: includes/admin/templates/settings/campaigns.php:327
+msgid "Banner Position"
+msgstr ""
+
+#: includes/admin/templates/settings/campaigns.php:331
+msgid "Before the Content"
+msgstr ""
+
+#: includes/admin/templates/settings/campaigns.php:332
+msgid "After the Content"
+msgstr ""
+
+#: includes/admin/templates/settings/campaigns.php:333
+msgid "Before the Excerpt"
+msgstr ""
+
+#: includes/admin/templates/settings/campaigns.php:334
+msgid "After the Excerpt"
+msgstr ""
+
+#: includes/admin/templates/settings/campaigns.php:338
+msgid "Please specify if and where the Campaign Banner will be displayed on the Product page."
+msgstr ""
+
+#: includes/admin/templates/settings/general.php:56
+msgid "Daily"
+msgstr ""
+
+#: includes/admin/templates/settings/general.php:57
+msgid "Weekly"
+msgstr ""
+
+#: includes/admin/templates/settings/general.php:58
+msgid "Monthly"
+msgstr ""
+
+#: includes/admin/templates/settings/general.php:59
+msgid "Never"
+msgstr ""
+
+#: includes/admin/templates/settings/general.php:63
+msgid "1 Month"
+msgstr ""
+
+#: includes/admin/templates/settings/general.php:64
+msgid "2 Months"
+msgstr ""
+
+#: includes/admin/templates/settings/general.php:65
+msgid "3 Months"
+msgstr ""
+
+#: includes/admin/templates/settings/general.php:66
+msgid "6 Months"
+msgstr ""
+
+#: includes/admin/templates/settings/general.php:67
+msgid "1 Year"
+msgstr ""
+
+#: includes/admin/templates/settings/general.php:68
+msgid "2 Years"
+msgstr ""
+
+#: includes/admin/templates/settings/general.php:69
+msgid "3 Years"
+msgstr ""
+
+#: includes/admin/templates/settings/general.php:70
+msgid "Keep All"
+msgstr ""
+
+#: includes/admin/templates/settings/general.php:90
+msgid "Please define how many upsell products you wish to present per product"
+msgstr ""
+
+#: includes/admin/templates/settings/general.php:96
+msgid "Recalculation Interval"
+msgstr ""
+
+#: includes/admin/templates/settings/general.php:115
+msgid "Please note: once you will change this value and save your settings, it will remove previous cron schedule for upsell recalculation and add new recalculation cron schedules as per selected value."
+msgstr ""
+
+#: includes/admin/templates/settings/general.php:121
+msgid "Batch size"
+msgstr ""
+
+#: includes/admin/templates/settings/general.php:125
+msgid "Number of products to be processed in single call while calculating upsells"
+msgstr ""
+
+#: includes/admin/templates/settings/general.php:132
+msgid "Limited to 50 Upsells? Upgrade for free! Calculate up to 300 Upsells by"
+msgstr ""
+
+#: includes/admin/templates/settings/general.php:144
+msgid "Keep Upsell Data For"
+msgstr ""
+
+#: includes/admin/templates/settings/general.php:161
+msgid "Auto clean up upsell data periodically"
+msgstr ""
+
+#. translators: 1: message, 2: PRO version URL, 3: message.
+
+#: includes/admin/templates/settings/general.php:169
+msgid "Want to keep Upsell Data forever?"
+msgstr ""
+
+#: includes/admin/templates/settings/general.php:177
+msgid "Please confirm the action"
+msgstr ""
+
+#: includes/admin/templates/settings/general.php:177
+msgid "Clear Results"
+msgstr ""
+
+#: includes/admin/templates/settings/general.php:183
+msgid "Default Upsells"
+msgstr ""
+
+#: includes/admin/templates/settings/general.php:208
+#: includes/admin/templates/settings/popup-add-to-cart.php:77
+#: includes/admin/templates/settings/upsells.php:107
+#: includes/admin/templates/settings/upsells.php:119
+#: includes/admin/templates/settings/upsells.php:172
+#: includes/pro/admin/templates/settings/popup-exit-intent.php:75
+msgid "Choose..."
+msgstr ""
+
+#: includes/admin/templates/settings/general.php:213
+msgid "Will be presented in case no other upsell or visited products are available"
+msgstr ""
+
+#. translators: 1: Text, 2: Text, 3: PRO version URL, 4: Text.
+
+#: includes/admin/templates/settings/general.php:221
+msgid "Need to add more Upsells?"
+msgstr ""
+
+#: includes/admin/templates/settings/general.php:222
+msgid "Unlock unlimited Default Upsells"
+msgstr ""
+
+#: includes/admin/templates/settings/general.php:234
+msgid "Auto calculate Upsells for newly published Products"
+msgstr ""
+
+#: includes/admin/templates/settings/general.php:247
+msgid "Auto calculate Upsells upon Product Update"
+msgstr ""
+
+#: includes/admin/templates/settings/general.php:248
+msgid "Recalculating Upsells on every update leads to high resource usage, especially when using complex algorithms. We recommend disabling the auto recalculation upon update."
+msgstr ""
+
+#: includes/admin/templates/settings/general.php:261
+msgid "Add \"nofollow\" to all links"
+msgstr ""
+
+#: includes/admin/templates/settings/general.php:270
+msgid "Adds the rel=\"nofollow\" HTML attribute to all links in this plugin's product lists/carousels."
+msgstr ""
+
+#: includes/admin/templates/settings/general.php:275
+msgid "Remove Data on Uninstall"
+msgstr ""
+
+#: includes/admin/templates/settings/general.php:284
+msgid "Remove all data when the plugin is deleted."
+msgstr ""
+
+#. translators: 1: Documentation link.
+
+#: includes/admin/templates/settings/help.php:21
+msgid "Please refer to the %s for more detailed information. Explore the documentation to learn how to maximize the plugin's features and optimize your upselling strategies."
+msgstr ""
+
+#: includes/admin/templates/settings/help.php:22
+msgid "UpsellMaster documentation"
+msgstr ""
+
+#. translators: 1: Open support ticket link.
+
+#: includes/admin/templates/settings/help.php:30
+msgid "If you require further assistance or have specific questions, our dedicated support team is ready to help. Please %s to reach out to us."
+msgstr ""
+
+#: includes/admin/templates/settings/help.php:31
+msgid "open a support ticket"
+msgstr ""
+
+#: includes/admin/templates/settings/more.php:72
+msgid "Plugins for your Webstore!"
+msgstr ""
+
+#: includes/admin/templates/settings/more.php:73
+msgid "Get to know some of our best plugins that can enhance the conversion rate of your Easy Digital Downloads Webstore."
+msgstr ""
+
+#: includes/admin/templates/settings/more.php:86
+#: includes/class-psupsellmaster.php:305
+msgid "Documentation"
+msgstr ""
+
+#: includes/admin/templates/settings/more.php:91
+msgid "Support"
+msgstr ""
+
+#: includes/admin/templates/settings/page-checkout.php:27
+#: includes/admin/templates/settings/page-product.php:33
+#: includes/admin/templates/settings/popup-add-to-cart.php:35
+#: includes/pro/admin/templates/settings/page-purchase-receipt.php:27
+#: includes/pro/admin/templates/settings/popup-exit-intent.php:33
+#: includes/pro/class-psupsellmaster-widget.php:183
+msgid "Highest Price Only"
+msgstr ""
+
+#: includes/admin/templates/settings/page-checkout.php:28
+#: includes/admin/templates/settings/page-product.php:34
+#: includes/admin/templates/settings/popup-add-to-cart.php:36
+#: includes/pro/admin/templates/settings/page-purchase-receipt.php:28
+#: includes/pro/admin/templates/settings/popup-exit-intent.php:34
+#: includes/pro/class-psupsellmaster-widget.php:184
+msgid "All Prices"
+msgstr ""
+
+#: includes/admin/templates/settings/page-checkout.php:66
+#: includes/admin/templates/settings/page-product.php:72
+#: includes/admin/templates/settings/popup-add-to-cart.php:96
+#: includes/pro/admin/templates/settings/page-purchase-receipt.php:67
+#: includes/pro/admin/templates/settings/popup-exit-intent.php:94
+msgid "Display type"
+msgstr ""
+
+#: includes/admin/templates/settings/page-checkout.php:114
+#: includes/admin/templates/settings/page-checkout.php:123
+#: includes/admin/templates/settings/page-product.php:120
+#: includes/admin/templates/settings/page-product.php:129
+#: includes/admin/templates/settings/popup-add-to-cart.php:152
+#: includes/admin/templates/settings/popup-add-to-cart.php:161
+#: includes/pro/admin/templates/settings/page-purchase-receipt.php:115
+#: includes/pro/admin/templates/settings/page-purchase-receipt.php:124
+#: includes/pro/admin/templates/settings/popup-exit-intent.php:126
+#: includes/pro/admin/templates/settings/popup-exit-intent.php:135
+#: includes/pro/class-psupsellmaster-widget.php:158
+msgid "Please choose the text labels to be displayed"
+msgstr ""
+
+#: includes/admin/templates/settings/page-checkout.php:119
+#: includes/admin/templates/settings/page-product.php:125
+#: includes/admin/templates/settings/popup-add-to-cart.php:157
+#: includes/pro/admin/templates/settings/page-purchase-receipt.php:120
+#: includes/pro/admin/templates/settings/popup-exit-intent.php:131
+msgid "Call to action text"
+msgstr ""
+
+#: includes/admin/templates/settings/page-checkout.php:129
+#: includes/admin/templates/settings/page-product.php:135
+#: includes/admin/templates/settings/popup-add-to-cart.php:166
+#: includes/pro/admin/templates/settings/page-purchase-receipt.php:130
+#: includes/pro/admin/templates/settings/popup-exit-intent.php:140
+msgid "Max Columns"
+msgstr ""
+
+#: includes/admin/templates/settings/page-checkout.php:142
+#: includes/admin/templates/settings/page-product.php:148
+#: includes/admin/templates/settings/popup-add-to-cart.php:178
+#: includes/pro/admin/templates/settings/page-purchase-receipt.php:143
+#: includes/pro/admin/templates/settings/popup-exit-intent.php:152
+msgid "Max Products in Carousel"
+msgstr ""
+
+#: includes/admin/templates/settings/page-checkout.php:165
+#: includes/admin/templates/settings/page-product.php:171
+#: includes/admin/templates/settings/popup-add-to-cart.php:190
+#: includes/pro/admin/templates/settings/page-purchase-receipt.php:166
+#: includes/pro/admin/templates/settings/popup-exit-intent.php:164
+#: includes/pro/class-psupsellmaster-widget.php:172
+msgid "Max Products per Author"
+msgstr ""
+
+#: includes/admin/templates/settings/page-checkout.php:171
+#: includes/admin/templates/settings/page-product.php:177
+#: includes/admin/templates/settings/popup-add-to-cart.php:195
+#: includes/pro/admin/templates/settings/page-purchase-receipt.php:171
+#: includes/pro/admin/templates/settings/popup-exit-intent.php:169
+#: includes/pro/admin/templates/settings/popup-exit-intent.php:181
+#: includes/pro/class-psupsellmaster-widget.php:175
+msgid "Unlimited"
+msgstr ""
+
+#: includes/admin/templates/settings/page-checkout.php:180
+#: includes/admin/templates/settings/page-product.php:186
+#: includes/admin/templates/settings/popup-add-to-cart.php:202
+#: includes/pro/admin/templates/settings/page-purchase-receipt.php:179
+#: includes/pro/admin/templates/settings/popup-exit-intent.php:188
+msgid "Add to Cart Button"
+msgstr ""
+
+#: includes/admin/templates/settings/page-checkout.php:202
+#: includes/admin/templates/settings/page-product.php:208
+#: includes/admin/templates/settings/popup-add-to-cart.php:216
+#: includes/pro/admin/templates/settings/page-purchase-receipt.php:201
+#: includes/pro/admin/templates/settings/popup-exit-intent.php:202
+msgid "Title Length"
+msgstr ""
+
+#: includes/admin/templates/settings/page-checkout.php:210
+#: includes/admin/templates/settings/page-product.php:216
+#: includes/admin/templates/settings/popup-add-to-cart.php:224
+#: includes/pro/admin/templates/settings/page-purchase-receipt.php:209
+#: includes/pro/admin/templates/settings/popup-exit-intent.php:210
+msgid "Description Length"
+msgstr ""
+
+#: includes/admin/templates/settings/page-product.php:28
+msgid "Position 1"
+msgstr ""
+
+#: includes/admin/templates/settings/page-product.php:29
+msgid "Position 2"
+msgstr ""
+
+#: includes/admin/templates/settings/page-product.php:226
+msgid "Position"
+msgstr ""
+
+#: includes/admin/templates/settings/page-product.php:227
+msgid "Select the position where to show the List/Carousel on the Product Page. Depending on WordPress Theme, some Themes work better with position 1 than 2."
+msgstr ""
+
+#: includes/admin/templates/settings/popup-add-to-cart.php:74
+#: includes/pro/admin/templates/settings/popup-exit-intent.php:72
+msgid "Excluded Pages"
+msgstr ""
+
+#: includes/admin/templates/settings/popup-add-to-cart.php:84
+#: includes/pro/admin/templates/settings/popup-exit-intent.php:82
+msgid "no title"
+msgstr ""
+
+#: includes/admin/templates/settings/popup-add-to-cart.php:124
+msgid "Headline"
+msgstr ""
+
+#: includes/admin/templates/settings/popup-add-to-cart.php:132
+msgid "Tagline"
+msgstr ""
+
+#: includes/admin/templates/settings/popup-add-to-cart.php:140
+msgid "Button"
+msgstr ""
+
+#. translators: 1: Open support ticket link.
+
+#: includes/admin/templates/settings/popup-add-to-cart.php:236
+#: includes/pro/admin/templates/settings/popup-exit-intent.php:222
+#: includes/pro/admin/templates/settings/shortcodes.php:95
+#: includes/pro/admin/templates/settings/widget.php:30
+msgid "Note for Developers: Please note that you can feed %1$s to the %2$s."
+msgstr ""
+
+#: includes/admin/templates/settings/popup-add-to-cart.php:237
+#: includes/pro/admin/templates/settings/popup-exit-intent.php:223
+#: includes/pro/admin/templates/settings/shortcodes.php:96
+#: includes/pro/admin/templates/settings/widget.php:31
+msgid "product IDs via Webhook"
+msgstr ""
+
+#: includes/admin/templates/settings/popup-add-to-cart.php:238
+#: includes/pro/admin/templates/settings/popup-exit-intent.php:224
+msgid "popup"
+msgstr ""
+
+#: includes/admin/templates/settings/upsells.php:104
+#: includes/pro/admin/functions-edit-product.php:71
+#: includes/pro/admin/functions-products.php:40
+msgid "Excluded Categories"
+msgstr ""
+
+#: includes/admin/templates/settings/upsells.php:116
+#: includes/pro/admin/functions-edit-product.php:85
+#: includes/pro/admin/functions-products.php:50
+msgid "Excluded Tags"
+msgstr ""
+
+#: includes/admin/templates/settings/upsells.php:186
+msgid "Price Range"
+msgstr ""
+
+#: includes/admin/templates/settings/upsells.php:192
+msgid "Min"
+msgstr ""
+
+#: includes/admin/templates/settings/upsells.php:192
+msgid "Max"
+msgstr ""
+
+#: includes/admin/templates/settings/upsells.php:201
+msgid "Matching Priorities Only"
+msgstr ""
+
+#: includes/admin/templates/settings/upsells.php:216
+msgid "Priorities"
+msgstr ""
+
+#: includes/admin/templates/settings/upsells.php:224
+#: includes/admin/templates/settings/upsells.php:261
+#: includes/admin/templates/wizard/upsells.php:64
+#: includes/admin/templates/wizard/upsells.php:101
+msgid "Criteria"
+msgstr ""
+
+#: includes/admin/templates/settings/upsells.php:225
+#: includes/admin/templates/wizard/upsells.php:65
+msgid "The criteria to identify upsell products."
+msgstr ""
+
+#: includes/admin/templates/settings/upsells.php:228
+#: includes/admin/templates/settings/upsells.php:271
+#: includes/admin/templates/wizard/upsells.php:68
+#: includes/admin/templates/wizard/upsells.php:111
+msgid "Weight"
+msgstr ""
+
+#: includes/admin/templates/settings/upsells.php:229
+#: includes/admin/templates/wizard/upsells.php:69
+msgid "The weight is used to build the score of the upsell products."
+msgstr ""
+
+#: includes/admin/templates/settings/upsells.php:237
+#: includes/admin/templates/wizard/upsells.php:77
+msgid "Enable Logarithmic Scale"
+msgstr ""
+
+#: includes/admin/templates/settings/upsells.php:238
+#: includes/admin/templates/wizard/upsells.php:78
+msgid "The logarithmic scale makes it easy to use large scales using the slider."
+msgstr ""
+
+#: includes/admin/templates/settings/upsells.php:244
+#: includes/admin/templates/wizard/upsells.php:84
+msgid "Max Weight"
+msgstr ""
+
+#: includes/admin/templates/settings/upsells.php:245
+#: includes/admin/templates/wizard/upsells.php:85
+msgid "This allows to use smaller ranges and sets the maximum weight when not using the logarithmic scale."
+msgstr ""
+
+#: includes/admin/templates/settings/upsells.php:263
+#: includes/admin/templates/wizard/upsells.php:103
+msgid "Select the Priority"
+msgstr ""
+
+#: includes/admin/templates/settings/upsells.php:282
+#: includes/admin/templates/wizard/upsells.php:122
+msgid "Priority Criterias"
+msgstr ""
+
+#: includes/admin/templates/settings.php:24
+msgid "UpsellMaster Settings"
+msgstr ""
+
+#: includes/admin/templates/settings.php:67
+msgid "Save Changes"
+msgstr ""
+
+#: includes/admin/templates/settings.php:80
+msgid "Are you sure you want to proceed and clear all results data?"
+msgstr ""
+
+#: includes/admin/templates/settings.php:83
+msgid "Confirm"
+msgstr ""
+
+#: includes/admin/templates/wizard/campaigns.php:27
+msgid "Campaign from Setup Wizard"
+msgstr ""
+
+#: includes/admin/templates/wizard/campaigns.php:102
+msgid "Now its time to run a first campaign by setting up a special promotion offer for all Customers."
+msgstr ""
+
+#: includes/admin/templates/wizard/campaigns.php:103
+msgid "Please set the general data for the first campaign. The campaign data may be changed at any time later on."
+msgstr ""
+
+#: includes/admin/templates/wizard/campaigns.php:157
+#: includes/admin/templates/wizard/locations.php:70
+#: includes/admin/templates/wizard/summary.php:202
+#: includes/admin/templates/wizard/upsells.php:136
+msgid "Previous Step"
+msgstr ""
+
+#: includes/admin/templates/wizard/campaigns.php:158
+#: includes/admin/templates/wizard/locations.php:71
+#: includes/admin/templates/wizard/upsells.php:137
+msgid "Skip Step"
+msgstr ""
+
+#: includes/admin/templates/wizard/campaigns.php:159
+#: includes/admin/templates/wizard/locations.php:72
+#: includes/admin/templates/wizard/upsells.php:138
+msgid "Save & Continue"
+msgstr ""
+
+#: includes/admin/templates/wizard/locations.php:49
+msgid "Please define the Locations where Upsell Lists & Carousels shall be displayed."
+msgstr ""
+
+#: includes/admin/templates/wizard/locations.php:50
+msgid "The Locations may be changed at any time later on."
+msgstr ""
+
+#: includes/admin/templates/wizard/locations.php:51
+msgid "The Upsells may also be displayed through Shortcodes and Blocks on any page later on."
+msgstr ""
+
+#: includes/admin/templates/wizard/start.php:17
+#: includes/admin/templates/wizard.php:15
+msgid "Start"
+msgstr ""
+
+#: includes/admin/templates/wizard/start.php:18
+msgid "Congratulations for deciding to use UpsellMaster!"
+msgstr ""
+
+#: includes/admin/templates/wizard/start.php:19
+msgid "UpsellMaster setup is fast and easy. We'll quickly walk you through some important settings. Don't worry: You can go back and change anything you do - at anytime."
+msgstr ""
+
+#: includes/admin/templates/wizard/start.php:20
+msgid "UpsellMaster allows showing Upsell Products throughout the whole Website and offers a data-driven algorithm to automatically calculate scores and select the most suitable Upsells for every single product. "
+msgstr ""
+
+#: includes/admin/templates/wizard/start.php:21
+msgid "Display Upsell Products, Recently Visited Products, and Campaign Products on the Website."
+msgstr ""
+
+#: includes/admin/templates/wizard/start.php:22
+msgid "Overall, UpsellMaster offers a comprehensive tool to manage your Upsells aiming to bump-up the average order value of all Webstore Customers."
+msgstr ""
+
+#: includes/admin/templates/wizard/start.php:26
+msgid "Start Wizard"
+msgstr ""
+
+#: includes/admin/templates/wizard/summary.php:80
+#: includes/admin/templates/wizard.php:19
+msgid "Summary"
+msgstr ""
+
+#: includes/admin/templates/wizard/summary.php:81
+msgid "Are you ready to start the Upselling Journey aiming to enhance the Revenues of your Webstore?"
+msgstr ""
+
+#: includes/admin/templates/wizard/summary.php:82
+msgid "Please check the topics below to confirm the Website is ready to Start Upselling!"
+msgstr ""
+
+#: includes/admin/templates/wizard/summary.php:88
+msgid "Setup Wizard Successfully Saved"
+msgstr ""
+
+#: includes/admin/templates/wizard/summary.php:96
+msgid "Priority Criteria Defined"
+msgstr ""
+
+#: includes/admin/templates/wizard/summary.php:100
+msgid "Webstore Products Analyzed"
+msgstr ""
+
+#: includes/admin/templates/wizard/summary.php:107
+msgid "Purchase Tracking Installed"
+msgstr ""
+
+#: includes/admin/templates/wizard/summary.php:118
+msgid "Upsell Display Locations Defined"
+msgstr ""
+
+#: includes/admin/templates/wizard/summary.php:127
+msgid "double-check the Locations step"
+msgstr ""
+
+#: includes/admin/templates/wizard/summary.php:128
+msgid "At least one Location should be defined"
+msgstr ""
+
+#: includes/admin/templates/wizard/summary.php:137
+msgid "Shortcodes & Blocks Available"
+msgstr ""
+
+#: includes/admin/templates/wizard/summary.php:141
+msgid "Campaigns Module Installed"
+msgstr ""
+
+#: includes/admin/templates/wizard/summary.php:150
+msgid "Attractive Campaign Created"
+msgstr ""
+
+#: includes/admin/templates/wizard/summary.php:159
+msgid "double-check the Campaigns step"
+msgstr ""
+
+#: includes/admin/templates/wizard/summary.php:160
+msgid "The Campaign was not created"
+msgstr ""
+
+#: includes/admin/templates/wizard/summary.php:169
+msgid "Advanced Settings Available"
+msgstr ""
+
+#: includes/admin/templates/wizard/summary.php:174
+msgid "Happy Upselling!"
+msgstr ""
+
+#. translators: 1: Text, 2: Product URL, 3: Text.
+
+#: includes/admin/templates/wizard/summary.php:181
+msgid "Enhance your Upsells further and Unlock unlimited features"
+msgstr ""
+
+#: includes/admin/templates/wizard/summary.php:183
+msgid "Get the PRO version"
+msgstr ""
+
+#. translators: 1: Text, 2: Anchor Documentation URL, 3: Anchor Text, 4: Text.
+
+#: includes/admin/templates/wizard/summary.php:192
+msgid "Please read the"
+msgstr ""
+
+#: includes/admin/templates/wizard/summary.php:194
+msgid "documentation"
+msgstr ""
+
+#: includes/admin/templates/wizard/summary.php:195
+msgid "for more information"
+msgstr ""
+
+#: includes/admin/templates/wizard/summary.php:203
+msgid "Start Upselling!"
+msgstr ""
+
+#: includes/admin/templates/wizard/upsells.php:52
+msgid "Please define how to best select Upsells through the priorities by choosing the criteria and weights aiming to match the interest of the customers."
+msgstr ""
+
+#: includes/admin/templates/wizard/upsells.php:53
+msgid "The Upsell Algorithm automatically calculates the scores for all products and identify the most suitable Upsells for every single product."
+msgstr ""
+
+#: includes/admin/templates/wizard/upsells.php:54
+msgid "Please set the initial criteria for the score system to get started. The priorities (criteria, weights, etc.) may be changed at any time later on."
+msgstr ""
+
+#: includes/admin/templates/wizard.php:32
+msgid "UpsellMaster - Setup Wizard"
+msgstr ""
+
+#. translators: %d: interval
+#. translators: 1: interval.
+
+#: includes/background/class-psupsellmaster-background-process.php:225
+#: includes/background/class-psupsellmaster-wp-background-process.php:414
+msgid "Every %d minutes"
+msgstr ""
+
+#. translators: %1$d processing label, %2$d percentage, %3$d processed
+#. products, %4$d total products, %5$s products label.
+
+#: includes/background/functions-analytics-orders.php:595
+#: includes/background/functions-analytics-upsells.php:469
+#: includes/background/functions-edd-prices.php:503
+#: includes/background/functions-scores.php:2010
+#: includes/background/functions.php:263
+msgid "Processing"
+msgstr ""
+
+#: includes/background/functions-analytics-orders.php:607
+#: includes/background/functions-analytics-upsells.php:481
+#: includes/background/functions-edd-prices.php:515
+#: includes/background/functions-scores.php:2027
+#: includes/background/functions.php:280
+msgid "Aborting"
+msgstr ""
+
+#: includes/background/functions-scores.php:2014
+#: includes/background/functions.php:267
+msgid "products"
+msgstr ""
+
+#: includes/class-psupsellmaster-settings.php:79
+#: includes/class-psupsellmaster-settings.php:91 includes/functions.php:1196
+#: includes/functions.php:1345 includes/pro/functions-settings.php:49
+#: includes/pro/functions-widgets.php:65
+msgid "Similar Products"
+msgstr ""
+
+#: includes/class-psupsellmaster-settings.php:80
+#: includes/class-psupsellmaster-settings.php:92
+#: includes/pro/functions-settings.php:50
+msgid "Other customers where also interested in..."
+msgstr ""
+
+#: includes/class-psupsellmaster-settings.php:103
+msgid "Product Added to Cart"
+msgstr ""
+
+#: includes/class-psupsellmaster-settings.php:104
+msgid "The following product was just added to your cart."
+msgstr ""
+
+#: includes/class-psupsellmaster-settings.php:105
+msgid "Checkout"
+msgstr ""
+
+#: includes/class-psupsellmaster-settings.php:106
+msgid "How about adding something more?"
+msgstr ""
+
+#: includes/class-psupsellmaster-settings.php:107
+msgid "Have you considered also these products?"
+msgstr ""
+
+#: includes/class-psupsellmaster-settings.php:117
+#: includes/class-psupsellmaster-settings.php:119
+#: includes/class-psupsellmaster-settings.php:120
+#: includes/class-psupsellmaster-settings.php:124
+msgid "OFF"
+msgstr ""
+
+#: includes/class-psupsellmaster-settings.php:119
+#: includes/class-psupsellmaster-settings.php:120
+msgid "Purchase at least"
+msgstr ""
+
+#: includes/class-psupsellmaster-settings.php:119
+#: includes/class-psupsellmaster-settings.php:120
+msgid "products to qualify for"
+msgstr ""
+
+#: includes/class-psupsellmaster-settings.php:124
+msgid "Subject to"
+msgstr ""
+
+#. translators: %1$s: open anchor tag, 2: close anchor tag.
+
+#: includes/class-psupsellmaster.php:279
+msgid "%1$s Settings %2$s"
+msgstr ""
+
+#: includes/class-psupsellmaster.php:306
+msgid "Open Support Ticket"
+msgstr ""
+
+#: includes/class-psupsellmaster.php:307 includes/class-psupsellmaster.php:330
+msgid "Post Review"
+msgstr ""
+
+#: includes/class-psupsellmaster.php:321
+msgid "WordPress User"
+msgstr ""
+
+#: includes/class-psupsellmaster.php:329
+msgid "Hi %1$s, Thank you for using %2$s. Please don't forget to rate our plugin. We sincerely appreciate your feedback."
+msgstr ""
+
+#: includes/functions-abort.php:35 includes/functions-abort.php:57
+msgid "Heads up!"
+msgstr ""
+
+#: includes/functions-abort.php:36
+msgid "UpsellMaster is not fully loaded due to an invalid installation"
+msgstr ""
+
+#: includes/functions-abort.php:37
+msgid "The current installation is"
+msgstr ""
+
+#: includes/functions-abort.php:39
+msgid "Please ensure the installation matches either"
+msgstr ""
+
+#: includes/functions-abort.php:43
+msgid "Kindly (1) uninstall the plugin and (2) install the official version"
+msgstr ""
+
+#: includes/functions-abort.php:58
+msgid "Your site already has UpsellMaster PRO activated. If you want to switch to UpsellMaster LITE, please first go to Plugins → Installed Plugins and deactivate UpsellMaster PRO. Then, you can activate UpsellMaster LITE."
+msgstr ""
+
+#: includes/functions-base.php:680
+msgid "Active"
+msgstr ""
+
+#: includes/functions-base.php:681
+msgid "Inactive"
+msgstr ""
+
+#: includes/functions-base.php:682
+msgid "Expired"
+msgstr ""
+
+#: includes/functions-base.php:683
+msgid "Scheduled"
+msgstr ""
+
+#: includes/functions-campaigns.php:5622
+msgid "UpsellMaster Tag"
+msgstr ""
+
+#: includes/functions-campaigns.php:7218 includes/functions-campaigns.php:7460
+msgid "This discount is invalid."
+msgstr ""
+
+#. translators: 1: the required minimum number of products in the cart.
+
+#: includes/functions-campaigns.php:7322
+msgid "This coupon requires at least %d product in the cart."
+msgid_plural "This coupon requires at least %d products in the cart."
+msgstr[0] ""
+msgstr[1] ""
+
+#. translators: 1: the required minimum cart subtotal.
+
+#: includes/functions-campaigns.php:7447
+msgid "The minimum spend for this coupon is %s."
+msgstr ""
+
+#: includes/functions-campaigns.php:8218
+msgid "Buy Now"
+msgstr ""
+
+#: includes/functions-campaigns.php:8218
+msgid "Purchase"
+msgstr ""
+
+#: includes/functions.php:727
+msgid "Free"
+msgstr ""
+
+#: includes/functions.php:735 includes/functions.php:746
+msgid "to"
+msgstr ""
+
+#: includes/functions.php:763
+msgid "Please login first"
+msgstr ""
+
+#: includes/functions.php:1197 includes/functions.php:1346
+#: includes/pro/functions-widgets.php:70
+msgid "Other customers were also interested in..."
+msgstr ""
+
+#: includes/functions.php:1405 includes/functions.php:1489
+msgid "Category"
+msgstr ""
+
+#: includes/functions.php:1408 includes/functions.php:1494
+msgid "Tag"
+msgstr ""
+
+#: includes/functions.php:1427
+msgid "This criteria gives priority to products with a higher percentage of lifetime sales in the store."
+msgstr ""
+
+#: includes/functions.php:1430
+msgid "This criteria gives priority to products that have a higher number of shared Categories between them."
+msgstr ""
+
+#: includes/functions.php:1433
+msgid "This criteria gives priority to products that have a higher number of shared Tags between them."
+msgstr ""
+
+#: includes/functions.php:1484 includes/pro/admin/templates/analytics.php:31
+#: includes/pro/functions.php:108
+msgid "Related Results"
+msgstr ""
+
+#: includes/functions.php:1499
+msgid "Prefered Product"
+msgstr ""
+
+#: includes/functions.php:1504
+msgid "No Priority"
+msgstr ""
+
+#: includes/functions.php:5644
+msgid "WooCommerce"
+msgstr ""
+
+#: includes/functions.php:5649
+msgid "Easy Digital Downloads"
+msgstr ""
+
+#: includes/functions.php:5664
+msgid "Monday"
+msgstr ""
+
+#: includes/functions.php:5665
+msgid "Tuesday"
+msgstr ""
+
+#: includes/functions.php:5666
+msgid "Wednesday"
+msgstr ""
+
+#: includes/functions.php:5667
+msgid "Thursday"
+msgstr ""
+
+#: includes/functions.php:5668
+msgid "Friday"
+msgstr ""
+
+#: includes/functions.php:5669
+msgid "Saturday"
+msgstr ""
+
+#: includes/functions.php:5670
+msgid "Sunday"
+msgstr ""
+
+#. translators: 1: message, 2: message, 3: message, 4: PRO version URL, 5:
+#. message.
+
+#: includes/functions.php:6570
+msgid "The campaigns limit has been reached."
+msgstr ""
+
+#: includes/functions.php:6571
+msgid "Unlock unlimited campaigns"
+msgstr ""
+
+#: includes/functions.php:6572
+msgid "in the"
+msgstr ""
+
+#: includes/functions.php:6574 includes/lite/admin/functions-campaigns.php:23
+msgid "PRO version"
+msgstr ""
+
+#: includes/functions.php:7381
+msgid "Year"
+msgstr ""
+
+#: includes/functions.php:7382
+msgid "Month"
+msgstr ""
+
+#: includes/functions.php:7383
+msgid "Day"
+msgstr ""
+
+#: includes/functions.php:7384
+msgid "Hour"
+msgstr ""
+
+#: includes/functions.php:7385
+msgid "Minute"
+msgstr ""
+
+#: includes/functions.php:7386
+msgid "Second"
+msgstr ""
+
+#: includes/functions.php:7389
+msgid "Years"
+msgstr ""
+
+#: includes/functions.php:7390
+msgid "Months"
+msgstr ""
+
+#: includes/functions.php:7391
+msgid "Days"
+msgstr ""
+
+#: includes/functions.php:7392
+msgid "Hours"
+msgstr ""
+
+#: includes/functions.php:7393
+msgid "Minutes"
+msgstr ""
+
+#: includes/functions.php:7394
+msgid "Seconds"
+msgstr ""
+
+#. translators: 1: new blank campaign link.
+
+#: includes/lite/admin/functions-campaigns.php:22
+msgid "Unlock an extensive collection of exclusive templates tailored for every annual event in the %s."
+msgstr ""
+
+#: includes/lite/admin/functions-notices.php:19
+msgid "Offer more suitable and effective Upsells to customers - Watch your revenues soar."
+msgstr ""
+
+#: includes/lite/admin/functions-notices.php:20
+msgid "Calculate more tailored Upsells for all your products - No Limits!"
+msgstr ""
+
+#: includes/lite/admin/functions-notices.php:21
+msgid "Take control of your offers - Get more flexibility in calculating automatic upsells for your products."
+msgstr ""
+
+#: includes/lite/admin/functions-notices.php:22
+msgid "Keep Upselling everywhere - Upsell use the purchase receipt page to upsell your products to existing customers."
+msgstr ""
+
+#: includes/lite/admin/functions-notices.php:23
+msgid "Boost your Upsell visibility - Place offers in Sidebars to expand customer reach."
+msgstr ""
+
+#: includes/lite/admin/functions-notices.php:24
+msgid "Showcase Upsells on Select Pages - Place your offers anywhere using Page Blocks."
+msgstr ""
+
+#: includes/lite/admin/functions-notices.php:25
+msgid "Get more Promotion Templates - Create powerful, revenue-generating campaigns."
+msgstr ""
+
+#: includes/lite/admin/functions-notices.php:26
+msgid "Run more discount campaigns - Expand your promotional holiday offers using more templates."
+msgstr ""
+
+#: includes/lite/admin/functions-notices.php:27
+msgid "Efficiently manage discount codes - Create promotional campaign offers for your customers."
+msgstr ""
+
+#: includes/lite/admin/functions-notices.php:28
+msgid "Maximize Revenue with consistent Upselling - Streamline your Upsell Strategy today."
+msgstr ""
+
+#. translators: 1: main message, 2: PRO version URL, 3: upgrade to pro message.
+
+#: includes/lite/admin/functions-notices.php:48
+#: includes/pro/admin/templates/settings/widget.php:22
+#: includes/pro/class-psupsellmaster-widget.php:26
+msgid "UpsellMaster"
+msgstr ""
+
+#. translators: 1: tags start, 2: tags end.
+
+#: includes/lite/admin/functions-wp-plugins.php:22
+msgid "%1$sUpgrade to PRO!%2$s"
+msgstr ""
+
+#: includes/pro/admin/functions-campaigns.php:33
+msgid "Christmas Eve"
+msgstr ""
+
+#: includes/pro/admin/functions-campaigns.php:43
+msgid "Christmas Eve Magic!"
+msgstr ""
+
+#: includes/pro/admin/functions-campaigns.php:44
+msgid "Experience the enchantment of Christmas Eve with incredible discounts on all your favorites. Start the festivities early and make this evening truly magical!"
+msgstr ""
+
+#: includes/pro/admin/functions-campaigns.php:71
+msgid "Christmas Special"
+msgstr ""
+
+#: includes/pro/admin/functions-campaigns.php:81
+msgid "'Tis the Season for Special Savings!"
+msgstr ""
+
+#: includes/pro/admin/functions-campaigns.php:82
+msgid "Embrace the holiday spirit with exclusive discounts and delightful surprises. Make this Christmas extra special with gifts that truly sparkle. Shop now and make the season bright!"
+msgstr ""
+
+#: includes/pro/admin/functions-campaigns.php:109
+msgid "New Year's Eve"
+msgstr ""
+
+#: includes/pro/admin/functions-campaigns.php:119
+msgid "Ring in the New Year with Savings!"
+msgstr ""
+
+#: includes/pro/admin/functions-campaigns.php:120
+msgid "Get ready to celebrate and save as we count down to the New Year. Start the festivities with unbeatable deals!"
+msgstr ""
+
+#: includes/pro/admin/functions-campaigns.php:147
+msgid "New Year's Special"
+msgstr ""
+
+#: includes/pro/admin/functions-campaigns.php:157
+msgid "Cheers to the New Year!"
+msgstr ""
+
+#: includes/pro/admin/functions-campaigns.php:158
+msgid "Celebrate the first day of the year with dazzling discounts and exciting offers. Kick off the year with a bang - shop now!"
+msgstr ""
+
+#: includes/pro/admin/functions-campaigns.php:185
+msgid "Easter"
+msgstr ""
+
+#: includes/pro/admin/functions-campaigns.php:195
+msgid "Hop into Spring with Egg-citing Savings!"
+msgstr ""
+
+#: includes/pro/admin/functions-campaigns.php:196
+msgid "Celebrate the joy of Easter with delightful discounts on our Easter collection. Every bunny will love these amazing offers. Hop on over and start shopping!"
+msgstr ""
+
+#: includes/pro/admin/functions-campaigns.php:223
+msgid "Week's Special"
+msgstr ""
+
+#: includes/pro/admin/functions-campaigns.php:233
+msgid "Weekly Specials, Daily Thrills!"
+msgstr ""
+
+#: includes/pro/admin/functions-campaigns.php:234
+msgid "Uncover a new surprise every day with our exciting weekly specials. Don't miss out on these limited-time offers - shop now and save big!"
+msgstr ""
+
+#: includes/pro/admin/functions-campaigns.php:260
+msgid "Weekend's Special"
+msgstr ""
+
+#: includes/pro/admin/functions-campaigns.php:270
+msgid "Special Weekend Alert!"
+msgstr ""
+
+#: includes/pro/admin/functions-campaigns.php:271
+msgid "Make your weekend exceptional with exclusive discounts on a wide range of products. Start shopping now and elevate your weekend experience!"
+msgstr ""
+
+#: includes/pro/admin/functions-campaigns.php:297
+msgid "Valentine's Day"
+msgstr ""
+
+#: includes/pro/admin/functions-campaigns.php:307
+msgid "Love is in the Air! Happy Valentine's Day!"
+msgstr ""
+
+#: includes/pro/admin/functions-campaigns.php:308
+msgid "Celebrate love with the perfect gift at prices that will warm your heart. Show your love with our handpicked Valentine's Day specials. Shop now and spread the love!"
+msgstr ""
+
+#: includes/pro/admin/functions-campaigns.php:335
+msgid "Halloween"
+msgstr ""
+
+#: includes/pro/admin/functions-campaigns.php:345
+msgid "Spooky Savings Await!"
+msgstr ""
+
+#: includes/pro/admin/functions-campaigns.php:346
+msgid "Get ready for a wickedly delightful Halloween with fang-tastic discounts on costumes, decor, and more. Don't ghost on these scary-good deals!"
+msgstr ""
+
+#: includes/pro/admin/functions-campaigns.php:373
+msgid "Father's Day"
+msgstr ""
+
+#: includes/pro/admin/functions-campaigns.php:383
+msgid "Celebrate Dad - Happy Father's Day!"
+msgstr ""
+
+#: includes/pro/admin/functions-campaigns.php:384
+msgid "Show your love and appreciation to the world's greatest dad with awesome discounts on thoughtful gifts. Make this Father's Day extra special!"
+msgstr ""
+
+#: includes/pro/admin/functions-campaigns.php:411
+msgid "Mother's Day"
+msgstr ""
+
+#: includes/pro/admin/functions-campaigns.php:421
+msgid "Celebrate Mom - Happy Mother's Day!"
+msgstr ""
+
+#: includes/pro/admin/functions-campaigns.php:422
+msgid "Express your love with the perfect gift for the extraordinary mom in your life. Make this Mother's Day unforgettable with our special offers. Shop now and shower her with love!"
+msgstr ""
+
+#: includes/pro/admin/functions-campaigns.php:449
+msgid "Thanksgiving"
+msgstr ""
+
+#: includes/pro/admin/functions-campaigns.php:459
+msgid "Giving Thanks, Giving Deals!"
+msgstr ""
+
+#: includes/pro/admin/functions-campaigns.php:460
+msgid "Celebrate the season of gratitude with amazing discounts on all your favorites."
+msgstr ""
+
+#: includes/pro/admin/functions-campaigns.php:461
+msgid "Fill your cart and your heart this Thanksgiving!"
+msgstr ""
+
+#: includes/pro/admin/functions-campaigns.php:488
+msgid "Labor Day"
+msgstr ""
+
+#: includes/pro/admin/functions-campaigns.php:498
+msgid "Labor Day Extravaganza!"
+msgstr ""
+
+#: includes/pro/admin/functions-campaigns.php:499
+msgid "Celebrate your hard work with fantastic deals on products that will make your day off even sweeter. It's your time to shine, so shop away!"
+msgstr ""
+
+#: includes/pro/admin/functions-campaigns.php:526
+msgid "Women's Day"
+msgstr ""
+
+#: includes/pro/admin/functions-campaigns.php:536
+msgid "Celebrate Women - Happy Women's Day!"
+msgstr ""
+
+#: includes/pro/admin/functions-campaigns.php:537
+msgid "Treat the remarkable women in your life to special gifts and exclusive discounts. Celebrate Women's Day in style and honor their strength and grace!"
+msgstr ""
+
+#: includes/pro/admin/functions-campaigns.php:564
+msgid "Children's Day"
+msgstr ""
+
+#: includes/pro/admin/functions-campaigns.php:574
+msgid "Happy Children's Day!"
+msgstr ""
+
+#: includes/pro/admin/functions-campaigns.php:575
+msgid "Make their day extra special with gifts that spark joy. Celebrate the young hearts and create beautiful memories with amazing deals!"
+msgstr ""
+
+#: includes/pro/admin/functions-campaigns.php:1372
+msgid "UpsellMaster campaigns requires the Coupons feature"
+msgstr ""
+
+#: includes/pro/admin/functions-campaigns.php:1373
+msgid "Please enable coupons in the"
+msgstr ""
+
+#: includes/pro/admin/functions-campaigns.php:1375
+#: includes/pro/admin/functions-campaigns.php:1419
+msgid "Store Settings"
+msgstr ""
+
+#: includes/pro/admin/functions-campaigns.php:1416
+msgid "There are multiple campaigns with Coupon Codes (Discounts) running at the same time"
+msgstr ""
+
+#: includes/pro/admin/functions-campaigns.php:1417
+msgid "Please enable Multiple Discounts (Coupons) in the"
+msgstr ""
+
+#. translators: %s: Product Taxonomy Label
+
+#: includes/pro/admin/functions-edit-product.php:134
+#: includes/pro/admin/functions-products.php:94
+msgid "Excluded %s"
+msgstr ""
+
+#: includes/pro/admin/functions-pages.php:24
+#: includes/pro/admin/functions-pages.php:25
+msgid "Analytics"
+msgstr ""
+
+#: includes/pro/admin/functions-pages.php:33
+#: includes/pro/admin/functions-pages.php:34
+#: includes/pro/admin/functions-wp-plugins.php:77
+#: includes/pro/admin/templates/license.php:56
+msgid "License"
+msgstr ""
+
+#: includes/pro/admin/functions-settings.php:55
+msgid "Shortcodes"
+msgstr ""
+
+#. translators: 1: License URL, 2: Link text.
+
+#: includes/pro/admin/functions-wp-plugins.php:39
+#: includes/pro/admin/templates/license.php:99
+msgid "Activate License"
+msgstr ""
+
+#: includes/pro/admin/functions-wp-plugins.php:49
+msgid "Inactive &mdash; You've got PRO!"
+msgstr ""
+
+#: includes/pro/admin/functions-wp-plugins.php:54
+msgid "Inactive &mdash; Invalid installation!"
+msgstr ""
+
+#: includes/pro/admin/templates/analytics.php:26
+msgid "Upsell Analytics"
+msgstr ""
+
+#: includes/pro/admin/templates/analytics.php:46
+msgid "Top-10 Upsell Products"
+msgstr ""
+
+#: includes/pro/admin/templates/analytics.php:47
+msgid "Upsell products that resulted in the highest number and amount of sales (best products to use as Upsells)."
+msgstr ""
+
+#: includes/pro/admin/templates/analytics.php:59
+msgid "Top-10 Base Products"
+msgstr ""
+
+#: includes/pro/admin/templates/analytics.php:60
+msgid "Products that triggered the highest number of Upsells (products that offer the best chances of getting an Upsell)."
+msgstr ""
+
+#: includes/pro/admin/templates/analytics.php:211
+#: includes/pro/admin/templates/analytics.php:424
+msgid "Amount From"
+msgstr ""
+
+#: includes/pro/admin/templates/analytics.php:214
+#: includes/pro/admin/templates/analytics.php:427
+msgid "Amount To"
+msgstr ""
+
+#: includes/pro/admin/templates/analytics.php:217
+#: includes/pro/admin/templates/analytics.php:430
+msgid "Sales From"
+msgstr ""
+
+#: includes/pro/admin/templates/analytics.php:220
+#: includes/pro/admin/templates/analytics.php:433
+msgid "Sales To"
+msgstr ""
+
+#: includes/pro/admin/templates/analytics.php:223
+#: includes/pro/admin/templates/analytics.php:436
+msgid "Average Price From"
+msgstr ""
+
+#: includes/pro/admin/templates/analytics.php:226
+#: includes/pro/admin/templates/analytics.php:439
+msgid "Average Price To"
+msgstr ""
+
+#: includes/pro/admin/templates/analytics.php:240
+msgid "Analytics - Upsell Results"
+msgstr ""
+
+#: includes/pro/admin/templates/analytics.php:249
+#: includes/pro/admin/templates/analytics.php:462
+msgid "Average Price"
+msgstr ""
+
+#: includes/pro/admin/templates/analytics.php:251
+#: includes/pro/admin/templates/analytics.php:464
+msgid "Amount"
+msgstr ""
+
+#: includes/pro/admin/templates/analytics.php:264
+msgid "Top-10 Order Products"
+msgstr ""
+
+#: includes/pro/admin/templates/analytics.php:265
+msgid "Products that triggered the highest number and amount of sales for other products (related products purchased in the same order)."
+msgstr ""
+
+#: includes/pro/admin/templates/analytics.php:273
+msgid "Top-10 Related Products"
+msgstr ""
+
+#: includes/pro/admin/templates/analytics.php:274
+msgid "Products that resulted in the highest number and amount of sales (best products to use as Upsells)."
+msgstr ""
+
+#: includes/pro/admin/templates/analytics.php:290
+msgid "Order Products"
+msgstr ""
+
+#: includes/pro/admin/templates/analytics.php:299
+msgid "Order Product Categories"
+msgstr ""
+
+#: includes/pro/admin/templates/analytics.php:308
+msgid "Order Product Tags"
+msgstr ""
+
+#: includes/pro/admin/templates/analytics.php:366
+msgid "Related Product Categories"
+msgstr ""
+
+#: includes/pro/admin/templates/analytics.php:375
+msgid "Related Product Tags"
+msgstr ""
+
+#: includes/pro/admin/templates/analytics.php:453
+msgid "Analytics - Related Results"
+msgstr ""
+
+#: includes/pro/admin/templates/analytics.php:460
+msgid "Order Product"
+msgstr ""
+
+#: includes/pro/admin/templates/analytics.php:461
+msgid "Related Product"
+msgstr ""
+
+#: includes/pro/admin/templates/campaigns/tags.php:16
+msgid "Sorry, you are not allowed to view campaign-related tags."
+msgstr ""
+
+#: includes/pro/admin/templates/campaigns/tags.php:44
+msgid "Campaigns - UpsellMaster Tags"
+msgstr ""
+
+#: includes/pro/admin/templates/campaigns/tags.php:47
+msgid "Explore a comprehensive campaign-related product list and refine your search based on several filters. For instance, you can easily check which products are associated with specific UpsellMaster Tags."
+msgstr ""
+
+#: includes/pro/admin/templates/campaigns/tags.php:55
+msgid "Please choose the products to start tagging them."
+msgstr ""
+
+#: includes/pro/admin/templates/campaigns/tags.php:453
+msgid "Product Statuses"
+msgstr ""
+
+#: includes/pro/admin/templates/campaigns/tags.php:457
+msgid "Product Authors"
+msgstr ""
+
+#: includes/pro/admin/templates/campaigns/tags.php:526
+msgid "Product Status"
+msgstr ""
+
+#: includes/pro/admin/templates/license.php:63
+msgid "License Key"
+msgstr ""
+
+#: includes/pro/admin/templates/license.php:68
+msgid "Enter your License key"
+msgstr ""
+
+#. translators: %1$s: Text, %2$s: Plugin Purchase URL, %3$s: Plugin Name, %4$s:
+#. Text.
+
+#: includes/pro/admin/templates/license.php:75
+msgid "To receive updates and support, please enter a valid"
+msgstr ""
+
+#: includes/pro/admin/templates/license.php:78
+msgid "license key"
+msgstr ""
+
+#: includes/pro/admin/templates/license.php:89
+msgid "Deactivate License"
+msgstr ""
+
+#: includes/pro/admin/templates/license.php:91
+msgid "Licence Activated"
+msgstr ""
+
+#: includes/pro/admin/templates/license.php:92
+msgid "License valid until"
+msgstr ""
+
+#: includes/pro/admin/templates/license.php:94
+msgid "Please ensure the license is renewed in time to receive support and updates for this important plugin."
+msgstr ""
+
+#: includes/pro/admin/templates/license.php:101
+msgid "License has not been activated"
+msgstr ""
+
+#. translators: %1$s: Text, %2$s: Plugin Product URL, %3$s: Text, %4$s: Text.
+
+#: includes/pro/admin/templates/license.php:107
+msgid "Please get a valid license key"
+msgstr ""
+
+#: includes/pro/admin/templates/license.php:109
+msgid "here"
+msgstr ""
+
+#: includes/pro/admin/templates/license.php:110
+msgid "to receive support and updates"
+msgstr ""
+
+#: includes/pro/admin/templates/settings/popup-exit-intent.php:176
+msgid "Maximum # of Shows"
+msgstr ""
+
+#: includes/pro/admin/templates/settings/shortcodes.php:17
+#: includes/pro/admin/templates/settings/shortcodes.php:106
+msgid "Attributes"
+msgstr ""
+
+#: includes/pro/admin/templates/settings/shortcodes.php:18
+msgid "You can also insert the shortcode [psupsellmaster] to display upsell or visited products on any page. The shortcode can be used with the list of attributes below."
+msgstr ""
+
+#: includes/pro/admin/templates/settings/shortcodes.php:21
+msgid "type"
+msgstr ""
+
+#: includes/pro/admin/templates/settings/shortcodes.php:22
+msgid "Values: \"carousel\" or \"list\""
+msgstr ""
+
+#: includes/pro/admin/templates/settings/shortcodes.php:24
+msgid "Products can either be displayed as a carousel or as a (one-row) product list "
+msgstr ""
+
+#: includes/pro/admin/templates/settings/shortcodes.php:27
+msgid "show"
+msgstr ""
+
+#: includes/pro/admin/templates/settings/shortcodes.php:28
+msgid "Values: \"upsells\" or \"visits\""
+msgstr ""
+
+#: includes/pro/admin/templates/settings/shortcodes.php:30
+msgid "Defines what type of products to display: (1) upsell or (2) visited products"
+msgstr ""
+
+#: includes/pro/admin/templates/settings/shortcodes.php:33
+msgid "title"
+msgstr ""
+
+#: includes/pro/admin/templates/settings/shortcodes.php:34
+#: includes/pro/admin/templates/settings/shortcodes.php:40
+msgid "Values: string"
+msgstr ""
+
+#: includes/pro/admin/templates/settings/shortcodes.php:36
+msgid "Title to be displayed on top"
+msgstr ""
+
+#: includes/pro/admin/templates/settings/shortcodes.php:39
+msgid "cta_text"
+msgstr ""
+
+#: includes/pro/admin/templates/settings/shortcodes.php:42
+msgid "Call to action text to be displayed below the title"
+msgstr ""
+
+#: includes/pro/admin/templates/settings/shortcodes.php:45
+msgid "max_cols"
+msgstr ""
+
+#: includes/pro/admin/templates/settings/shortcodes.php:46
+#: includes/pro/admin/templates/settings/shortcodes.php:52
+#: includes/pro/admin/templates/settings/shortcodes.php:58
+#: includes/pro/admin/templates/settings/shortcodes.php:70
+#: includes/pro/admin/templates/settings/shortcodes.php:76
+msgid "Values: numeric"
+msgstr ""
+
+#: includes/pro/admin/templates/settings/shortcodes.php:48
+msgid "Defines the maximum number of columns to display"
+msgstr ""
+
+#: includes/pro/admin/templates/settings/shortcodes.php:51
+msgid "max_prod"
+msgstr ""
+
+#: includes/pro/admin/templates/settings/shortcodes.php:54
+msgid "Defines the maximum number of products to be displayed in the carousel"
+msgstr ""
+
+#: includes/pro/admin/templates/settings/shortcodes.php:57
+msgid "max_per_author"
+msgstr ""
+
+#: includes/pro/admin/templates/settings/shortcodes.php:58
+msgid "as Unlimited or"
+msgstr ""
+
+#: includes/pro/admin/templates/settings/shortcodes.php:60
+msgid "Defines the maximum number of products per author to be displayed"
+msgstr ""
+
+#: includes/pro/admin/templates/settings/shortcodes.php:63
+msgid "prices"
+msgstr ""
+
+#: includes/pro/admin/templates/settings/shortcodes.php:64
+msgid "Values: \"all-prices\" or \"highest-price-only\""
+msgstr ""
+
+#: includes/pro/admin/templates/settings/shortcodes.php:66
+msgid "Defines the prices options to be displayed on Add To Cart button"
+msgstr ""
+
+#: includes/pro/admin/templates/settings/shortcodes.php:69
+msgid "title_length"
+msgstr ""
+
+#: includes/pro/admin/templates/settings/shortcodes.php:72
+msgid "Defines the maximum number of characters to be displayed in the product title"
+msgstr ""
+
+#: includes/pro/admin/templates/settings/shortcodes.php:75
+msgid "desc_limit"
+msgstr ""
+
+#: includes/pro/admin/templates/settings/shortcodes.php:78
+msgid "Defines the maximum number of characters to be displayed in the product description"
+msgstr ""
+
+#: includes/pro/admin/templates/settings/shortcodes.php:82
+#: includes/pro/admin/templates/settings/shortcodes.php:139
+msgid "Examples"
+msgstr ""
+
+#: includes/pro/admin/templates/settings/shortcodes.php:85
+msgid "Great Products!"
+msgstr ""
+
+#: includes/pro/admin/templates/settings/shortcodes.php:85
+msgid "Similar customers where also interested in..."
+msgstr ""
+
+#: includes/pro/admin/templates/settings/shortcodes.php:88
+msgid "Related Products!"
+msgstr ""
+
+#: includes/pro/admin/templates/settings/shortcodes.php:88
+msgid "You have recently viewed..."
+msgstr ""
+
+#: includes/pro/admin/templates/settings/shortcodes.php:97
+msgid "shortcode"
+msgstr ""
+
+#: includes/pro/admin/templates/settings/shortcodes.php:107
+msgid "Use the [psupsellmaster_campaign_banners] shortcode to display campaign banner images and texts. Only active and eligible campaigns are rendered. The shortcode can be used with the list of attributes below."
+msgstr ""
+
+#: includes/pro/admin/templates/settings/shortcodes.php:110
+msgid "campaign_id"
+msgstr ""
+
+#: includes/pro/admin/templates/settings/shortcodes.php:111
+msgid "Values: numeric ( 1, 2, 3 ... )."
+msgstr ""
+
+#: includes/pro/admin/templates/settings/shortcodes.php:112
+msgid "Default empty - it will render the first active and eligible campaign (with the highest priority)."
+msgstr ""
+
+#: includes/pro/admin/templates/settings/shortcodes.php:114
+msgid "The campaign ID - only active and eligible campaigns are rendered."
+msgstr ""
+
+#: includes/pro/admin/templates/settings/shortcodes.php:117
+msgid "source"
+msgstr ""
+
+#: includes/pro/admin/templates/settings/shortcodes.php:118
+msgid "Values: \"locations\" or \"product_page\"."
+msgstr ""
+
+#: includes/pro/admin/templates/settings/shortcodes.php:119
+msgid "Default \"locations\"."
+msgstr ""
+
+#: includes/pro/admin/templates/settings/shortcodes.php:121
+msgid "The source where the data will be retrieved from within the campaign - either from Product Page or Locations (Display Options)."
+msgstr ""
+
+#: includes/pro/admin/templates/settings/shortcodes.php:124
+msgid "location"
+msgstr ""
+
+#: includes/pro/admin/templates/settings/shortcodes.php:125
+msgid "Values: \"all\", \"checkout\", \"product\", \"purchase_receipt\", \"widget\", \"shortcode\", \"block\", \"popup_add_to_cart\", or \"popup_exit_intent\"."
+msgstr ""
+
+#: includes/pro/admin/templates/settings/shortcodes.php:126
+#: includes/pro/admin/templates/settings/shortcodes.php:133
+msgid "Default \"all\"."
+msgstr ""
+
+#: includes/pro/admin/templates/settings/shortcodes.php:128
+msgid "The \"source\" attribute must be \"locations\". The location where the data will be retrieved from within the campaign - banner images and texts are stored per location. Please note some campaigns might not use all locations."
+msgstr ""
+
+#: includes/pro/admin/templates/settings/shortcodes.php:131
+msgid "display"
+msgstr ""
+
+#: includes/pro/admin/templates/settings/shortcodes.php:132
+msgid "Values: \"all\", \"images\", or \"texts\"."
+msgstr ""
+
+#: includes/pro/admin/templates/settings/shortcodes.php:135
+msgid "The banner data that will be rendered - either images or texts, if not \"all\"."
+msgstr ""
+
+#. translators: 1: Widgets Page Link
+
+#: includes/pro/admin/templates/settings/widget.php:21
+msgid "Please also see the widget %s which you can place in any sidebar"
+msgstr ""
+
+#: includes/pro/admin/templates/settings/widget.php:32
+msgid "widget"
+msgstr ""
+
+#: includes/pro/class-psupsellmaster-licensing.php:165
+#: includes/pro/class-psupsellmaster-licensing.php:234
+msgid "An error occurred, please try again."
+msgstr ""
+
+#. translators: 1: the plugin name, 2: settings link start.
+
+#: includes/pro/class-psupsellmaster-licensing.php:369
+msgid "%1$s - your site has moved to a new domain. Please <a href=\"%2$s\">reactivate your license key</a>."
+msgstr ""
+
+#. translators: 1: Plugin Name, 2: Plugin support page URL
+
+#: includes/pro/class-psupsellmaster-licensing.php:394
+msgid "Your have reached your activation limit for \"%1$s\"! <br/> Please, purchase a new license or contact <a target=\"_blank\" href=\"%2$s\">support</a>."
+msgstr ""
+
+#: includes/pro/class-psupsellmaster-licensing.php:407
+msgid "Your license is not active for this URL."
+msgstr ""
+
+#. translators: 1: Plugin Name, 2: Plugin license page URL
+
+#: includes/pro/class-psupsellmaster-licensing.php:415
+msgid "Your license key provided for \"%1$s\" is inactive! <br/> Please, go to <a href=\"%2$s\">plugin's License page</a> and activate it."
+msgstr ""
+
+#. translators: 1: Plugin Name, 2: Plugin license page URL
+
+#: includes/pro/class-psupsellmaster-licensing.php:428
+msgid "Your license key provided for \"%1$s\" is invalid! <br/> Please go to <a href=\"%2$s\">plugin's License page</a> for the licencing instructions."
+msgstr ""
+
+#. translators: 1: Plugin Name, 2: Plugin license page URL
+
+#: includes/pro/class-psupsellmaster-licensing.php:442
+msgid "To use \"%1$s\" you have to provide a valid license key! <br/> Please go to <a href=\"%2$s\">plugin's License page</a> to enter your license."
+msgstr ""
+
+#. translators: 1: Plugin Name, 2: Expiry date, 3: Plugin purchase history URL
+
+#: includes/pro/class-psupsellmaster-licensing.php:464
+msgid "Your license key provided for \"%1$s\" expires soon! It expires on %2$s. <a href=\"%3$s\" target=\"_blank\">Renew your license key</a>."
+msgstr ""
+
+#. translators: 1: Plugin Name
+
+#: includes/pro/class-psupsellmaster-licensing.php:476
+msgid "This appears to be an invalid license key for \"%s.\""
+msgstr ""
+
+#. translators: 1: Plugin Name
+
+#: includes/pro/class-psupsellmaster-licensing.php:483
+msgid "Your license key has been disabled for \"%s\"."
+msgstr ""
+
+#. translators: 1: Expiry date, 2: Plugin Name, 3: Plugin product URL
+
+#: includes/pro/class-psupsellmaster-licensing.php:491
+msgid "Your license key expired on %1$s for \"%2$s\". Please Purchase a new license to receive further updates from <a target=\"_blank\" href=\"%3$s\">here</a>."
+msgstr ""
+
+#. translators: the plugin name.
+
+#: includes/pro/class-psupsellmaster-updater.php:315
+msgid "There is a new version of %1$s available."
+msgstr ""
+
+#: includes/pro/class-psupsellmaster-updater.php:320
+msgid "Contact your network administrator to install the update."
+msgstr ""
+
+#. translators: 1. opening anchor tag, do not translate 2. the new plugin
+#. version 3. closing anchor tag, do not translate.
+
+#: includes/pro/class-psupsellmaster-updater.php:325
+msgid "%1$sView version %2$s details%3$s."
+msgstr ""
+
+#. translators: 1: changelog link start, 2: new version,3: changelog link end,
+#. 4: update link start,5: update link end.
+
+#: includes/pro/class-psupsellmaster-updater.php:334
+msgid "%1$sView version %2$s details%3$s or %4$supdate now%5$s."
+msgstr ""
+
+#: includes/pro/class-psupsellmaster-updater.php:346
+msgid "Update now."
+msgstr ""
+
+#: includes/pro/class-psupsellmaster-updater.php:575
+msgid "You do not have permission to install plugin updates"
+msgstr ""
+
+#: includes/pro/class-psupsellmaster-updater.php:575
+msgid "Error"
+msgstr ""
+
+#: includes/pro/class-psupsellmaster-widget.php:31
+msgid "Widget displays a list of suggested upsells based on products recently visited or added to the cart."
+msgstr ""
+
+#: includes/pro/class-psupsellmaster-widget.php:138
+msgid "Display"
+msgstr ""
+
+#: includes/pro/class-psupsellmaster-widget.php:156
+msgid "Call To Action Text"
+msgstr ""
+
+#: includes/pro/class-psupsellmaster-widget.php:161
+msgid "Max Products"
+msgstr ""
+
+#: includes/pro/class-psupsellmaster-widget.php:169
+msgid "Number of products to be displayed"
+msgstr ""
+
+#: includes/pro/class-psupsellmaster-widget.php:178
+msgid "Number of products per author to be displayed"
+msgstr ""
+
+#: includes/pro/class-psupsellmaster-widget.php:181
+msgid "Add to Cart Button:"
+msgstr ""
+
+#: includes/pro/class-psupsellmaster-widget.php:188
+msgid "Description Length:"
+msgstr ""
+
+#: includes/pro/class-psupsellmaster-widget.php:192
+msgid "Enable Product Pages:"
+msgstr ""
+
+#: includes/pro/class-psupsellmaster-widget.php:195
+msgid "No"
+msgstr ""
+
+#: includes/pro/functions-settings.php:61
+msgid "Hey, wait a minute!"
+msgstr ""
+
+#: includes/pro/functions-settings.php:62
+msgid "Haven't you forgotten something?"
+msgstr ""
+
+#. translators: %1$s: taxonomy label (plural).
+
+#: includes/pro/functions.php:146
+msgid "This criteria gives priority to products that have a higher number of shared %1$s between them."
+msgstr ""
+
+#: includes/pro/functions.php:155
+msgid "This criteria gives priority to products from the same vendor."
+msgstr ""
+
+#: includes/pro/functions.php:156
+msgid "This criteria gives priority to the best-selling upsell products."
+msgstr ""
+
+#: includes/pro/functions.php:157
+msgid "This criteria gives priority to the best-selling related products (those sold together in the same order)."
+msgstr ""
+#. Plugin Name of the plugin/theme
+msgid "UpsellMaster"
+msgstr ""
+
+#. Plugin URI of the plugin/theme
+msgid "https://www.pluginsandsnippets.com/downloads/upsellmaster/"
+msgstr ""
+
+#. Description of the plugin/theme
+msgid "UpsellMaster automatically calculates the best-suited Upsells for your store products based on your individual and tailored Upsell algorithm in one click. In addition, UpsellMaster allows you to easily bump up customer orders by running powerful Promotion Campaigns on the Product Page, Add to Cart Popup, and Checkout Page. All Upsell Campaigns are tracked and sales results are measured to allow for the optimization of your campaigns. The Plugin also offers to display Recently Viewed Products and to easily switch between promoting Upsells or Recently Viewed Products. Take your Upselling to the next level and check out the PRO Version for even more powerful features for a Plugin that typically pays for itself!"
+msgstr ""
+
+#. Author of the plugin/theme
+msgid "Plugins & Snippets"
+msgstr ""
+
+#. Author URI of the plugin/theme
+msgid "https://pluginsandsnippets.com/"
+msgstr ""

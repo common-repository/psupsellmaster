@@ -1,0 +1,204 @@
+/* General.
+-------------------------------------------------------------- */
+
+#psupsellmaster-modal-feedback * {
+	box-sizing: border-box;
+}
+
+#psupsellmaster-modal-feedback .psupsellmaster-modal-body {
+	display: flex;
+	flex-direction: column;
+	gap: 15px;
+}
+
+#psupsellmaster-modal-feedback .psupsellmaster-section {
+	display: flex;
+	flex-direction: column;
+	gap: 15px;
+}
+
+#psupsellmaster-modal-feedback .psupsellmaster-form-input {
+	display: flex;
+	flex-direction: column;
+	gap: 5px;
+}
+
+#psupsellmaster-modal-feedback .psupsellmaster-validation {
+	color: #ff0000;
+	display: none;
+}
+
+#psupsellmaster-modal-feedback .psupsellmaster-section.psupsellmaster-invalid > .psupsellmaster-validation {
+	display: block;
+}
+
+#psupsellmaster-modal-feedback .psupsellmaster-form-input.psupsellmaster-invalid > .psupsellmaster-validation {
+	display: block;
+}
+
+#psupsellmaster-modal-feedback .psupsellmaster-paragraph {
+	margin: 0;
+}
+
+#psupsellmaster-modal-feedback .psupsellmaster-label {
+	cursor: pointer;
+}
+
+#psupsellmaster-modal-feedback .psupsellmaster-hidden {
+	display: none;
+}
+
+#psupsellmaster-modal-feedback .psupsellmaster-heading {
+	margin: 0;
+	text-transform: uppercase;
+}
+
+#psupsellmaster-modal-feedback .psupsellmaster-field:not(.psupsellmaster-checkbox):not(.psupsellmaster-radio) {
+	width: 100%;
+}
+
+
+/* Buttons.
+-------------------------------------------------------------- */
+
+#psupsellmaster-modal-feedback .psupsellmaster-buttons {
+	display: flex;
+	flex-direction: column;
+	flex-wrap: wrap;
+	gap: 5px;
+	justify-content: space-between;
+	width: 100%;
+}
+
+#psupsellmaster-modal-feedback .psupsellmaster-buttons .psupsellmaster-button {
+	margin: 0;
+	width: 100%;
+}
+
+#psupsellmaster-modal-feedback .psupsellmaster-buttons .psupsellmaster-button-submit {
+	margin-left: auto;
+}
+
+
+/* Lists.
+-------------------------------------------------------------- */
+
+#psupsellmaster-modal-feedback .psupsellmaster-list {
+	display: flex;
+	flex-direction: column;
+	gap: 15px;
+	margin: 0;
+}
+
+#psupsellmaster-modal-feedback .psupsellmaster-list .psupsellmaster-item {
+	display: flex;
+	flex-direction: column;
+	gap: 5px;
+	margin: 0;
+}
+
+#psupsellmaster-modal-feedback .psupsellmaster-list .psupsellmaster-item .psupsellmaster-label {
+	align-items: center;
+	align-self: flex-start;
+	display: flex;
+	flex-wrap: wrap;
+	gap: 5px;
+}
+
+
+/* Tables.
+-------------------------------------------------------------- */
+
+#psupsellmaster-modal-feedback .psupsellmaster-table {
+	display: flex;
+	flex-direction: column;
+	gap: 15px;
+}
+
+#psupsellmaster-modal-feedback .psupsellmaster-table-row {
+	display: flex;
+	flex-direction: column;
+	gap: 15px;
+}
+
+#psupsellmaster-modal-feedback .psupsellmaster-table-col {
+	flex: 1 1 50%;
+}
+
+#psupsellmaster-modal-feedback .psupsellmaster-field {
+	margin: 0;
+}
+
+
+/* Media Query. */
+
+/* // Small devices (landscape phones, 576px and up). */
+@media (min-width: 576px) {}
+
+/* // Medium devices (tablets, 768px and up). */
+@media (min-width: 768px) {
+
+	/* Version 2.
+	-------------------------------------------------------------- */
+
+	#psupsellmaster-modal-feedback .psupsellmaster-list.psupsellmaster-locations {
+		flex-direction: row;
+		flex-wrap: wrap;
+	}
+
+	#psupsellmaster-modal-feedback .psupsellmaster-list.psupsellmaster-locations .psupsellmaster-item {
+		width: calc( 100% / 2 - 15px / 2 * 1 );
+	}
+
+}
+
+/* // Large devices (desktops, 992px and up). */
+@media (min-width: 992px) {
+
+	/* Buttons.
+	-------------------------------------------------------------- */
+
+	#psupsellmaster-modal-feedback .psupsellmaster-buttons {
+		flex-direction: row;
+	}
+
+	#psupsellmaster-modal-feedback .psupsellmaster-buttons .psupsellmaster-button {
+		width: auto;
+	}
+
+
+	/* Tables.
+	-------------------------------------------------------------- */
+
+	#psupsellmaster-modal-feedback .psupsellmaster-table-row {
+		flex-direction: row;
+	}
+
+
+	/* Version 2.
+	-------------------------------------------------------------- */
+
+	#psupsellmaster-modal-feedback .psupsellmaster-list.psupsellmaster-locations {
+		display: flex;
+		flex-direction: row;
+		gap: 15px;
+		margin: 0;
+	}
+
+	#psupsellmaster-modal-feedback .psupsellmaster-list.psupsellmaster-locations .psupsellmaster-item {
+		width: calc( 100% / 3 - 15px / 2 * 2 );
+	}
+
+}
+
+/* // Extra large devices (large desktops, 1200px and up). */
+@media (min-width: 1200px) {
+
+	/* Version 2.
+	-------------------------------------------------------------- */
+
+	#psupsellmaster-modal-feedback .psupsellmaster-list.psupsellmaster-locations .psupsellmaster-item {
+		width: calc( 100% / 4 - 15px / 4 * 3 );
+	}
+
+}

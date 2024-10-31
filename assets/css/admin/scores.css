@@ -1,0 +1,103 @@
+.psupsellmaster_upsell_details {
+	font-family: sans-serif !important;
+}
+
+.psupsellmaster_upsell_details li span:first-child {
+	width: 25% !important;
+	vertical-align: top;
+	margin-right: 10px;
+}
+
+.psupsellmaster_upsell_details ul li p {
+	padding: 10px;
+}
+
+.psupsellmaster-tooltip-upsell {
+	display: block;
+	position: relative;
+	max-width: 500px;
+	min-height: 1rem;
+	width: 100%;
+}
+
+.psupsellmaster-tooltip-upsell .dashicons-dismiss {
+	color: #ff0000;
+	font-weight: bold;
+	cursor: pointer;
+	border: none;
+}
+
+.psupsellmaster-tooltip-upsell .spinner.is-active {
+	float: left;
+	margin: 0;
+}
+
+.psupsellmaster-tooltip-upsell .psupsellmaster-close-scores-details,
+.psupsellmaster-tooltip-upsell .psupsellmaster-edit-tooltip-upsell {
+	position: absolute;
+	right: -8px;
+	top: -12px;
+}
+
+.psupsellmaster-tooltip-upsell .psupsellmaster-close-scores-details i,
+.psupsellmaster-tooltip-upsell .psupsellmaster-edit-tooltip-upsell i {
+	font-size:26px;
+}
+
+.psupsellmaster-tooltip-upsell .psupsellmaster-edit-tooltip-upsell {
+	right:20px;
+}
+
+.psupsellmaster-tooltip-upsell a {
+	text-decoration: none;
+	border: none;
+}
+
+.psupsellmaster-tooltip-upsell ul,
+.psupsellmaster-tooltip-upsell li {
+	list-style:none;
+	padding:0px;
+}
+
+.psupsellmaster-tooltip-upsell ul li {
+	border: 1px solid #EEEE;
+	padding: 0px 10px;
+	margin-bottom: 0;
+	border-top: 0;
+	margin: 0px;
+	padding: 10px;
+	display: block;
+	width: calc(100% - 20px);
+	background-color: #FFF;
+}
+
+.psupsellmaster-tooltip-upsell ul li:first-child {
+	border-top: 1px solid #EEEE;
+}
+
+.psupsellmaster-tooltip-upsell ul li b,
+.psupsellmaster-tooltip-upsell ul li a,
+.psupsellmaster-tooltip-upsell ul li p,
+.psupsellmaster-tooltip-upsell ul li span {
+	font-size: 12px;
+	margin: 0;
+	padding: 0;
+}
+
+.psupsellmaster-tooltip-upsell ul li b,
+.psupsellmaster-tooltip-upsell ul li span {
+	display: inline-block;
+}
+
+.psupsellmaster-tooltip-upsell ul li b {
+	width: 25%;
+	vertical-align:top;
+}
+
+.psupsellmaster-tooltip-upsell ul li span {
+	width: 74%;
+}
+
+.psupsellmaster-tooltip-upsell .psupsellmaster-scores-criteria-details p {
+	padding:  5px 0;
+}
